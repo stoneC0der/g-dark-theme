@@ -7,6 +7,22 @@ You can help by reporting issues [here](https://github.com/stonec0der/g-dark-the
   - [Installation](#installation)
   - [Activate theme](#activate-theme)
 
+#### PHP
+![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/php.png)
+
+#### HMTL (Blade Template)
+![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/html.blade.png)
+
+#### CSS
+![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/css.png)
+
+#### JS
+![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/js.png)
+
+#### JSON
+![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/json.png)
+
+
 ## Getting started
 
 You can install this theme by downloading the package on [Github](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
