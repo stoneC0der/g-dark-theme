@@ -6,7 +6,9 @@
 
 
 
-My first vscode. You can help by reporting issues [here](https://github.com/stonec0der/g-dark-theme/issues).
+# My first vscode Theme. You can help by reporting issues [here]
+
+(<https://github.com/stonec0der/g-dark-theme/issues).>
 
 - [Getting started](#getting-started)
   - [Installation](#installation)

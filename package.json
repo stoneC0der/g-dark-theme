@@ -1,0 +1,32 @@
+{
+    "name": "g-dark-theme",
+    "publisher": "StoneC0der",
+    "displayName": "G-dark",
+    "description": "Minimalistic vscode theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.30.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "G-dark-default",
+                "uiTheme": "vs-dark",
+                "path": "./themes/G-dark.theme-color-theme.json"
+            },
+            {
+                "label": "G-dark-light",
+                "uiTheme": "vs",
+                "path": "./themes/G-dark.theme.light-color-theme.json"
+            },
+            {
+                "label": "G-dark-black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/G-dark.theme.contrast-theme.json"
+            }
+        ]
+    }
+}
