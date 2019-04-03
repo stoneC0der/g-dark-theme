@@ -1,15 +1,35 @@
 {
     "name": "g-dark-theme",
-    "publisher": "StoneC0der",
     "displayName": "G-dark",
-    "description": "Minimalistic vscode theme.",
+    "description": "Minimalistic Blue Whale vscode theme.",
     "version": "0.0.1",
+    "publisher" : "StoneC0der",
+    "icon" : "images/g-darklogo.png",
     "engines": {
         "vscode": "^1.30.0"
     },
     "categories": [
-        "Themes"
+        "Themes",
+        "Other"
     ],
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/stoneC0der/g-dark-theme"
+    },
+    "keywords": [
+        "atom",
+        "dark",
+        "blue Whale",
+        "vscode",
+        "material",
+        "Midnight"
+    ],
+
+    "galleryBanner": {
+        "color": "#003248",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
