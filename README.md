@@ -40,7 +40,7 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
 2. Search for `g-dark`
 3. Click **Install** to install it.
 4. A drop down list will appear.
-5. Select on of **g-dark-default** theme variant to preview
+5. Select on of **g-dark-default** theme variants to preview
 6. Press Enter to activate the theme
 
 ## Activate theme
