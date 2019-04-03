@@ -37,11 +37,11 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
  #### From Vscode
  
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `blackgold`
+2. Search for `g-dark`
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
-5. Code > Preferences > Color Theme > **blackgold**
-6. Optional: Use the recommended settings below for best experience
+4. A drop down list will appear.
+5. Select on of **g-dark-default** theme variant to preview
+6. Press Enter to activate the theme
 
 ## Activate theme
 
@@ -51,7 +51,7 @@ Launch *Quick Open*:
   - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
   - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
-Type `theme`, choose `Preferences: Color Theme`, and select one of the Material Theme variants from the list. After activation, the theme will set the correct icon theme based on your active theme variant.
+Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Theme variants from the list.
 
 
 ## Happy coding
