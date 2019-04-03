@@ -1,9 +1,7 @@
 # G-dark Theme for Vscode by Stonec0der. 
 
 
-You can help by reporting issues [here]
-
-(<https://github.com/stonec0der/g-dark-theme/issues.>)
+You can help by reporting issues [here](<https://github.com/stonec0der/g-dark-theme/issues.>)
 
 - [Getting started](#getting-started)
   - [Installation](#installation)
@@ -11,7 +9,7 @@ You can help by reporting issues [here]
 
 ## Getting started
 
-You can install this theme by downloading the package on [Github](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme).
+You can install this theme by downloading the package on [Github](https://marketplace.visualstudio.com/items?itemName=Stonec0der.vsc-g-dark-theme).
 
 ### Installation
 
@@ -23,8 +21,18 @@ Launch *Quick Open*:
 Paste the following command and press `Enter`:
 
 ```shell
-ext install material theme
+ext install g-dark theme
 ```
+
+#### Packaged VSIX Extension
+
+[Download the latest .vsix release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme/latest/vspackage) file from the marketplace and install it from the command line
+
+```shell
+code --install-extension vsc-g-dark-theme-*.*.*.vsix
+```
+
+or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
     
  #### From Vscode
  
@@ -50,4 +58,4 @@ Type `theme`, choose `Preferences: Color Theme`, and select one of the Material 
 
 
 
-If you do like this theme,Give a [Github Star](https://github.com/stonec0der/g-dark-theme/issues). ✋ and Nice Rating It helps to other users .Thanks so much!
+If you do like this theme,Give a [Github Star](https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
