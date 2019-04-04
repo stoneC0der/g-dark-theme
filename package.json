@@ -1,52 +1,50 @@
 {
-    "name": "g-dark-theme",
-    "displayName": "G-dark",
-    "description": "Minimalistic Blue Whale vscode theme.",
-    "version": "0.0.1",
-    "publisher" : "StoneC0der",
-    "icon" : "images/g-darklogo.png",
-    "engines": {
-        "vscode": "^1.30.0"
-    },
-    "categories": [
-        "Themes",
-        "Other"
-    ],
-
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/stoneC0der/g-dark-theme"
-    },
-    "keywords": [
-        "atom",
-        "dark",
-        "blue Whale",
-        "vscode",
-        "material",
-        "Midnight"
-    ],
-
-    "galleryBanner": {
-        "color": "#003248",
-        "theme": "dark"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "G-dark-default",
-                "uiTheme": "vs-dark",
-                "path": "./themes/G-dark.theme-color-theme.json"
-            },
-            {
-                "label": "G-dark-light",
-                "uiTheme": "vs",
-                "path": "./themes/G-dark.theme.light-color-theme.json"
-            },
-            {
-                "label": "G-dark-black",
-                "uiTheme": "vs-dark",
-                "path": "./themes/G-dark.theme.contrast-theme.json"
-            }
-        ]
-    }
+	"name": "g-dark-theme",
+	"displayName": "G-dark",
+	"description": "Minimalistic Blue Whale vscode theme.",
+	"version": "0.0.3",
+	"publisher": "StoneC0der",
+	"icon": "images/g-darklogo.png",
+	"engines": {
+		"vscode": "^1.30.0"
+	},
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stoneC0der/g-dark-theme"
+	},
+	"keywords": [
+		"atom",
+		"dark",
+		"blue Whale",
+		"vscode",
+		"material",
+		"Midnight"
+	],
+	"galleryBanner": {
+		"color": "#003248",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "G-dark-default",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark.theme-color-theme.json"
+			},
+			{
+				"label": "G-dark-light",
+				"uiTheme": "vs",
+				"path": "./themes/G-dark.theme.light-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "fb46a449-da21-4390-bffb-2641caa8969a",
+		"publisherDisplayName": "stonecoder",
+		"publisherId": "187efd80-7e14-4873-a62b-129be3a9858f"
+	}
 }
