@@ -1,4 +1,6 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+images/**
 vsc-extension-quickstart.md
+G-dark.theme.light-color-theme.json

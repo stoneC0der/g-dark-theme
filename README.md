@@ -8,23 +8,23 @@ You can help by reporting issues [here](https://github.com/stonec0der/g-dark-the
 
 PHP
 
-![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/php.png)
+![php](https://user-images.githubusercontent.com/11365636/55525235-d96ac800-567f-11e9-8dd8-16f80d514413.png)
 
 HMTL (Blade Template)
 
-![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/html.blade.png)
+![html blade](https://user-images.githubusercontent.com/11365636/55525233-d8d23180-567f-11e9-9910-8de2ffc89bfe.png)
 
 CSS
 
-![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/css.png)
+![css](https://user-images.githubusercontent.com/11365636/55525236-d96ac800-567f-11e9-947b-5a5a9197959c.png)
 
 JS
 
-![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/js.png)
+![js](https://user-images.githubusercontent.com/11365636/55525232-d8d23180-567f-11e9-8f21-df0ae812fdab.png)
 
 JSON
 
-![Preview](https://github.com/stoneC0der/g-dark-theme/blob/master/images/json.png)
+![json](https://user-images.githubusercontent.com/11365636/55525234-d8d23180-567f-11e9-8459-765bf757a808.png)
 
 ## Getting started
 

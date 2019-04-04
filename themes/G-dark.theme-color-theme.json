@@ -866,7 +866,7 @@
     "menu.selectionForeground": "#80CBC4",
     "menu.selectionBorder": "#00000030",
     "menu.separatorBackground": "#F0F8FE",
-    "menubar.selectionBackground": "#00000030",
+    "menubar.selectionBackground": "#a4bdbcb5",
     "menubar.selectionForeground": "#80CBC4",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#F0F8FE",
