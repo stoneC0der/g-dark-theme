@@ -555,7 +555,7 @@
         "text.html.markdown meta.dummy.line-break"
       ],
       "settings": {
-        "foreground": ""
+        "foreground": "#303C41"
       }
     },
     {
@@ -621,8 +621,8 @@
         "markup.strike"
       ],
       "settings": {
-        "fontStyle": "strike",
-        "foreground": ""
+        "fontStyle": "bold",
+        "foreground": "#303C41"
       }
     },
     {
