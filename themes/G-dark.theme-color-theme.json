@@ -1,5 +1,5 @@
 {
-  "name": "G-dark-Theme",
+  "name": "G Dark",
   "type": "dark",
   "tokenColors": [
     {
@@ -16,8 +16,18 @@
         "string.quoted.docstring"
       ],
       "settings": {
-        "fontStyle": "italic",
-        "foreground": "#000000"
+        // "fontStyle": "italic bold",
+        "foreground": "#101010"
+      }
+    },
+    {
+      "name": "Docstring",
+      "scope": [
+        "punctuation.definition.comment",
+        "string.quoted.docstring"
+      ],
+      "settings": {
+        "fontStyle": "italic bold",
       }
     },
     {
@@ -28,6 +38,7 @@
       ],
       "settings": {
         "foreground": "#8DB0BB",
+        "fontStyle": "bold"
       }
     },
     {
@@ -45,7 +56,8 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#ffffff",
+        "fontStyle": "bold"
       }
     },
     {
@@ -91,7 +103,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#C792EA",
       }
     },
     {
@@ -151,11 +163,22 @@
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
         "punctuation.definition.tag.html",
+        // "punctuation.definition.tag.begin.html",
+        // "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#ff6f69"
+      }
+    },
+    {
+      "name": "Open-End Tag",
+      "scope": [
         "punctuation.definition.tag.begin.html",
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#ff6f69"
+        "foreground": "#ff69b4",
+        "fontStyle": "bold"
       }
     },
     {
@@ -176,7 +199,7 @@
 				"entity.name.function",
 			],
 			"settings": {
-				"fontStyle": "",
+				"fontStyle": "bold",
 				"foreground": "#51CEFF"
 			}
     },
@@ -211,7 +234,7 @@
     {
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "constant.numeric",
+        // "constant.numeric",
         "constant.language",
         "support.constant",
         "constant.character",
@@ -221,6 +244,17 @@
       ],
       "settings": {
         "foreground": "#F78C6C"
+      }
+    },
+    {
+      "name": "Number",
+      "scope": [
+        "constant.numeric",
+        "constant.escape",
+        "keyword.other.unit",
+      ],
+      "settings": {
+        "foreground": "#c97807"
       }
     },
     {
@@ -245,7 +279,6 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        // "fontStyle": "normal",
         "foreground": "#88d8b0"
       }
     },
@@ -254,7 +287,6 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.class",
         "support.orther.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
@@ -262,7 +294,18 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#FFCB6B",
+        // "fontStyle": "bold"
+      }
+    },
+    {
+      "name": "Support",
+      "scope": [
+        "support.class",
+      ],
+      "settings": {
+        "foreground": "#ef981f",
+        "fontStyle": "bold"
       }
     },
     {
@@ -351,10 +394,12 @@
     {
       "name": "CSS ID's",
       "scope": [
-        "source.sass keyword.control"
+        "source.sass keyword.control",
+        "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#2eb7fb",
+        // "fontStyle": "bold"
       }
     },
     {
@@ -390,7 +435,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#f0650e"
       }
     },
     {
@@ -399,7 +444,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#89DDFF"
+        "foreground": "#20d5e2"
       }
     },
     {
@@ -407,10 +452,10 @@
       "scope": [
         "*url*",
         "*link*",
-        "*uri*"
+        "*uri*",
       ],
       "settings": {
-        "fontStyle": "underline"
+        "fontStyle": "italic underline",
       }
     },
     {
