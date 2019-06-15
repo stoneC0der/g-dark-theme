@@ -1,8 +1,8 @@
 {
-	"name": "g-dark-theme",
-	"displayName": "G-dark-Theme",
+	"name": "g-theme",
+	"displayName": "G Theme",
 	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "0.0.5",
+	"version": "0.0.7",
 	"publisher": "StoneC0der",
 	"icon": "",
 	"engines": {
@@ -22,7 +22,10 @@
 		"blue Whale",
 		"vscode",
 		"material",
-		"Midnight"
+    "Midnight",
+    "Light",
+    "High Contrast",
+    "bold"
 	],
 	"galleryBanner": {
 		"color": "#003248",
@@ -31,15 +34,20 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "G-dark-default",
+				"label": "G Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark.theme-color-theme.json"
-			},
-			{
-				"label": "G-dark-light",
+      },
+      {
+        "label": "G Light",
 				"uiTheme": "vs",
-				"path": "./themes/G-dark.theme.light-color-theme.json"
-			}
+        "path": "./themes/G-light.theme-color-theme.json"
+      },
+      {
+        "label": "G Hight Contrast",
+				"uiTheme": "hc-black",
+        "path": "./themes/G-high-contrast.theme-color-theme.json"
+      }
 		]
 	},
 	"__metadata": {
