@@ -9,22 +9,33 @@ You can help by reporting issues [here](https://github.com/stonec0der/g-dark-the
 PHP
 
 ![php](https://user-images.githubusercontent.com/11365636/55525235-d96ac800-567f-11e9-8dd8-16f80d514413.png)
+![H-php](https://user-images.githubusercontent.com/11365636/59718876-9a71fa80-920a-11e9-809c-22bc9c933bbe.png)
+![L-php](https://user-images.githubusercontent.com/11365636/59718896-a52c8f80-920a-11e9-9928-796bcb424754.png)
+
 
 HMTL (Blade Template)
 
 ![html blade](https://user-images.githubusercontent.com/11365636/55525233-d8d23180-567f-11e9-9910-8de2ffc89bfe.png)
+![H-html](https://user-images.githubusercontent.com/11365636/59718885-9e058180-920a-11e9-866c-55cdd659f76c.png)
+![L-html](https://user-images.githubusercontent.com/11365636/59718892-a1007200-920a-11e9-88c2-301a7d9021ae.png)
 
 CSS
 
 ![css](https://user-images.githubusercontent.com/11365636/55525236-d96ac800-567f-11e9-947b-5a5a9197959c.png)
 
+![L-css](https://user-images.githubusercontent.com/11365636/59718900-a6f65300-920a-11e9-9ef0-c9ac1d590fb6.png)
+
 JS
 
 ![js](https://user-images.githubusercontent.com/11365636/55525232-d8d23180-567f-11e9-8f21-df0ae812fdab.png)
 
+![L-js](https://user-images.githubusercontent.com/11365636/59718894-a2ca3580-920a-11e9-9d72-d9bbe7983fe4.png)
+
 JSON
 
 ![json](https://user-images.githubusercontent.com/11365636/55525234-d8d23180-567f-11e9-8459-765bf757a808.png)
+
+![Screenshot 2019-06-18 at 8 53 44 PM](https://user-images.githubusercontent.com/11365636/59719130-33087a80-920b-11e9-9d99-d0934aefee8c.png)
 
 ## Getting started
 
@@ -57,6 +68,17 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 ``` -->
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
+
+### Custom Setting
+
+To get the most out of this them please add the following configuration:
+
+1. Download and install Hasling fonts
+  https://github.com/i-tu/Hasklig
+2. Enable ligature in vscode setting or in setting.json
+˝
+3. Add the following to setting.json
+    "editor.renderWhitespace": "boundary",
 
 ### From Vscode
 
