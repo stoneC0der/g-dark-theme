@@ -73,9 +73,9 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
 
 To get the most out of this them please add the following configuration:
 
-1. Download and install Hasling fonts
+1. Download and install Haskling fonts
   https://github.com/i-tu/Hasklig
-2. Enable ligature in vscode setting or in setting.json
+2. Enable ligature in vscode setting.
 ˝
 3. Add the following to setting.json
     "editor.renderWhitespace": "boundary",
@@ -101,4 +101,6 @@ Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Th
 
 ## Happy coding
 
-If you do like this theme,Give a [Github Star](https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
+If you do like this theme,give a rating. All contribution are welcome
+
+For any issues (https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
