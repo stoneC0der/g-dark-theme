@@ -101,6 +101,8 @@ Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Th
 
 ## Happy coding
 
-If you do like this theme,give a rating. All contribution are welcome
+If you do like this theme,give a rating (https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme). 
+
+All contribution are welcome
 
 For any issues (https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
