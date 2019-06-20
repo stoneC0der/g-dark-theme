@@ -69,14 +69,14 @@
       }
     },
     {
-      "name": "Keyword",
-      "scope": [
-        "keyword",
-      ],
-      "settings": {
-        "foreground" : "#e01369",
-        // "fontStyle": "bold"
-      }
+    "name": "Keyword",
+    "scope": [
+      "keyword"
+    ],
+    "settings": {
+      "foreground" : "#e01369",
+      // "fontStyle": "bold"
+    }
     },
     {
       "name": "Storage",
@@ -557,7 +557,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#92caf5"
+        "foreground": "#0e2a3f"
       }
     },
     {
@@ -566,7 +566,7 @@
         "text.html.markdown markup.inline.raw.markdown"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#911edd"
       }
     },
     {
@@ -595,7 +595,8 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#99be60"
+        "foreground": "#a8a1a1",
+        "fontStyle": "bold"
       }
     },
     {
@@ -605,7 +606,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f07178"
+        "foreground": "#026852"
       }
     },
     {
@@ -616,7 +617,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#f07178"
+        "foreground": "#db71f0"
       }
     },
     {
@@ -641,7 +642,7 @@
       ],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#F78C6C"
+        "foreground": "#b67d2e"
       }
     },
     {
@@ -651,7 +652,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#303C41"
+        "foreground": "#54646b"
       }
     },
     {
@@ -679,7 +680,7 @@
         "string.other.link.title.markdown"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#5987eb"
       }
     },
     {
@@ -688,7 +689,7 @@
         "string.other.link.description.title.markdown"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#9f43dd"
       }
     },
     {
@@ -697,7 +698,7 @@
         "constant.other.reference.link.markdown"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#d38d0b"
       }
     },
     {
@@ -706,7 +707,7 @@
         "markup.raw.block"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#6c259b"
       }
     },
     {
