@@ -1,9 +1,8 @@
 # G-dark Theme for Vscode by Stonec0der
 
-You can help by reporting issues [here](https://github.com/stonec0der/g-dark-theme/issues.)
-
 - [Getting started](#getting-started)
   - [Installation](#installation)
+  - [Custom Setting](#custom-settings)
   - [Activate theme](#activate-theme)
 
 PHP
@@ -74,7 +73,7 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
 To get the most out of this them please add the following configuration:
 
 1. Download and install Haskling fonts
-  https://github.com/i-tu/Hasklig
+  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig")
 2. Enable ligature in vscode setting.
 ˝
 3. Add the following to setting.json
@@ -101,8 +100,8 @@ Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Th
 
 ## Happy coding
 
-If you do like this theme,give a rating (https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme). 
+If you do like this theme, give it a rating [G Dark-theme](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme, "G Dark-theme")
 
 All contribution are welcome
 
-For any issues (https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
+For any issues [Issues](https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
