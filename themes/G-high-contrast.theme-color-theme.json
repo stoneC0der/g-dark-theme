@@ -553,7 +553,7 @@
         "text.html.markdown meta.dummy.line-break"
       ],
       "settings": {
-        "foreground": ""
+        // "foreground": ""
       }
     },
     {
@@ -619,8 +619,8 @@
         "markup.strike"
       ],
       "settings": {
-        "fontStyle": "strike",
-        "foreground": ""
+        "fontStyle": "italic",
+        // "foreground": ""
       }
     },
     {
@@ -639,7 +639,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": ""
+        // "foreground": ""
       }
     },
     {
@@ -824,7 +824,7 @@
     "editorWarning.foreground": "#C3E88D",
     "editorWidget.background": "#010d13",
     "editorWidget.resizeBorder": "#80CBC4",
-    "editorWidget.border": "",
+    // "editorWidget.border": "",
     "editorMarkerNavigation.background": "#F0F8FE",
     "widget.shadow": "#000030",
     "panel.border": "#010d13",
