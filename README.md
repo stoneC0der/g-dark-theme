@@ -67,7 +67,7 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
 
-### Custom Setting
+### Custom Settings
 
 To get the most out of this them please add the following configuration:
 
