@@ -11,7 +11,6 @@ PHP
 ![H-php](https://user-images.githubusercontent.com/11365636/59718876-9a71fa80-920a-11e9-809c-22bc9c933bbe.png)
 ![L-php](https://user-images.githubusercontent.com/11365636/59718896-a52c8f80-920a-11e9-9928-796bcb424754.png)
 
-
 HMTL (Blade Template)
 
 ![html blade](https://user-images.githubusercontent.com/11365636/55525233-d8d23180-567f-11e9-9910-8de2ffc89bfe.png)
@@ -44,7 +43,7 @@ You can install this theme by downloading the package on [Github](https://market
 
 Launch *Quick Open*:
 
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> 
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/>
 
 <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
 
@@ -92,9 +91,9 @@ To get the most out of this them please add the following configuration:
 
 Launch *Quick Open*:
 
-  - <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
-  - <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
-  - <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
 
 Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Theme variants from the list.
 
