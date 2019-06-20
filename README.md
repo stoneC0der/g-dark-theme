@@ -37,7 +37,7 @@ JSON
 
 ## Getting started
 
-You can install this theme by downloading the package on [Github](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
+You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
 
 ### Installation
 
