@@ -37,7 +37,7 @@ JSON
 
 ## Getting started
 
-You can install this theme by downloading the package on [Github](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
+You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
 
 ### Installation
 
@@ -67,7 +67,7 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
 
-### Custom Setting
+### Custom Settings
 
 To get the most out of this them please add the following configuration:
 
