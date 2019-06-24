@@ -16,6 +16,7 @@
 		"type": "git",
 		"url": "https://github.com/stoneC0der/g-dark-theme"
 	},
+	"icon": "icon.png",
 	"keywords": [
 		"atom",
 		"dark",
