@@ -8,25 +8,26 @@
 **PHP**
 
 Night Theme
-<img src="/images/php d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
 Dark Room Theme
-<img src="/images/php hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
 Outdoor Theme
-<img src="/images/php l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
 **HMTL (Blade Template)**
 
 <div style="display:flex">
   <div>
-    <img src="/images/blade d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/blade hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/blade l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
@@ -34,13 +35,13 @@ Outdoor Theme
 
 <div style="display:flex">
   <div>
-    <img src="/images/jinja d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/jinja hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/jinja l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
@@ -48,13 +49,13 @@ Outdoor Theme
 
 <div style="display:flex">
   <div>
-    <img src="/images/python d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/python hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/python l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
@@ -62,13 +63,13 @@ Outdoor Theme
 
 <div style="display:flex">
   <div>
-    <img src="/images/css d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/css hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/css l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
@@ -76,13 +77,13 @@ Outdoor Theme
 
 <div style="display:flex">
   <div>
-    <img src="/images/js d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/js hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/js l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
@@ -90,13 +91,13 @@ Outdoor Theme
 
 <div style="display:flex">
   <div>
-    <img src="/images/json d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/json hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
   <div>
-    <img src="/images/json l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
   </div>
 </div>
 
