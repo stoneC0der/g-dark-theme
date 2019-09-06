@@ -44,8 +44,8 @@ Version 1.0.0
 
 ##### G Dark
 
-<img src="/images/html.blade.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
-<img src="/images/blade d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/html.blade.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
 Most notable changes are:
 - editor forground
 - editor line number
@@ -78,4 +78,4 @@ Most notable changes are:
 
 - Fixed color theme in Markdown Files. All the content is now readable
 
-<img src="/images/md l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/md%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
