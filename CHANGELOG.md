@@ -60,7 +60,7 @@ Most notable changes are:
 ##### G High Contrast
 
 <img src="https://user-images.githubusercontent.com/11365636/59718885-9e058180-920a-11e9-866c-55cdd659f76c.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
-<img src="/images/blade hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
 Most notable changes are:
 - breadcrumb
 - setting
