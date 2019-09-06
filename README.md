@@ -4,38 +4,103 @@
   - [Installation](#installation)
   - [Custom Setting](#custom-settings)
   - [Activate theme](#activate-theme)
+## Preview  
+**PHP**
 
-PHP
+Night Theme
+<img src="/images/php d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
-![php](https://user-images.githubusercontent.com/11365636/55525235-d96ac800-567f-11e9-8dd8-16f80d514413.png)
-![H-php](https://user-images.githubusercontent.com/11365636/59718876-9a71fa80-920a-11e9-809c-22bc9c933bbe.png)
-![L-php](https://user-images.githubusercontent.com/11365636/59718896-a52c8f80-920a-11e9-9928-796bcb424754.png)
+Dark Room Theme
+<img src="/images/php hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
-HMTL (Blade Template)
+Outdoor Theme
+<img src="/images/php l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
-![html blade](https://user-images.githubusercontent.com/11365636/55525233-d8d23180-567f-11e9-9910-8de2ffc89bfe.png)
-![H-html](https://user-images.githubusercontent.com/11365636/59718885-9e058180-920a-11e9-866c-55cdd659f76c.png)
-![L-html](https://user-images.githubusercontent.com/11365636/59718892-a1007200-920a-11e9-88c2-301a7d9021ae.png)
+**HMTL (Blade Template)**
 
-CSS
+<div style="display:flex">
+  <div>
+    <img src="/images/blade d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/blade hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/blade l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
 
-![css](https://user-images.githubusercontent.com/11365636/55525236-d96ac800-567f-11e9-947b-5a5a9197959c.png)
+**JINJA 2**
 
-![L-css](https://user-images.githubusercontent.com/11365636/59718900-a6f65300-920a-11e9-9ef0-c9ac1d590fb6.png)
+<div style="display:flex">
+  <div>
+    <img src="/images/jinja d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/jinja hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/jinja l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
 
-JS
+**PYTHON**
 
-![js](https://user-images.githubusercontent.com/11365636/55525232-d8d23180-567f-11e9-8f21-df0ae812fdab.png)
+<div style="display:flex">
+  <div>
+    <img src="/images/python d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/python hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/python l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
 
-![L-js](https://user-images.githubusercontent.com/11365636/59718894-a2ca3580-920a-11e9-9d72-d9bbe7983fe4.png)
+**CSS**
 
-JSON
+<div style="display:flex">
+  <div>
+    <img src="/images/css d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/css hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/css l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
 
-![json](https://user-images.githubusercontent.com/11365636/55525234-d8d23180-567f-11e9-8459-765bf757a808.png)
+**JS**
 
-![Screenshot 2019-06-18 at 8 53 44 PM](https://user-images.githubusercontent.com/11365636/59719130-33087a80-920b-11e9-9d99-d0934aefee8c.png)
+<div style="display:flex">
+  <div>
+    <img src="/images/js d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/js hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/js l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
 
-## Getting started
+**JSON**
+
+<div style="display:flex">
+  <div>
+    <img src="/images/json d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/json hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+  <div>
+    <img src="/images/json l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+  </div>
+</div>
+
+### Getting started
 
 You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
 
@@ -67,16 +132,45 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
 
-### Custom Settings
+#### Custom Settings
 
 To get the most out of this them please add the following configuration:
 
 1. Download and install Haskling fonts
   [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig")
 2. Enable ligature in vscode setting.
-˝
-3. Add the following to setting.json
-    "editor.renderWhitespace": "boundary",
+or add to settings.json :
+  ```"editor.fontLigatures": true,```
+3. Install [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow, "Indent-Rainbow")
+
+  - add this to settings.json:
+  ```
+    "indentRainbow.colors": [
+      "rgba(16,16,16,0.10)",
+      "rgba(16,16,16,0.20)",
+      "rgba(16,16,16,0.30)",
+      "rgba(16,16,16,0.35)",
+      "rgba(16,16,16,0.40)",
+      "rgba(16,16,16,0.45)",
+      "rgba(16,16,16,0.50)",
+      "rgba(16,16,16,0.55)",
+      "rgba(16,16,16,0.60)",
+      "rgba(16,16,16,0.65)",
+      ],
+  ```
+4. Add the following to setting.json
+    ```"editor.renderWhitespace": "selection",```
+5. Auto switch between dark and light theme (macOS only)
+  Install [auto-darkmode](https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode, "Auto Dark Mode")
+
+  - add the following to settings.json:
+    ```
+    "autoDarkMode.darkTheme": "G Dark",
+    "autoDarkMode.lightTheme": "G Light",
+    ```
+
+<img src="/images/custom-settings.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+
 
 ### From Vscode
 
