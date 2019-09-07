@@ -9,7 +9,7 @@
 
 Night Theme
 
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
 
 Dark Room Theme
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
