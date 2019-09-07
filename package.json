@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
 	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -16,18 +16,17 @@
 		"type": "git",
 		"url": "https://github.com/stoneC0der/g-dark-theme"
 	},
-	"icon": "icon.png",
 	"keywords": [
 		"atom",
 		"dark",
 		"blue Whale",
 		"vscode",
 		"material",
-    "Midnight",
-    "Light",
-    "High Contrast",
-    "bold",
-    "solarize"
+		"Midnight",
+		"Light",
+		"High Contrast",
+		"bold",
+		"solarize"
 	],
 	"galleryBanner": {
 		"color": "#003248",
@@ -39,17 +38,17 @@
 				"label": "G Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark.theme-color-theme.json"
-      },
-      {
-        "label": "G Light",
+			},
+			{
+				"label": "G Light",
 				"uiTheme": "vs",
-        "path": "./themes/G-light.theme-color-theme.json"
-      },
-      {
-        "label": "G Hight Contrast",
+				"path": "./themes/G-light.theme-color-theme.json"
+			},
+			{
+				"label": "G Hight Contrast",
 				"uiTheme": "hc-black",
-        "path": "./themes/G-high-contrast.theme-color-theme.json"
-      }
+				"path": "./themes/G-high-contrast.theme-color-theme.json"
+			}
 		]
 	},
 	"__metadata": {
