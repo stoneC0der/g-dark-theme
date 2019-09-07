@@ -79,3 +79,7 @@ Most notable changes are:
 - Fixed color theme in Markdown Files. All the content is now readable
 
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/md%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:5px;margin:25px auto">
+
+Version 1.1.1
+
+- Fixed preview image
