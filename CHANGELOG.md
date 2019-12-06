@@ -83,3 +83,37 @@ Most notable changes are:
 Version 1.2.0
 
 - Fixed preview image
+
+Version 2.0
+
+### NEW
+
+- Added ActivityBar ActiveBorder color
+- Added three new theme
+
+G Dark Deep Dark Green (Dark Room Theme)
+
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
+
+G Dark Black
+
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
+
+G Dark Silver (Outdoor/Bright Room Theme)
+
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-silver.png" style="margin:5px auto">
+
+### FIX
+
+- Fixed github tracking colors in all themes
+- Selection background in inputs fields
+- Terminal Colors
+- Fixed Scrollbar in High Contrast theme (G Dark blue)
+- Fixed breadscrumbs not display well
+
+### CHANGES
+
+- Rename G Dark High Contrast to G Dark Blue
+- Improve activity icons foreground to make them less obstructives
+- A lot of color improvement for visibility
+- Change built-in functions color to differentiates from user define functions (G Dark blue)
