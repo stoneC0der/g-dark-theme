@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
 	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "1.2.0",
+	"version": "2.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
