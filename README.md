@@ -5,102 +5,18 @@
   - [Custom Setting](#custom-settings)
   - [Activate theme](#activate-theme)
 ## Preview  
-**PHP**
 
-Night Theme
+Default (General use)
 
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark.png" style="margin:5px auto">
 
-Dark Room Theme
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-
-Outdoor Theme
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/php%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-
-**HMTL (Blade Template)**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/blade%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
-**JINJA 2**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/jinja%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
-**PYTHON**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/python%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
-**CSS**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/css%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
-**JS**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/js%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
-**JSON**
-
-<div style="display:flex">
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20d.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20hc.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-  <div>
-    <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/json%20l.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-  </div>
-</div>
-
+Night/Dark Room Theme
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-blue.png" style="margin:5px auto">
+Bright Room/Outdoor Theme
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-light.png" style="margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-silver.png" style="margin:5px auto">
 ### Getting started
 
 You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
@@ -169,9 +85,6 @@ or add to settings.json :
     "autoDarkMode.darkTheme": "G Dark",
     "autoDarkMode.lightTheme": "G Light",
     ```
-
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/custom-settings.png" style="box-shadow:0px 1px 45px -10px rgba(0,0,0,0.65);border-radius:8px;margin:5px auto">
-
 
 ### From Vscode
 
