@@ -26,7 +26,9 @@
 		"Light",
 		"High Contrast",
 		"bold",
-		"solarize"
+		"solarize",
+		"black",
+		"night"
 	],
 	"galleryBanner": {
 		"color": "#003248",
@@ -35,19 +37,34 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "G Dark",
+				"label": "G Dark (Default)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark.theme-color-theme.json"
 			},
 			{
-				"label": "G Light",
+				"label": "G Black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-black.theme-color-theme.json"
+			},
+			{
+				"label": "G Light (Solarize)",
 				"uiTheme": "vs",
 				"path": "./themes/G-light.theme-color-theme.json"
 			},
 			{
-				"label": "G Hight Contrast",
+				"label": "G Light (Silver)",
+				"uiTheme": "vs",
+				"path": "./themes/G-silver.theme-color-theme.json"
+			},
+			{
+				"label": "G Deep Dark Green",
 				"uiTheme": "hc-black",
-				"path": "./themes/G-high-contrast.theme-color-theme.json"
+				"path": "./themes/G-deep-black.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark Blue",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-blue.theme-color-theme.json"
 			}
 		]
 	},
