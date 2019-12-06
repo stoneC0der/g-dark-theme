@@ -161,7 +161,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#208014",
+        "foreground": "#107703de",
         "fontStyle": "italic bold"
       }
     },
@@ -195,7 +195,7 @@
 			],
 			"settings": {
 				// "fontStyle": "bold",
-				"foreground": "#129fe0"
+				"foreground": "#108fcaea"
 			}
     },
     {
@@ -279,7 +279,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#519c91"
+        "foreground": "#48837ae5"
       }
     },
     {
@@ -755,7 +755,7 @@
     "editorRuler.foreground": "#aebbc1",
     "scrollbar.shadow": "#969b4e67",
     "editorLink.activeForeground": "#333638",
-    "selection.background": "#1a4260",
+    "selection.background": "#a9d1f0b5",
     "progressBar.background": "#80CBC4",
     "textLink.foreground": "#2d83e6",
     "textLink.activeForeground": "#232527",
@@ -764,7 +764,7 @@
     "editorBracketMatch.border": "#28488dc4",
     "editorBracketMatch.background": "#5c95d636",
     "editorWhitespace.foreground": "#a9b0b6",
-    "editor.background": "#f9f9f9",
+    "editor.background": "#f9f9f9e0",
     "editor.foreground": "#353e5a",
     "editor.lineHighlightBackground": "#b3a9761c",
     "editor.selectionBackground": "#71b1cfb9",
@@ -795,8 +795,11 @@
     "statusBar.debuggingForeground": "#12202a",
     "statusBarItem.hoverBackground": "#546E7A",
     "activityBar.background": "#fcfbf7",
-    "activityBar.border": "#d5dadd",
+    "activityBar.border": "#dbdfe081",
     "activityBar.foreground": "#314350",
+    "activityBar.inactiveForeground": "#cab3b3",
+    "activityBar.activeBorder": "#a16666",
+    "activityBar.activeBackground": "#f5f2f2",
     "activityBarBadge.background": "#5a8883",
     "activityBarBadge.foreground": "#f6f6f6",
     "titleBar.activeBackground": "#fcfbf7",
@@ -885,11 +888,11 @@
     "peekViewEditor.matchHighlightBackground": "#80CBC4",
     "debugToolBar.background": "#fcfbf7",
     "pickerGroup.foreground": "#80CBC4",
-    "gitDecoration.deletedResourceForeground": "#FF5370",
-    "gitDecoration.conflictingResourceForeground": "#f1b94f",
-    "gitDecoration.modifiedResourceForeground": "#5b81d3",
-    "gitDecoration.untrackedResourceForeground": "#7ab129",
-    "gitDecoration.ignoredResourceForeground": "#607a86",
+    "gitDecoration.deletedResourceForeground": "#c51533e7",
+    "gitDecoration.conflictingResourceForeground": "#d18e12de",
+    "gitDecoration.modifiedResourceForeground": "#1046b9d7",
+    "gitDecoration.untrackedResourceForeground": "#16830c",
+    "gitDecoration.ignoredResourceForeground": "#9a28bde1",
     "peekViewResult.selectionBackground": "#607a86",
     "breadcrumb.background": "#f5f3ea",
     "breadcrumb.foreground": "#607a86",
