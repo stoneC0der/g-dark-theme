@@ -1,5 +1,11 @@
 # G-dark Theme for Vscode by Stonec0der
 
+Optimized for ***PHP***, ***Blade Template***, ***HTML***, ***CSS*** and ***JS (Vanilla)***
+
+Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
+
+*Tested on **macOS***
+
 - [Getting started](#getting-started)
   - [Installation](#installation)
   - [Custom Setting](#custom-settings)
