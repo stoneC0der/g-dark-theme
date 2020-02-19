@@ -811,7 +811,6 @@
     "editor.wordHighlightBorder": "#0d7fac5e",
     "editor.selectionBackground": "#6792f74d",
     "editor.selectionHighlightBackground": "#6da3cfc9",
-    "editor.wordHighlightStrongBackground":"#89aae494",
     "editorOverviewRuler.border": "#e0eafc",
     "editorHoverWidget.background": "#d9e5fb",
     "editorHoverWidget.border": "#95c5fc8c",
