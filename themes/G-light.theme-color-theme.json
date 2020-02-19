@@ -750,6 +750,7 @@
     }
   ],
   "colors": {
+    "editor.foldBackground": "#eefa8131",
     "focusBorder": "#942020",
     "editorCursor.foreground": "#1667e0",
     "editorRuler.foreground": "#aebbc1",
