@@ -889,7 +889,7 @@
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#FFCB6B",
     "scrollbar.shadow": "#1629332e",
-    "scrollbarSlider.background": "#1c1e1fbb",
+    "scrollbarSlider.background": "#222629",
     "scrollbarSlider.hoverBackground": "#83a8c410",
     "scrollbarSlider.activeBackground": "#262733",
     "editorSuggestWidget.background": "#17181D",
