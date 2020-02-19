@@ -773,6 +773,12 @@
     "editor.selectionBackground": "#80CBC420",
     "editor.selectionHighlightBackground": "#5d709760",
     "editor.hoverHighlightBackground": "#3c97e72c",
+    "editor.findMatchBackground": "#1a24276e",
+    "editor.findMatchBorder": "#3c86a398",
+    "editor.findMatchHighlightBackground":"#466a8d42",
+    // "editor.findRangeHighlightBackground":"#3c97e752",
+    "editor.wordHighlightBackground":"#ce080800",
+    "editor.wordHighlightBorder": "#0ab2f55e",
     "editorOverviewRuler.border": "#003248",
     "editorHoverWidget.background": "#003248",
     "editorHoverWidget.border": "#FFFFFF10",
@@ -928,6 +934,6 @@
     "tree.indentGuidesStroke": "#1f4e6b90",
     // "tab.activeBorderTop": "#ff0000"
     "window.activeBorder": "#01485c",
-    "window.inactiveBorder": "#3d93c8"
+    "window.inactiveBorder": "#3d93c8",
   }
 }
