@@ -68,7 +68,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground" : "#a3047be5",
+        "foreground" : "#df37b5e5",
         // "fontStyle": "bold"
       }
     },
@@ -129,7 +129,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#0545dbee",
+        "foreground": "#2f41e2ee",
         "fontStyle": "bold"
       }
     },
@@ -153,7 +153,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#06910de1"
+        "foreground": "#3fd847e1"
       }
     },
     {
@@ -165,7 +165,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#632fc4"
+        "foreground": "#7e4cdb"
       }
     },
     {
@@ -175,7 +175,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#0f6fc9"
+				"foreground": "#198ae7"
 			}
     },
     {
@@ -218,7 +218,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#a33a1ae1"
+        "foreground": "#d37217d7"
       }
     },
     {
@@ -228,7 +228,7 @@
         "variable.parameter"
       ],
       "settings": {
-        "foreground": "#978225"
+        "foreground": "#8c9725"
       }
     },
     {
@@ -244,7 +244,7 @@
       ],
       "settings": {
         // "fontStyle": "normal",
-        "foreground": "#12a18c"
+        "foreground": "#35a174"
       }
     },
     {
@@ -260,7 +260,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#c24c35e5",
+        "foreground": "#be614ee5",
         "fontStyle": "bold"
       }
     },
@@ -325,7 +325,7 @@
         "variable.function.constructor"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#536ea8"
       }
     },
     {
@@ -335,7 +335,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#dd432b"
+        "foreground": "#d14c37"
       }
     },
     {
@@ -344,7 +344,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#dbd95c"
       }
     },
     {
