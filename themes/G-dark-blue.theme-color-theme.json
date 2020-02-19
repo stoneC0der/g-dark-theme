@@ -116,7 +116,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#82b9ddc0"
+        "foreground": "#e7ac74d7"
       }
     },
     {
