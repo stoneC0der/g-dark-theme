@@ -800,6 +800,7 @@
     "editor.lineHighlightBorder": "#242a314e",
     "editor.hoverHighlightBackground": "#4048679d",
     "editor.findMatchBorder": "#2780a3be",
+    "editor.wordHighlightBorder": "#414b5cf6",
     "editorOverviewRuler.border": "#17181D",
     "editorHoverWidget.background": "#17181D",
     "editorHoverWidget.border": "#FFFFFF10",
