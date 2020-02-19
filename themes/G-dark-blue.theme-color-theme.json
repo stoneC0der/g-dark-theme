@@ -713,6 +713,7 @@
     }
   ],
   "colors": {
+    "editor.foldBackground": "#0608276b",
     "focusBorder": "#f1efef",
     "contrastActiveBorder" : "#010214",
     "contrastBorder":"#010214",
