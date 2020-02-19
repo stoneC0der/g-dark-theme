@@ -798,6 +798,7 @@
     "editor.findMatchBorder": "#11504bb6",
     "editor.findRangeHighlightBackground":"#3ce7cb3f",
     "editor.wordHighlightBackground":"#1c4d3d10",
+    "editor.selectionBackground": "#48cec709",
     "editor.selectionHighlightBackground": "#384e6069",
     "editor.wordHighlightStrongBackground":"#8a9cbc94",
     "editorOverviewRuler.border": "#020909",
