@@ -350,7 +350,7 @@
     {
       "name": "CSS ID's",
       "scope": [
-        "source.sass keyword.control"
+        "entity.other.attribute-name.id"
       ],
       "settings": {
         "foreground": "#82AAFF"
