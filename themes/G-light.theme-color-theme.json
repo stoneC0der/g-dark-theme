@@ -759,7 +759,7 @@
     "progressBar.background": "#80CBC4",
     "textLink.foreground": "#2d83e6",
     "textLink.activeForeground": "#232527",
-    "editorLineNumber.foreground": "#959da1",
+    "editorLineNumber.foreground": "#b9c1c5",
     "editorLineNumber.activeForeground": "#3782a5",
     "editorBracketMatch.border": "#28488dc4",
     "editorBracketMatch.background": "#5c95d636",
