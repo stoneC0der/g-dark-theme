@@ -805,6 +805,7 @@
     "editor.hoverHighlightBackground": "#6985f761",
     "editor.findMatchBackground": "#7799e23b",
     "editor.findMatchHighlightBackground":"#6e8bc53d",
+    "editor.findMatchBorder": "#3c86a398",
     "editor.rangeHighlightBackground": "#aac4f8ad",
     "editor.findRangeHighlightBackground":"#3c97e7",
     "editor.wordHighlightBackground":"#0464eb3b",
