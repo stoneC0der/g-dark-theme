@@ -20,7 +20,7 @@ Default (General use)
 Night/Dark Room Theme
 
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-one.png" style="margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/G-dark-one.png" style="margin:5px auto">
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-blue.png" style="margin:5px auto">
 
