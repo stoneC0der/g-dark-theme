@@ -65,6 +65,11 @@
 				"label": "G Dark Blue",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-blue.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark One",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-Dark-One.theme-color-theme.json"
 			}
 		]
 	},
