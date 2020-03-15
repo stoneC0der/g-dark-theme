@@ -1,5 +1,5 @@
 {
-    "name": "G Dark Deep Black",
+    "name": "G Dark (Night Shift)",
     "type": "dark",
     "tokenColors": [
       {
@@ -850,7 +850,7 @@
       "sideBarTitle.foreground": "#40636be8",
       "sideBarSectionHeader.background": "#1C1C21",
       "sideBarSectionHeader.border": "#33333d5b",
-      "input.background": "#18191C",
+      "input.background": "#656572dc",
       "input.foreground": "#81b0d4",
       "input.placeholderForeground": "#44709260",
       "inputOption.activeBorder": "#15161b",

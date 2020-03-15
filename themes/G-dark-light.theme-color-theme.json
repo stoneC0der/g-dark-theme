@@ -3,11 +3,6 @@
   "type": "light",
   "tokenColors": [
     {
-      "settings": {
-        "foreground": "#353e5a"
-      }
-    },
-    {
       "name": "Comment",
       "scope": [
         "comment",
@@ -195,7 +190,7 @@
 			],
 			"settings": {
 				// "fontStyle": "bold",
-				"foreground": "#108fcaea"
+				"foreground": "#108fcaea",
 			}
     },
     {
