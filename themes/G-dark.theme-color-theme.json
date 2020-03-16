@@ -123,7 +123,10 @@
     },
     {
       "name": "php dollar sign",
-      "scope": "punctuation.definition.variable.php",
+      "scope": [
+        "punctuation.definition.variable.php",
+        "punctuation.definition.varaible.less"
+      ],
       "settings": {
         "foreground": "#e06c75"
       }
@@ -281,7 +284,7 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.orther.namespace.use.php",
+        "support.other.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
