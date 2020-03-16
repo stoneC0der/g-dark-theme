@@ -47,11 +47,6 @@
 				"path": "./themes/G-dark-one-love.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Night Shift)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-night-shift.theme-color-theme.json"
-			},
-			{
 				"label": "G Light",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-light.theme-color-theme.json"
