@@ -812,8 +812,8 @@
     "editorGutter.modifiedBackground": "#0e314260",
     "editorGutter.addedBackground": "#155c4860",
     "editorGutter.deletedBackground": "#e4496360",
-    "tab.activeBorder": "#059bc9ee",
-    "tab.activeModifiedBorder": "#607a86",
+    "tab.activeBorder": "#0bb1a0",
+    "tab.activeModifiedBorder": "#868360",
     "tab.unfocusedActiveBorder": "#546E7A",
     "tab.activeForeground": "#79a4ad",
     "tab.inactiveForeground": "#4b565c",
@@ -833,8 +833,8 @@
     "statusBarItem.hoverBackground": "#37495220",
     "activityBar.background": "#020909dc",
     "activityBar.border": "#180e0556",
-    "activityBar.foreground": "#2e6086",
-    "activityBar.activeBackground": "#020909bb",
+    "activityBar.foreground": "#119487",
+    "activityBar.activeBackground": "#030e0ede",
     "activityBar.activeBorder": "#335545",
     "activityBar.inactiveForeground": "#294444",
     "activityBarBadge.background": "#464649",
@@ -902,7 +902,7 @@
     "editorWidget.resizeBorder": "#a2d1f5",
     // "editorWidget.border": "",
     "editorMarkerNavigation.background": "#33758b05",
-    "widget.shadow": "#48464630",
+    "widget.shadow": "#031010",
     "panel.border": "#242d4760",
     "panel.background": "#020909",
     "panel.dropBackground": "#a2d1f5",
@@ -966,5 +966,7 @@
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#19364790",
     // "tab.activeBorderTop": "#ff0000"
+    "quickInput.background": "#020909",
+    "quickInput.foreground": "#31515f"
   }
 }
