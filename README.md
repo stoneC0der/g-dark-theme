@@ -1,4 +1,10 @@
-# G-dark Theme for Vscode by Stonec0der
+# G-dark Theme for Vscode
+
+## Atom Editor
+
+G Dark thems for [Atom](https://atom.io/users/stoneC0der)
+
+---
 
 Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS*** and ***JS (Vanilla)***
 
@@ -13,20 +19,31 @@ Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the
 
 ## Preview  
 
+---
 Default (General use)
 
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark.png" style="margin:5px auto">
 
 Night/Dark Room Theme
 
+**G Dark (One Love)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/G-dark-one.png" style="margin:5px auto">
+
+**G Dark (Night Shift)**
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/G-Dark-One.png" style="margin:5px auto">
+
+**G Dark (Deep Dark Green)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
+
+**G Dark (Blue)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-blue.png" style="margin:5px auto">
 
 Bright Room/Outdoor Theme
 
+**G Dark (Light)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-light.png" style="margin:5px auto">
+
+**G Dark (Silver)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-silver.png" style="margin:5px auto">
 
 ### Getting started
@@ -66,7 +83,7 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
 To get the most out of this them please add the following configuration:
 
 1. Download and install Haskling fonts
-  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig")
+  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBreains Mono](https://www.jetbrains.com/lp/mono/)
 2. Enable ligature in vscode setting.
 or add to settings.json :
   ```"editor.fontLigatures": true,```
