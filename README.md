@@ -28,6 +28,7 @@ Night/Dark Room Theme
 
 **G Dark (One Love)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
+<<<<<<< HEAD
 
 **G Dark (Night Shift)**
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/G-Dark-One.png" style="margin:5px auto">
