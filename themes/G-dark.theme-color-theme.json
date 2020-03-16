@@ -11,7 +11,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#101010"
+        "foreground": "#1010108e"
       }
     },
     {
@@ -123,7 +123,10 @@
     },
     {
       "name": "php dollar sign",
-      "scope": "punctuation.definition.variable.php",
+      "scope": [
+        "punctuation.definition.variable.php",
+        "punctuation.definition.varaible.less"
+      ],
       "settings": {
         "foreground": "#e06c75"
       }
@@ -281,7 +284,7 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.orther.namespace.use.php",
+        "support.other.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
@@ -753,7 +756,7 @@
     }
   ],
   "colors": {
-    "focusBorder": "#FFFFFF00",
+    "focusBorder": "#3778aa65",
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#37474F",
     "scrollbar.shadow": "#002c3daf",
@@ -826,14 +829,14 @@
     "input.background": "#063a50",
     "input.foreground": "#81b0d4",
     "input.placeholderForeground": "#a6d4f760",
-    "input.border": "#FFFFFF10",
+    "input.border": "#ffffff00",
     "inputValidation.errorBorder": "#FF537050",
     "inputValidation.infoBorder": "#82AAFF50",
     "inputValidation.warningBorder": "#67769660",
     "dropdown.background": "#003248",
     "dropdown.border": "#FFFFFF10",
     "list.hoverForeground": "#FFFFFF",
-    "list.hoverBackground": "#003248",
+    "list.hoverBackground": "#01364b9f",
     "list.activeSelectionBackground": "#01374e",
     "list.activeSelectionForeground": "#80CBC4",
     "list.inactiveSelectionForeground": "#80CBC4",
@@ -919,14 +922,14 @@
     "menubar.selectionForeground": "#80CBC4",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#a6d4f7",
-    "settings.dropdownBackground": "#003248",
+    "settings.dropdownBackground": "#063a50",
     "settings.numberInputForeground": "#a6d4f7",
-    "settings.numberInputBackground": "#003248",
+    "settings.numberInputBackground": "#063a50",
     "settings.textInputForeground": "#a6d4f7",
-    "settings.textInputBackground": "#003248",
+    "settings.textInputBackground": "#063a50",
     "settings.headerForeground": "#80CBC4",
     "settings.modifiedItemIndicator": "#80CBC4",
-    "settings.checkboxBackground": "#003248",
+    "settings.checkboxBackground": "#063a50",
     "settings.checkboxForeground": "#a6d4f7",
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.outline": "#00000030",

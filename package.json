@@ -42,24 +42,29 @@
 				"path": "./themes/G-dark.theme-color-theme.json"
 			},
 			{
-				"label": "G Black",
+				"label": "G Dark (OL)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-black.theme-color-theme.json"
+				"path": "./themes/G-dark-one-love.theme-color-theme.json"
 			},
 			{
-				"label": "G Light (Solarize)",
+				"label": "G Dark (Night Shift)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-night-shift.theme-color-theme.json"
+			},
+			{
+				"label": "G Light",
 				"uiTheme": "vs",
-				"path": "./themes/G-light.theme-color-theme.json"
+				"path": "./themes/G-dark-light.theme-color-theme.json"
 			},
 			{
 				"label": "G Light (Silver)",
 				"uiTheme": "vs",
-				"path": "./themes/G-silver.theme-color-theme.json"
+				"path": "./themes/G-dark-silver.theme-color-theme.json"
 			},
 			{
-				"label": "G Deep Dark Green",
+				"label": "G Dark (Deep Dark Green)",
 				"uiTheme": "hc-black",
-				"path": "./themes/G-deep-black.theme-color-theme.json"
+				"path": "./themes/G-dark-deep-darkgreen.theme-color-theme.json"
 			},
 			{
 				"label": "G Dark Blue",

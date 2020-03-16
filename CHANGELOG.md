@@ -2,6 +2,19 @@
 
 All notable changes to the **G Dark** themes will be documented in this file.
 
+## version 2.0.2
+
+**Minor Improvements**
+
+- Improved (UI & Syntax) - **All Themes**
+
+**Minor Changes**
+
+- Rename some themes
+  - G Black renamed => G Dark (OL)
+  - G Deep Dark Green => G Dark (Deep Green)
+  - G Light (Solirize) => G Light
+
 ## Version 2.0.1
 
 ### G Black

@@ -1,6 +1,12 @@
-# G-dark Theme for Vscode by Stonec0der
+# G-dark Theme for Vscode
 
-Optimized for ***PHP***, ***Blade Template***, ***HTML***, ***CSS*** and ***JS (Vanilla)***
+## Atom Editor
+
+G Dark thems for [Atom](https://atom.io/users/stoneC0der)
+
+---
+
+Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS*** and ***JS (Vanilla)***
 
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 
@@ -10,19 +16,14 @@ Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the
   - [Installation](#installation)
   - [Custom Setting](#custom-settings)
   - [Activate theme](#activate-theme)
+
 ## Preview  
 
-Default (General use)
+---
 
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark.png" style="margin:5px auto">
+**G Dark (Silver)**
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.png" style="margin:5px auto;border-radius:5px;box-shadow:0px 0px 15px -10px rgba(10,10,10,0.50)">
 
-Night/Dark Room Theme
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-blue.png" style="margin:5px auto">
-Bright Room/Outdoor Theme
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-light.png" style="margin:5px auto">
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-silver.png" style="margin:5px auto">
 ### Getting started
 
 You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
@@ -60,14 +61,15 @@ or from within VS Code by launching *Quick Open* and running the *Install from V
 To get the most out of this them please add the following configuration:
 
 1. Download and install Haskling fonts
-  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig")
+  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBreains Mono](https://www.jetbrains.com/lp/mono/)
 2. Enable ligature in vscode setting.
 or add to settings.json :
   ```"editor.fontLigatures": true,```
 3. Install [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow, "Indent-Rainbow")
 
-  - add this to settings.json:
-  ```
+- add this to settings.json:
+
+  ```json
     "indentRainbow.colors": [
       "rgba(16,16,16,0.10)",
       "rgba(16,16,16,0.20)",
@@ -81,16 +83,23 @@ or add to settings.json :
       "rgba(16,16,16,0.65)",
       ],
   ```
+
 4. Add the following to setting.json
-    ```"editor.renderWhitespace": "selection",```
+
+```json
+    "editor.renderWhitespace": "selection",
+```
+
 5. Auto switch between dark and light theme (macOS only)
+
   Install [auto-darkmode](https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode, "Auto Dark Mode")
 
-  - add the following to settings.json:
-    ```
+- add the following to settings.json:
+
+```json
     "autoDarkMode.darkTheme": "G Dark",
     "autoDarkMode.lightTheme": "G Light",
-    ```
+```
 
 ### From Vscode
 
