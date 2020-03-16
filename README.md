@@ -20,32 +20,9 @@ Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the
 ## Preview  
 
 ---
-Default (General use)
-
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark.png" style="margin:5px auto">
-
-Night/Dark Room Theme
-
-**G Dark (One Love)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-black.png" style="margin:5px auto">
-<<<<<<< HEAD
-
-**G Dark (Night Shift)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/G-Dark-One.png" style="margin:5px auto">
-
-**G Dark (Deep Dark Green)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-deep-black.png" style="margin:5px auto">
-
-**G Dark (Blue)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-blue.png" style="margin:5px auto">
-
-Bright Room/Outdoor Theme
-
-**G Dark (Light)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-light.png" style="margin:5px auto">
 
 **G Dark (Silver)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/G-dark-silver.png" style="margin:5px auto">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.png" style="margin:5px auto;border-radius:5px;box-shadow:0px 0px 15px -10px rgba(10,10,10,0.50)">
 
 ### Getting started
 
