@@ -76,6 +76,11 @@
 				"label": "G Dark Blue",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-blue.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Black)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-black.theme-color-theme.json"
 			}
 		]
 	},
