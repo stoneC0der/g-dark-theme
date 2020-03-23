@@ -1,5 +1,5 @@
 {
-  "name": "G Dark (Black)",
+  "name": "G Dark (Purple)",
   "type": "dark",
   "tokenColors": [
     {
@@ -795,9 +795,9 @@
     "tab.activeBorder": "#8599f1",
     "tab.activeModifiedBorder": "#1297da60",
     "tab.unfocusedActiveBorder": "#546E7A",
-    "tab.activeForeground": "#8acfcf",
+    "tab.activeForeground": "#8599f1",
     "tab.activeBackground": "#252c49",
-    "tab.inactiveForeground": "#3b82a3",
+    "tab.inactiveForeground": "#6372b6",
     "tab.inactiveBackground": "#252c49",
     "tab.unfocusedActiveForeground": "#8599f1",
     "tab.border": "#252c49",
@@ -808,7 +808,7 @@
     "statusBar.debuggingBackground": "#C792EA",
     "statusBar.debuggingForeground": "#bbd9f3",
     "statusBarItem.hoverBackground": "#546E7A20",
-    "activityBar.background": "#252c49",
+    "activityBar.background": "#333C64",
     "activityBar.border": "#333c64",
     "activityBar.inactiveForeground": "#454f7c",
     "activityBar.foreground": "#8599f1",
@@ -882,6 +882,7 @@
     "panelTitle.inactiveForeground": "#5d6db3",
     "panelTitle.activeForeground": "#a2daf7",
     "panelTitle.activeBorder": "#8599f1",
+    "panelInput.border": "#8599f1",
     "diffEditor.insertedTextBackground": "#C3E88D15",
     "diffEditor.removedTextBackground": "#FF537020",
     "notifications.background": "#333c64",

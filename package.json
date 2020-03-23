@@ -47,6 +47,17 @@
 				"path": "./themes/G-dark-one-love.theme-color-theme.json"
 			},
 			{
+
+				"label": "G Dark (Night Shift)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-night-shift.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Purple)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-purple.theme-color-theme.json"
+			},
+			{
 				"label": "G Light",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-light.theme-color-theme.json"
@@ -65,11 +76,6 @@
 				"label": "G Dark Blue",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-blue.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark (Black)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-black.theme-color-theme.json"
 			}
 		]
 	},
