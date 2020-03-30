@@ -2,6 +2,15 @@
 
 All notable changes to the **G Dark** themes will be documented in this file.
 
+## 2.1.0
+
+New Themes
+
+- G Dark (Purple)
+- G Dark (Night Owl)
+
+*Those are the last two (2) in the set, will keep improving from now on.*
+
 ## version 2.0.2
 
 **Minor Improvements**
