@@ -1,12 +1,12 @@
 # G-dark Theme for Vscode
 
+---
+
 ## Atom Editor
 
 G Dark thems for [Atom](https://atom.io/users/stoneC0der)
 
----
-
-Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS*** and ***JS (Vanilla)***
+Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown** and ***JS (Vanilla)***
 
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 
@@ -21,8 +21,7 @@ Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the
 
 ---
 
-**G Dark (Silver)**
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.png" style="margin:5px auto;border-radius:5px;box-shadow:0px 0px 15px -10px rgba(10,10,10,0.50)">
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/testing/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
 
 ### Getting started
 
@@ -62,9 +61,15 @@ To get the most out of this them please add the following configuration:
 
 1. Download and install Haskling fonts
   [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBreains Mono](https://www.jetbrains.com/lp/mono/)
-2. Enable ligature in vscode setting.
-or add to settings.json :
-  ```"editor.fontLigatures": true,```
+2. Enable ligature in vscode setting or add to settings.json :
+
+```json
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "600",
+  "editor.fontSize": 14.5,
+  "window.zoomLevel": 1,
+```
+  
 3. Install [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow, "Indent-Rainbow")
 
 - add this to settings.json:
@@ -84,13 +89,13 @@ or add to settings.json :
       ],
   ```
 
-4. Add the following to setting.json
+4 Add the following to setting.json
 
 ```json
     "editor.renderWhitespace": "selection",
 ```
 
-5. Auto switch between dark and light theme (macOS only)
+5 Auto switch between dark and light theme (macOS only)
 
   Install [auto-darkmode](https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode, "Auto Dark Mode")
 
@@ -99,6 +104,39 @@ or add to settings.json :
 ```json
     "autoDarkMode.darkTheme": "G Dark",
     "autoDarkMode.lightTheme": "G Light",
+```
+
+6 For colored brackets
+
+```json
+    "editor.fontWeight": "600",
+    "bracketPairColorizer.forceUniqueOpeningColor":true,
+    "bracketPairColorizer.forceIterationColorCycle":true,
+    "bracketPairColorizer.colorMode":"Consecutive",
+    "bracketPairColorizer.highlightActiveScope":true,
+    "bracketPairColorizer.activeScopeCSS":[
+        "borderStyle : solid",
+        "borderWidth : 1px",
+        "borderColor : {color}; opacity: 0.3",
+        "backgroundColor : {color}"
+    ],
+    "editor.matchBrackets":"never",
+    "bracketPairColorizer.showBracketsInGutter":true,
+    "bracketPairColorizer.consecutivePairColors":[
+        "()",
+        "[]",
+        "{}",
+        ["<", "</"],
+        ["<", "/>"],
+        [
+            "Gold",
+            "Orchid",
+            "LightSkyBlue",
+            "#854442",
+            "#08C08C"
+        ],
+        "Red"
+    ],
 ```
 
 ### From Vscode
