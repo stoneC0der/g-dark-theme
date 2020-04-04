@@ -2,6 +2,18 @@
 
 All notable changes to the **G Dark** themes will be documented in this file.
 
+## 2.1.1
+
+Changes
+
+- User defined functions are now blue-like color
+- Built-in functions indigo like color
+
+Improvements
+
+- improve font-color opacity to reduce eyestrain
+- Improve editor background-color
+
 ## 2.1.0
 
 New Themes
