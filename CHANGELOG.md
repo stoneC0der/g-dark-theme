@@ -2,6 +2,10 @@
 
 All notable changes to the **G Dark** themes will be documented in this file.
 
+## 2.1.2
+
+- Fix comments in dark themes
+
 ## 2.1.1
 
 Changes
