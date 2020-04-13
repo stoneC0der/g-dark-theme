@@ -11,7 +11,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#1e2221"
+        "foreground": "#414a47"
       }
     },
     {
@@ -248,7 +248,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#626962"
+        "foreground": "#5c855c"
       }
     },
     {
