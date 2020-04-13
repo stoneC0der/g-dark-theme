@@ -4,7 +4,7 @@
 
 ## Atom Editor
 
-G Dark thems for [Atom](https://atom.io/users/stoneC0der)
+G Dark themes for [Atom](https://atom.io/users/stoneC0der)
 
 Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown** and ***JS (Vanilla)***
 
