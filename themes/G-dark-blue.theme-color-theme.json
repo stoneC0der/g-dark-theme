@@ -716,8 +716,6 @@
   "colors": {
     "editor.foldBackground": "#0608276b",
     "focusBorder": "#f1efef",
-    "contrastActiveBorder" : "#010214",
-    "contrastBorder":"#010214",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#29404b",
     "scrollbar.shadow": "#010d1300",
@@ -761,6 +759,8 @@
     "tab.inactiveBackground": "#010214",
     "tab.unfocusedActiveForeground": "#022d4e",
     "tab.border": "#02061A",
+    "contrastBorder": "#02061A",
+    "contrastActiveBorder": "#02061A",
     "statusBar.noFolderBackground": "#02151f",
     "statusBar.border": "#010214",
     "statusBar.background": "#02061A",
