@@ -930,7 +930,7 @@
     "peekViewResult.matchHighlightBackground": "#a2d1f520",
     "peekViewEditor.matchHighlightBackground": "#a2d1f520",
     "debugToolBar.background": "#020909",
-    "pickerGroup.foreground": "#80cfdd",
+    "pickerGroup.foreground": "#2c555c",
     "gitDecoration.deletedResourceForeground": "#FF537090",
     "gitDecoration.conflictingResourceForeground": "#f7bc50a2",
     "gitDecoration.modifiedResourceForeground": "#0e6eadcb",
