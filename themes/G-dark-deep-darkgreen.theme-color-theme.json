@@ -888,7 +888,7 @@
     "terminal.ansiBrightMagenta": "#C792EA",
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#FFCB6B",
-    "scrollbar.shadow": "#0c221936",
+    "scrollbar.shadow": "#07150f",
     "scrollbarSlider.background": "#1c1e1fbb",
     "scrollbarSlider.hoverBackground": "#83a8c410",
     "scrollbarSlider.activeBackground": "#262733",
