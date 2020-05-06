@@ -1,8 +1,8 @@
 {
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
-	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "2.1.2",
+	"description": "Minimalist Blue Whale vscode theme.",
+	"version": "2.2.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -30,7 +30,9 @@
 		"black",
 		"night",
 		"indigo",
-		"purple"
+		"purple",
+		"silver",
+		"colorful"
 	],
 	"galleryBanner": {
 		"color": "#003248",
@@ -44,7 +46,7 @@
 				"path": "./themes/G-dark.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (OL)",
+				"label": "G Dark (One Love)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-one-love.theme-color-theme.json"
 			},
@@ -75,7 +77,7 @@
 				"path": "./themes/G-dark-deep-darkgreen.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark Blue",
+				"label": "G Dark Blue (High Contrast)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-blue.theme-color-theme.json"
 			}
