@@ -1,6 +1,32 @@
 # Change Log
 
-All notable changes to the **G Dark** themes will be documented in this file.
+Thanks for the love, any suggestion is welcome
+
+## 2.2.0
+
+- Added shadow to all themes (mini-map & tabs)
+- Change active tab for some themes to be the same as the editor background
+
+- Improved background colors of some themes
+- Improved indentGuide for some themes (only the active indent is now shown)
+
+- Fixed peek view in some themes
+- Fixed unexpected Active Tab top border (Removed)
+- Fixed widget background for themes
+- Fixed Tabs contrast border (Now has the same color as tab background)
+
+**I Have made new themes with alternate background-color for:**
+
+- *G Dark Blue (Contrast) => alternative (Light blue background)*
+- *G Silver => alternative (Dark background Hight Contrast)*
+- *G Dark (OL => One Love) => alternative (Green Like Background)*
+
+**I'm Currently testing them, if you wish to try theme now, you can download pre-release version on [github]().**
+
+**Current alternative are:**
+
+- *G dark (Default) => G Dark (Purple)*
+- *G Dark (Deep Dark Green) => G Dark (Night Shift)*
 
 ## 2.1.2
 
