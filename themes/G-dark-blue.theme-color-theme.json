@@ -718,7 +718,7 @@
     "focusBorder": "#f1efef",
     "editorCursor.foreground": "#FFCC00",
     "editorRuler.foreground": "#29404b",
-    "scrollbar.shadow": "#010d1300",
+    "scrollbar.shadow": "#020214",
     "editorLink.activeForeground": "#b9d9f1",
     "selection.background": "#066ebd2c",
     "progressBar.background": "#80CBC4",
