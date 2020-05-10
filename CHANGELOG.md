@@ -5,6 +5,7 @@ Thanks for the love, any suggestion is welcome
 ## 2.2.1
 
 - Added back  a little bit of darkness to sidebar, tabs, panel and terminal, inputs,...
+- Fixed terminal black forground
 
 ## 2.2.0
 
