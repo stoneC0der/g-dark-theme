@@ -2,6 +2,10 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 2.2.1
+
+- Added back  a little bit of darkness to sidebar, tabs, panel and terminal, inputs,...
+
 ## 2.2.0
 
 - Added shadow to all themes (mini-map & tabs)
