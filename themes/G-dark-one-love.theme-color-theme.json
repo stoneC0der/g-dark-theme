@@ -969,6 +969,13 @@
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#19364790",
     "quickInput.background": "#1d1f26",
-    "quickInput.foreground": "#4e808b"
+    "quickInput.foreground": "#4e808b",
+    "icon.foreground": "#12141dec",
+    "inputValidation.warningBackground":"#12141d",
+    "inputValidation.warningForeground": "#82abe9",
+    "editor.snippetTabstopHighlightBackground": "#12141d36",
+    "editor.snippetTabstopHighlightBorder": "#12141dec",
+    "editor.snippetFinalTabstopHighlightBackground":"#12141d36",
+    "editor.snippetFinalTabstopHighlightBorder":"#12141dec"
   }
 }

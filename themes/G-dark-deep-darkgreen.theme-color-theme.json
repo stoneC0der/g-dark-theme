@@ -850,10 +850,10 @@
     "sideBarTitle.foreground": "#40636be8",
     "sideBarSectionHeader.background": "#020909",
     "sideBarSectionHeader.border": "#33333d5b",
-    "input.background": "#15161b",
+    "input.background": "#070e0c",
     "input.foreground": "#81b0d4",
     "input.placeholderForeground": "#44709260",
-    "inputOption.activeBorder": "#15161b",
+    "inputOption.activeBorder": "#070e0c",
     "input.border": "#020909",
     "inputValidation.errorBorder": "#FF537050",
     "inputValidation.infoBorder": "#82AAFF50",
@@ -965,8 +965,14 @@
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#19364790",
-    // "tab.activeBorderTop": "#ff0000"
     "quickInput.background": "#020909",
-    "quickInput.foreground": "#31515f"
+    "quickInput.foreground": "#31515f",
+    "icon.foreground": "#070e0c",
+    "inputValidation.warningBackground":"#020909",
+    "inputValidation.warningForeground": "#82abe9",
+    "editor.snippetTabstopHighlightBackground": "#2786865b",
+    "editor.snippetTabstopHighlightBorder": "#3a7262c4",
+    "editor.snippetFinalTabstopHighlightBackground":"#187e7e36",
+    "editor.snippetFinalTabstopHighlightBorder":"#274e43"
   }
 }

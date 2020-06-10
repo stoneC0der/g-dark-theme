@@ -968,6 +968,13 @@
       "tree.indentGuidesStroke": "#19364790",
       // command palette
       "quickInput.background": "#17181f",
-      "quickInput.foreground": "#31515f"
+      "quickInput.foreground": "#31515f",
+      "icon.foreground": "#1D1F25",
+      "inputValidation.warningBackground":"#1D1F25",
+      "inputValidation.warningForeground": "#82abe9",
+      "editor.snippetTabstopHighlightBackground": "#00324836",
+      "editor.snippetTabstopHighlightBorder": "#1D1F25",
+      "editor.snippetFinalTabstopHighlightBackground":"#00324836",
+      "editor.snippetFinalTabstopHighlightBorder":"#1D1F25"
     }
   }

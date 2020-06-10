@@ -831,7 +831,7 @@
     "editorSuggestWidget.border": "#FFFFFF",
     "editorError.foreground": "#FF5370",
     "editorWarning.foreground": "#C3E88D",
-    "editorWidget.background": "#010d13",
+    "editorWidget.background": "#010214",
     "editorWidget.resizeBorder": "#80CBC4",
     // "editorWidget.border": "",
     "editorMarkerNavigation.background": "#F0F8FE",
@@ -896,6 +896,12 @@
     "listFilterWidget.background": "#1719358c",
     "listFilterWidget.outline": "#1719358c",
     "listFilterWidget.noMatchesOutline": "#1719358c",
-    "tree.indentGuidesStroke": "#1719358c"
+    "tree.indentGuidesStroke": "#1719358c",
+    "inputValidation.warningBackground":"#010214",
+    "inputValidation.warningForeground": "#82abe9",
+    "editor.snippetTabstopHighlightBackground": "#171c70c2",
+    "editor.snippetTabstopHighlightBorder": "#070a41c4",
+    "editor.snippetFinalTabstopHighlightBackground":"#01021436",
+    "editor.snippetFinalTabstopHighlightBorder":"#0b0f58"
   }
 }
