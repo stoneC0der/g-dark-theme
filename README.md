@@ -55,13 +55,43 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
 
-#### Custom Settings
+### Recommended places to use this theme
+
+#### Outdoor / Very bright room (daylight)
+
+- G Dark (Light)
+- G Dark (Silver)
+- G Dark (Purple)
+
+#### Indoor / Low light
+
+- G Dark (Night Shift)
+- G Dark (One Love)
+- G dark (One Love Dark Green) *coming soon*
+- G Dark Blue (Light) *coming soon*
+- Dark (Black Silver) *coming soon*
+
+#### Dark Room with Dimmed light
+
+- All The black themes including Hight Contrast one.
+
+#### Dark Room (only computer light)
+
+- All hight contrast themes
+- Some of the dark themes might do
+
+#### Themes I think can be used in any situation
+
+- G Dark (default)
+- G Dark Blue (Light)
+
+### Custom Settings
 
 To get the most out of this them please add the following configuration:
 
-1. Download and install Haskling fonts
-  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBreains Mono](https://www.jetbrains.com/lp/mono/)
-2. Enable ligature in vscode setting or add to settings.json :
+1 Download and install Haskling fonts
+  [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+2 Enable ligature in vscode setting or add to settings.json :
 
 ```json
   "editor.fontLigatures": true,
@@ -69,8 +99,8 @@ To get the most out of this them please add the following configuration:
   "editor.fontSize": 14.5,
   "window.zoomLevel": 1,
 ```
-  
-3. Install [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow, "Indent-Rainbow")
+
+3 Install [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow, "Indent-Rainbow")
 
 - add this to settings.json:
 
@@ -139,7 +169,7 @@ To get the most out of this them please add the following configuration:
     ],
 ```
 
-### From Vscode
+## From Vscode
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `g-dark`
