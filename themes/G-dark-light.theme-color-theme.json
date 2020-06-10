@@ -932,5 +932,12 @@
     "listFilterWidget.background": "#ebebf5",
     "listFilterWidget.outline": "#d2d2e2",
     "listFilterWidget.noMatchesOutline": "#a5a5c4",
+    "icon.foreground": "#3f4356",
+    "inputValidation.warningBackground":"#f3f2f2",
+    "inputValidation.warningForeground": "#25272e",
+    "editor.snippetTabstopHighlightBackground": "#e2d89e36",
+    "editor.snippetTabstopHighlightBorder": "#e2d89e",
+    "editor.snippetFinalTabstopHighlightBackground":"#e2d89e36",
+    "editor.snippetFinalTabstopHighlightBorder":"#e2d89e"
   }
 }

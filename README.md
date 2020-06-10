@@ -6,13 +6,11 @@
 
 G Dark themes for [Atom](https://atom.io/users/stoneC0der)
 
-Optimized for **PHP**, **Laval**, **Blade Template**, **Jinja**, **Python**, **HTML**, **CSS**, **JSON**, **Markdown**, **JS (Vanilla)**, should be fine with **Others Languages**.
-
-**ALTERNATIVE BACKGROUNDS FOR G SILVER, G DARK (OL => ONE LOVE) & G DARK BLUE HIGHT CONTRAST COMING SOON CURRENTLY TESTING**
+Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown** and ***JS (Vanilla)***
 
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 
-Tested on **macOS**
+*Tested on **macOS***
 
 - [Getting started](#getting-started)
   - [Installation](#installation)
@@ -56,36 +54,6 @@ code --install-extension vsc-g-dark-theme-*.*.*.vsix
 ``` -->
 
 or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
-
-### Recommended scenarios to use this theme:
-
-**Outdoor / Very bright room (daylight)**
-
-- G Dark (Light)
-- G Dark (Silver)
-- G Dark (Purple)
-
-**Indoor / Low light**
-
-- G Dark (Night Shift)
-- G Dark (One Love)
-- G dark (One Love Dark Green) *coming soon*
-- G Dark Blue (Light) *coming soon*
-- Dark (Black Silver) *coming soon*
-
-**Dark Room with Dimmed light**
-
-- All The black themes including Hight Contrast one.
-
-**Dark Room (only computer light)**
-
-- All hight contrast themes
-- Some of the dark themes might do
-
-**Themes the I believe belong to every scenarios**
-
-- G Dark (default)
-- G Dark Blue (Light)
 
 #### Custom Settings
 

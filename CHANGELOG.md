@@ -2,6 +2,11 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 2.3.0
+
+- New Themes
+- Improvements
+
 ## 2.2.2
 
 - Added recommended scenarios/environments to use this theme
