@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
 	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "2.1.2",
+	"version": "2.3.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -44,7 +44,12 @@
 				"path": "./themes/G-dark.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (OL)",
+				"label": "G Dark (Blueish)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-blueish.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (One Love)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-one-love.theme-color-theme.json"
 			},
@@ -58,6 +63,16 @@
 				"label": "G Dark (Purple)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-purple.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (One Love Greeny)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-one-love-greeny.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark Blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-blue-light.theme-color-theme.json"
 			},
 			{
 				"label": "G Light",
@@ -75,9 +90,14 @@
 				"path": "./themes/G-dark-deep-darkgreen.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark Blue",
+				"label": "G Dark Blue (High Contrast)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-blue.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Silver-Dark)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-silver-dark.theme-color-theme.json"
 			}
 		]
 	},
