@@ -970,7 +970,7 @@
     "tree.indentGuidesStroke": "#19364790",
     "quickInput.background": "#091a20",
     "quickInput.foreground": "#4e808b",
-    "icon.foreground": "#07161b",
+    // "icon.foreground": "#07161b",
     "inputValidation.warningBackground":"#07161b",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#00324836",
