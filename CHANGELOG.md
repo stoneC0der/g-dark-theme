@@ -2,6 +2,10 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 2.3.1
+
+- Fix icons foreground
+
 ## 2.3.0
 
 - New Themes
