@@ -976,7 +976,7 @@
     "listFilterWidget.outline": "#121A2130",
     "listFilterWidget.noMatchesOutline": "#121A2130",
     "tree.indentGuidesStroke": "#19364790",
-    "icon.foreground": "#121A21",
+    // "icon.foreground": "#121A21",
     "inputValidation.warningBackground":"#172024",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#121A215b",

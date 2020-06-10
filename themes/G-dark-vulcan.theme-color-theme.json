@@ -969,7 +969,7 @@
       // command palette
       "quickInput.background": "#17181f",
       "quickInput.foreground": "#31515f",
-      "icon.foreground": "#1D1F25",
+      // "icon.foreground": "#1D1F25",
       "inputValidation.warningBackground":"#1D1F25",
       "inputValidation.warningForeground": "#82abe9",
       "editor.snippetTabstopHighlightBackground": "#00324836",
