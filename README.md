@@ -8,8 +8,6 @@ G Dark themes for [Atom](https://atom.io/users/stoneC0der)
 
 Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
 
-***ALTERNATIVE BACKGROUNDS FOR G SILVER, G DARK (OL => ONE LOVE) & G DARK BLUE HIGHT CONTRAST COMING SOON CURRENTLY TESTING***
-
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 
 *Tested on **macOS***
