@@ -2,6 +2,24 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 2.3.1
+
+- Fix icons foreground
+
+## 2.3.0
+
+- New Themes
+- Improvements
+
+## 2.2.2
+
+- Added recommended scenarios/environments to use this theme
+
+## 2.2.1
+
+- Added back  a little bit of darkness to sidebar, tabs, panel and terminal, inputs,...
+- Fixed terminal black forground
+
 ## 2.2.0
 
 - Added shadow to all themes (mini-map & tabs)
@@ -21,7 +39,7 @@ Thanks for the love, any suggestion is welcome
 - *G Silver => alternative (Dark background Hight Contrast)*
 - *G Dark (OL => One Love) => alternative (Green Like Background)*
 
-**I'm Currently testing them, if you wish to try theme now, you can download pre-release version on [github]().**
+**I'm Currently testing them, if you wish to try theme now, the pre-release version on will be uploaded to the testing branch before I push the the updated.**
 
 **Current alternative are:**
 

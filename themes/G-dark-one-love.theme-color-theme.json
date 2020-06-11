@@ -1,5 +1,5 @@
 {
-  "name": "G Dark (One Love)",
+  "name": "G Dark (OL)",
   "type": "dark",
   "tokenColors": [
     // {
@@ -890,7 +890,7 @@
     "terminal.ansiBrightMagenta": "#C792EA",
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#FFCB6B",
-    "scrollbar.shadow": "#131419",
+    "scrollbar.shadow": "#16293318",
     "scrollbarSlider.background": "#2e394321",
     "scrollbarSlider.hoverBackground": "#83a8c410",
     "scrollbarSlider.activeBackground": "#262733",
@@ -905,7 +905,7 @@
     "editorWidget.resizeBorder": "#a2d1f5",
     // "editorWidget.border": "",
     "editorMarkerNavigation.background": "#33758b05",
-    "widget.shadow": "#131719",
+    "widget.shadow": "#191A20",
     "panel.border": "#242d4760",
     "panel.background": "#1d1f26",
     "panel.dropBackground": "#a2d1f5",
@@ -969,6 +969,13 @@
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#19364790",
     "quickInput.background": "#1d1f26",
-    "quickInput.foreground": "#4e808b"
+    "quickInput.foreground": "#4e808b",
+    // "icon.foreground": "#12141dec",
+    "inputValidation.warningBackground":"#12141d",
+    "inputValidation.warningForeground": "#82abe9",
+    "editor.snippetTabstopHighlightBackground": "#12141d36",
+    "editor.snippetTabstopHighlightBorder": "#12141dec",
+    "editor.snippetFinalTabstopHighlightBackground":"#12141d36",
+    "editor.snippetFinalTabstopHighlightBorder":"#12141dec"
   }
 }
