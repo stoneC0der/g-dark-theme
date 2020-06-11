@@ -4,8 +4,8 @@ Thanks for the love, any suggestion is welcome
 
 ## 3.0.0
 
-- Renamed all themes to match editor background color name
-- New light & Dark theme
+- Renamed all themes to match the editor background-color name (giving names to themes was becoming hard 😅)
+- New light (G Dark Alice Blue) & dark theme (G Dark Valhalla)
 
 ## 2.3.1
 
