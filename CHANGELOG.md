@@ -2,6 +2,11 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 3.0.0
+
+- Renamed all themes to match editor background color name
+- New light & Dark theme
+
 ## 2.3.1
 
 - Fix icons foreground
