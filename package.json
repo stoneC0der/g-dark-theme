@@ -39,7 +39,7 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "G Dark (Blue Whale)",
+				"label": "G Dark (Default)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-blue-whale.theme-color-theme.json"
 			},
