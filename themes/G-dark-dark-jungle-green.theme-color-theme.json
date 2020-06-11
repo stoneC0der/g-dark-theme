@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD:themes/G-dark-dark-jungle-green.theme-color-theme.json
   "name": "G Dark (Dark Jungle Green)",
+=======
+  "name": "G Dark (OL)",
+>>>>>>> 6da4091e4eb593e185cca2c02f479664fafea3b9:themes/G-dark-one-love.theme-color-theme.json
   "type": "dark",
   "tokenColors": [
     // {
