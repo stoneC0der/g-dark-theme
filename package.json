@@ -39,65 +39,75 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "G Dark (Default)",
+				"label": "G Dark (Blue Whale)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark.theme-color-theme.json"
+				"path": "./themes/G-dark-blue-whale.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Blueish)",
+				"label": "G Dark (Cool Black)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-blueish.theme-color-theme.json"
+				"path": "./themes/G-dark-cool-black.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (One Love)",
+				"label": "G Dark (Valhalla)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-one-love.theme-color-theme.json"
+				"path": "./themes/G-dark-valhalla.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Dark Jungle Green)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-dark-jungle-green.theme-color-theme.json"
 			},
 			{
 
-				"label": "G Dark (Night Shift)",
+				"label": "G Dark (Vulcan)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-night-shift.theme-color-theme.json"
+				"path": "./themes/G-dark-vulcan.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Purple)",
+				"label": "G Dark (Jacksons Purple)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-purple.theme-color-theme.json"
+				"path": "./themes/G-dark-jacksons-purple.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (One Love Greeny)",
+				"label": "G Dark (Black Pearl)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-one-love-greeny.theme-color-theme.json"
+				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark Blue",
+				"label": "G Dark (Midnight)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-blue-light.theme-color-theme.json"
+				"path": "./themes/G-dark-midnight.theme-color-theme.json"
 			},
 			{
-				"label": "G Light",
+				"label": "G Dark (Hint of Red)",
 				"uiTheme": "vs",
-				"path": "./themes/G-dark-light.theme-color-theme.json"
+				"path": "./themes/G-dark-hint-of-red.theme-color-theme.json"
 			},
 			{
-				"label": "G Light (Silver)",
+				"label": "G Dark (Glitter)",
 				"uiTheme": "vs",
-				"path": "./themes/G-dark-silver.theme-color-theme.json"
+				"path": "./themes/G-dark-glitter.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Deep Dark Green)",
-				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-deep-darkgreen.theme-color-theme.json"
+				"label": "G Dark (Alice Blue)",
+				"uiTheme": "vs",
+				"path": "./themes/G-dark-alice-blue.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark Blue (High Contrast)",
+				"label": "G Dark (Midnight Moss)",
 				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-blue.theme-color-theme.json"
+				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Silver-Dark)",
+				"label": "G Dark (Blue Charcoal)",
 				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-silver-dark.theme-color-theme.json"
+				"path": "./themes/G-dark-blue-charcoal.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Mirage)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-mirage.theme-color-theme.json"
 			}
 		]
 	},
