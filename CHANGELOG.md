@@ -35,7 +35,7 @@ Thanks for the love, any suggestion is welcome
 - *G Silver => alternative (Dark background Hight Contrast)*
 - *G Dark (OL => One Love) => alternative (Green Like Background)*
 
-**I'm Currently testing them, if you wish to try theme now, the pre-release version on will be uploaded to the testing branch before I push the the updated.**
+**I'm Currently testing them, if you wish to try theme now, you can download pre-release version on [github]().**
 
 **Current alternative are:**
 
