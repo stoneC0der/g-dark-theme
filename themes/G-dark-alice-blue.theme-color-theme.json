@@ -920,7 +920,7 @@
     "notifications.foreground": "#556179",
     "notificationLink.foreground": "#627ad1",
     "badge.background": "#00000030",
-    "badge.foreground": "#546E7A",
+    "badge.foreground": "#2d3a41",
     "button.background": "#1c7a7120",
     "button.hoverBackground": "#cbdaf4",
     "button.foreground": "#495464",
