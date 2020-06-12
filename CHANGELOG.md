@@ -2,6 +2,11 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 3.0.1
+
+- Fixed buttons & badges not displaying correctly for some themes
+- Improve activityBarBadges for some themes
+
 ## 3.0.0
 
 - Renamed all themes to match the editor background-color name (giving names to themes was becoming hard 😅)
