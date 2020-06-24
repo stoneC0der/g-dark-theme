@@ -2,6 +2,12 @@
 
 Thanks for the love, any suggestion is welcome
 
+## 3.1.0
+
+- Improved breadscrumb (G-dark Mirage)
+- Improved editor background color & any ui using the same color (G-dark Dark Jungle Green)
+- Improved variable, tag, punctuation, built-in function, string & attribute (G-dark Midnight)
+
 ## 3.0.1
 
 - Fixed buttons & badges not displaying correctly for some themes
