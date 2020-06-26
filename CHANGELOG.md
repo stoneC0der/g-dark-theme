@@ -5,11 +5,12 @@ Thanks for the love, any suggestion is welcome
 
 ## 3.2.0
 
+- Minor improvements to variable, functions, string, tags and more (G Dark OL Dark Jungle, G Dark OL Black Perl)
+
 ### NEW
 
+- Darken statusbar (G Dark OL Dark Jungle)
 - Added identifier to themes with same syntax theme and different background-color
-
-- Minor improvements to variable, functions, string, tags and more (G Dark OL Dark Jungle, G Dark OL Black Perl)
 
 ## 3.1.0
 
