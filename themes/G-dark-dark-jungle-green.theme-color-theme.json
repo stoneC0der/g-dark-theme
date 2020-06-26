@@ -46,7 +46,7 @@
         "constant.other.php"
       ],
       "settings": {
-        "foreground": "#e47e0a"
+        "foreground": "#e48c28"
       }
     },
     {
@@ -55,7 +55,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#8d4d03",
+        "foreground": "#d37306",
         "fontStyle": "bold"
       }
     },
@@ -93,7 +93,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground" : "#e7d114e2"
+        "foreground" : "#ebd936e2"
       }
     },
     {
@@ -123,7 +123,7 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#d967f3e8"
+        "foreground": "#e47dfce8"
       }
     },
     {
@@ -143,7 +143,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#c660eef3"
+        "foreground": "#d56afff3"
       }
     },
     {
@@ -166,7 +166,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fd2a2aef"
+        "foreground": "#fa3333ef"
       }
     },
     {
@@ -176,7 +176,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#d11daa",
+        "foreground": "#d336b1f1",
         "fontStyle": "bold"
       }
     },
@@ -189,7 +189,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#168fb1"
+        "foreground": "#20b8e2"
       }
     },
     {
@@ -199,7 +199,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#f53169ec"
+				"foreground": "#f82a64"
 			}
     },
     {
@@ -278,7 +278,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#24da82e1"
+        "foreground": "#26e4abe1"
       }
     },
     {
@@ -312,7 +312,7 @@
         "meta.use.php",
       ],
       "settings": {
-        "foreground": "#ec3333e1",
+        "foreground": "#fa3d3def",
         // "fontStyle": "bold"
       }
     },
@@ -397,7 +397,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#fbc913d3"
+        "foreground": "#f8cd33f1"
       }
     },
     {
@@ -406,7 +406,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#fbc913d3"
+        "foreground": "#f8cd33f1"
       }
     },
     {
@@ -822,7 +822,7 @@
     "tab.activeModifiedBorder": "#607a86",
     "tab.unfocusedActiveBorder": "#546E7A",
     "tab.activeForeground": "#abd1da",
-    "tab.activeBackground": "#1a1b21",
+    "tab.activeBackground": "#17181F",
     "tab.inactiveForeground": "#4b6470ea",
     "tab.inactiveBackground": "#1D1F28",
     "tab.unfocusedActiveForeground": "#33758b",
@@ -830,7 +830,7 @@
     "tab.hoverBorder": "#17181d",
     "statusBar.noFolderBackground": "#1D1F28",
     "statusBar.border": "#1D1F28",
-    "statusBar.background": "#1D1F28",
+    "statusBar.background": "#191b22",
     "statusBar.foreground": "#31515f",
     "statusBar.debuggingBackground": "#C792EA",
     "statusBar.debuggingForeground": "#bbd9f3",
@@ -846,7 +846,7 @@
     "titleBar.activeForeground": "#33758b",
     "titleBar.inactiveBackground": "#1D1F28",
     "titleBar.inactiveForeground": "#607a86",
-    "sideBar.background": "#12141d9c",
+    "sideBar.background": "#17181F",
     "sideBar.foreground": "#4e808b",
     "sideBar.border": "#1D1F28",
     "titleBar.border": "#17181D60",
@@ -920,11 +920,11 @@
     "badge.background": "#262831",
     "badge.foreground": "#a7d9f0",
     "button.background": "#2a2d37",
-    "button.hoverBackground": "#12141d9c",
+    "button.hoverBackground": "#17181F",
     "button.foreground": "#97c2d6",
     "extensionButton.prominentBackground": "#2a2d37",
     "extensionButton.prominentForeground": "#97c2d6",
-    "extensionButton.prominentHoverBackground": "#12141d9c",
+    "extensionButton.prominentHoverBackground": "#17181F",
     "peekView.border": "#00000030",
     "peekViewEditor.background": "#33758b05",
     "peekViewTitle.background": "#33758b05",
@@ -968,9 +968,9 @@
     "listFilterWidget.background": "#33758b05",
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
-    "tree.indentGuidesStroke": "#19364790",
+    "tree.indentGuidesStroke": "#1D1F28",
     "quickInput.background": "#1D1F28",
-    "quickInput.foreground": "#4e808b",
+    "quickInput.foreground": "#82abe9",
     // "icon.foreground": "#12141dec",
     "inputValidation.warningBackground":"#12141d",
     "inputValidation.warningForeground": "#82abe9",
