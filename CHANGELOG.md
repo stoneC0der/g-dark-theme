@@ -1,6 +1,15 @@
 # Change Log
 
 Thanks for the love, any suggestion is welcome
+**Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
+
+## 3.2.0
+
+### NEW
+
+- Added identifier to themes with same syntax theme and different background-color
+
+- Minor improvements to variable, functions, string, tags and more (G Dark OL Dark Jungle, G Dark OL Black Perl)
 
 ## 3.1.0
 
