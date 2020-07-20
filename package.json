@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
 	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "3.2.0",
+	"version": "3.3.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -69,6 +69,11 @@
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
 			{
+				"label": "G Dark OL (Mirage)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
+			},
+			{
 
 				"label": "G Dark NS (Vulcan)",
 				"uiTheme": "vs-dark",
@@ -78,6 +83,11 @@
 				"label": "G Dark NS (Midnight Moss)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark NS (Mirage)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-ns-mirage.theme-color-theme.json"
 			},
 			{
 				"label": "G Dark YB (Midnight)",
