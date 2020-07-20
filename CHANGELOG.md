@@ -3,6 +3,17 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 3.3.0
+
+### New
+
+- Added two (2) new background shade for G Dark NS & G Dark OL
+
+### Change
+
+- Switch activeTabBackground color with InactiveTabBackground for G Dark OL themes (The active tab now matches the editor background for G Dark OL (Dark Jungle Green)
+- Minor improvements for G Dark NS (Vulcan)
+
 ## 3.2.0
 
 - Minor improvements to variable, functions, string, tags and more (G Dark OL Dark Jungle, G Dark OL Black Perl)
