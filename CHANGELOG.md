@@ -3,13 +3,26 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 3.3.1
+
+### Changes
+
+Change sidebarBackground to match activityBar background (G-Dark Mirage - High Contrast)
+Change ActiveTab background to match editorBackground & removed white border (G-Dark Mirage - High Contrast)
+
+## Improvements
+
+- Fixed wordHighlight not working properly (G-Dark Jacksons-Purple)
+- Improved selectionBackground (G-Dark Jackson-Purple & G-Dark Mirage - High Contrast)
+- removed unused properties
+
 ## 3.3.0
 
 ### New
 
 - Added two (2) new background shade for G Dark NS & G Dark OL
 
-### Change
+### Changes
 
 - Switch activeTabBackground color with InactiveTabBackground for G Dark OL themes (The active tab now matches the editor background for G Dark OL (Dark Jungle Green)
 - Minor improvements for G Dark NS (Vulcan)
