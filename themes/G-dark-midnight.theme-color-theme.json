@@ -838,7 +838,6 @@
     "widget.shadow": "#07182d",
     "panel.border": "#08182b",
     "panel.background": "#08182b",
-    "panel.dropBackground": "#08375c",
     "panelTitle.inactiveForeground": "#145180",
     "panelTitle.activeForeground": "#84afd6",
     "panelTitle.activeBorder": "#072c28",
