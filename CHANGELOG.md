@@ -7,6 +7,7 @@ Thanks for the love, any suggestion is welcome
 
 Improved peekView, editorSuggestionWidget, editorHoverWidget background (All themes)
 Improved listTree indent guide (G Dark Alice Blue & Glitter)
+Improved selection.background for some themes
 
 ## 3.3.1
 
