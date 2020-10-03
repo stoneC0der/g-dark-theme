@@ -801,7 +801,7 @@
       "editor.findRangeHighlightBackground":"#3ce7cb3f",
       "editor.wordHighlightBackground":"#1c4d3d10",
       "editor.wordHighlightBorder": "#1c4d419a",
-      "editor.selectionBackground": "#48cec709",
+      "editor.selectionBackground": "#2f3044ce",
       "editor.selectionHighlightBackground": "#384e6069",
       "editorOverviewRuler.border": "#1C1D27",
       "editorHoverWidget.background": "#1e1f2b",
