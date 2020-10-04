@@ -800,7 +800,7 @@
     "editor.foreground": "#a2afb5",
     "editor.lineHighlightBackground": "#0f0f0f07",
     "editor.lineHighlightBorder": "#ffffff0c",
-    "editor.hoverHighlightBackground": "#bcc8fa61",
+    "editor.hoverHighlightBackground": "#6e8bc53b",
     "editor.findMatchBackground": "#7799e223",
     "editor.findMatchHighlightBackground":"#6e8bc523",
     "editor.findMatchHighlightBorder": "#547491",
