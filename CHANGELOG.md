@@ -3,6 +3,10 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 3.4.1
+
+- minor fixes
+
 ## 3.4.0
 
 Improved peekView, editorSuggestionWidget, editorHoverWidget background, editor.hoverHighlight (All themes)
