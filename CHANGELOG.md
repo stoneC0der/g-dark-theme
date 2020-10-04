@@ -3,12 +3,12 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
-## 3.4
+## 3.4.0
 
-Improved peekView, editorSuggestionWidget, editorHoverWidget background (All themes)
+Improved peekView, editorSuggestionWidget, editorHoverWidget background, editor.hoverHighlight (All themes)
 Improved listTree indent guide (G Dark Alice Blue & Glitter)
 Improved selection.background for some themes
-improved editor.hoverHighlight
+Other minor improvements
 
 ### New
 
