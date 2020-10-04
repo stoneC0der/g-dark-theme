@@ -3,11 +3,15 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
-## 3.3.2
+## 3.4
 
 Improved peekView, editorSuggestionWidget, editorHoverWidget background (All themes)
 Improved listTree indent guide (G Dark Alice Blue & Glitter)
 Improved selection.background for some themes
+
+### New
+
+- Added border to findMatchHighlight, WordHighlight, WordHighlightStrong (All Themes)
 
 ## 3.3.1
 
