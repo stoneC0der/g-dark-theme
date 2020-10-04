@@ -12,6 +12,7 @@ Other minor improvements
 
 ### New
 
+- Redesigned icon
 - Added border to findMatchHighlight, WordHighlight, WordHighlightStrong (All Themes)
 
 ## 3.3.1
