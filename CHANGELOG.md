@@ -3,6 +3,12 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 3.4.2
+
+- Minor fixes & improvements
+
+**NOTE: *major update coming soon with lot of changes, new theme & improvements.***
+
 ## 3.4.1
 
 - minor fixes
