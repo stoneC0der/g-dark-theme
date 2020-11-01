@@ -1,8 +1,8 @@
 {
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
-	"description": "Minimalistic Blue Whale vscode theme.",
-	"version": "3.4.1",
+	"description": "Set of minimalistic themes for Visual Studio Code.",
+	"version": "4.0.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -30,7 +30,8 @@
 		"black",
 		"night",
 		"indigo",
-		"purple"
+		"purple",
+		"astro"
 	],
 	"galleryBanner": {
 		"color": "#003248",
@@ -44,11 +45,6 @@
 				"path": "./themes/G-dark-blue-whale.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Cool Black)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-cool-black.theme-color-theme.json"
-			},
-			{
 				"label": "G Dark (Valhalla)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-valhalla.theme-color-theme.json"
@@ -59,48 +55,23 @@
 				"path": "./themes/G-dark-jacksons-purple.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark OL (Dark Jungle Green)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-dark-jungle-green.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark OL (Black Pearl)",
+				"label": "G Dark (Black Pearl)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark OL (Mirage)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
-			},
-			{
 
-				"label": "G Dark NS (Vulcan)",
+				"label": "G Dark (Vulcan)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-vulcan.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark NS (Midnight Moss)",
+				"label": "G Dark (Midnight Moss)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark NS (Mirage)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-ns-mirage.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark YB (Midnight)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-midnight.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark YB (Blue Charcoal)",
-				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-blue-charcoal.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark Min (Astronaut Blue)",
+				"label": "G Dark (Astro)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-Dark-Astronaut-blue.theme-color-theme.json"
 			},
@@ -110,17 +81,17 @@
 				"path": "./themes/G-dark-hint-of-red.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark IP (Glitter)",
+				"label": "G Dark (Glitter)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-glitter.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark IP (Alice Blue)",
+				"label": "G Dark (Alice Blue)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-alice-blue.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark IP (Mirage)",
+				"label": "G Dark (Mirage)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-mirage.theme-color-theme.json"
 			}
