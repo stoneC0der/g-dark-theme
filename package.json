@@ -59,16 +59,17 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
+
+			{
+				"label": "G Dark (One Love)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
+			},
 			{
 
 				"label": "G Dark (Vulcan)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-vulcan.theme-color-theme.json"
-			},
-			{
-				"label": "G Dark (Midnight Moss)",
-				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
 			},
 			{
 				"label": "G Dark (Astro)",
@@ -94,7 +95,13 @@
 				"label": "G Dark (Mirage)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-mirage.theme-color-theme.json"
-			}
+			},
+
+			{
+				"label": "G Dark (Midnight Moss)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
+			},
 		]
 	},
 	"__metadata": {
