@@ -3,6 +3,32 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 4.0.0
+
+### New
+
+- Added a brand new theme with new syntax color
+  - G Dark (Astro)
+
+### Changes
+
+- **5 themes removed**
+  - Blue Charcoal
+  - Cool Black
+  - Midnight
+  - Mirage (NS)
+  - Dark green Jungle
+*Some of these themes were rarely in use by me meaning that I do not plan on updating/improving them.*
+*For those using the (deprecated) themes, check [G-Dark-D-themes](). Note that I won't be updating it unless the interest in those are worth it or you can open an issue on github to added the one you like back.*
+*The reason for a different package is that you might also use the themes that were kept so downloading a previous version won't be much of help in my humble opinion.*
+
+- G Dark (Mirage) 
+  - Syntax has been redesigned to a shade of pink & purple
+  - Borders where changed too
+- **C**, **Javascript**, **JSON** & **Markdown** syntax for some elements has change
+- Lot of improvements & fixes
+- The themes name as been changed back to their old (original) name, no more (**IP**, **OL**, **NS** & **YB**).
+
 ## 3.4.1
 
 - minor fixes
