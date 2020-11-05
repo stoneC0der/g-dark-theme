@@ -9,18 +9,17 @@ Thanks for the love, any suggestion is welcome
 
 - Added a brand new theme with new syntax color
   - G Dark (Astro)
+  - G Dark (H@ck3r)
 
 ### Changes
 
 - **5 themes removed**
   - Blue Charcoal
   - Cool Black
-  - Midnight
   - Mirage (NS)
-  - Dark green Jungle
-*Some of these themes were rarely in use by me meaning that I do not plan on updating/improving them.*
-*For those using the (deprecated) themes, check [G-Dark-D-themes](). Note that I won't be updating it unless the interest in those are worth it or you can open an issue on github to added the one you like back.*
-*The reason for a different package is that you might also use the themes that were kept so downloading a previous version won't be much of help in my humble opinion.*
+  - Dark Green Jungle
+
+**Read previous release details if you did not**.
 
 - G Dark (Mirage) 
   - Syntax has been redesigned to a shade of pink & purple
@@ -28,6 +27,32 @@ Thanks for the love, any suggestion is welcome
 - **C**, **Javascript**, **JSON** & **Markdown** syntax for some elements has change
 - Lot of improvements & fixes
 - The themes name as been changed back to their old (original) name, no more (**IP**, **OL**, **NS** & **YB**).
+
+- Rename G Dark (OL) to G Dark (One Love)
+
+## 3.5.0
+
+### Changes
+
+- C related languages functions arguments are now consistent with other languages such PHP & JavaScript
+- Added borderColor to inputs in some themes to improved visibility
+- Cleaned/removed duplicates, unused properties
+- Other improvements
+
+**These theme will be removed in version 4.0.0 update:**
+
+- **G Dark (Cool Black)**
+- **G Dark (Blue Charcoal)**
+- **G Dark (NS Mirage)**
+- **G Dark (Dark Jungle Green)**
+
+If you use any of the themes listed above and wish to keep using it, you can either extract the theme from the [G Dark Theme](https://github.com/stonec0der/g-dark-theme) & edit yourself then install or open an [issue](https://github.com/stonec0der/g-dark-theme/issues) I might upload another package with these on the marketplace but support and further improvements might be limited or nothing a all thank for the love.
+
+## 3.4.2
+
+- Minor fixes & improvements
+
+**NOTE: *major update coming soon with lot of changes, new themes & improvements.***
 
 ## 3.4.1
 
