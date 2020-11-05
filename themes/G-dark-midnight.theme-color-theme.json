@@ -742,7 +742,7 @@
     "input.background": "#08182B",
     "input.foreground": "#78a8cd",
     "input.placeholderForeground": "#4f687ae1",
-    "input.border": "#08182B",
+    "input.border": "#0A1E36",
     "inputValidation.errorBorder": "#FF5370",
     "inputValidation.infoBorder": "#82AAFF",
     "inputValidation.warningBorder": "#677696",
