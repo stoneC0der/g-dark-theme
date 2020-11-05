@@ -7,19 +7,19 @@ Thanks for the love, any suggestion is welcome
 
 ### Changes
 
-- C related languages functions arguments are now consistent with other languages such PHP & JavaScript
+- C related languages function arguments are now consistent with other languages such as PHP & JavaScript
 - Added borderColor to inputs in some themes to improved visibility
 - Cleaned/removed duplicates, unused properties
 - Other improvements
 
-**These theme will be removed in version 4.0.0 update:**
+**These themes will be removed in version 4.0.0 update:**
 
 - **G Dark (Cool Black)**
 - **G Dark (Blue Charcoal)**
 - **G Dark (NS Mirage)**
 - **G Dark (Dark Jungle Green)**
 
-If you use any of the themes listed above and wish to keep using it, you can either extract the theme from the [G Dark Theme](https://github.com/stonec0der/g-dark-theme) & edit yourself then install or open an [issue](https://github.com/stonec0der/g-dark-theme/issues) I might upload another package with these on the marketplace but support and further improvements might be limited or nothing a all thank for the love.
+If you use any of the themes listed above and wish to keep using it, you can either extract the theme from the [G Dark Theme](https://github.com/stonec0der/g-dark-theme) & edit yourself then install or open an [issue](https://github.com/stonec0der/g-dark-theme/issues) I might upload another package with these on the marketplace but support and further improvements might be limited or nothing at all thanks for the love.
 
 ## 3.4.2
 
