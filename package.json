@@ -76,6 +76,11 @@
 				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
 			},
 			{
+				"label": "G Dark (Midnight)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-midnight.theme-color-theme.json"
+			},
+			{
 				"label": "G Dark (Hint of Red)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-hint-of-red.theme-color-theme.json"
@@ -101,7 +106,7 @@
 				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (H@ck3r Midnight Moss)",
+				"label": "G Dark (H@ck3r)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-hacker-midnight-moss.theme-color-theme.json"
 			}
