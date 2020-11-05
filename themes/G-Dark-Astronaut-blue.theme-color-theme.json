@@ -229,21 +229,6 @@
         }
       },
       {
-        "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-        "scope": [
-          // "constant.numeric",
-          "constant.language",
-          "support.constant",
-          "constant.character",
-          "constant.escape",
-          "keyword.other.unit",
-          "keyword.other"
-        ],
-        "settings": {
-          "foreground": "#8291d1"
-        }
-      },
-      {
         "name": "Number",
         "scope": [
           "constant.numeric",
@@ -252,16 +237,6 @@
         ],
         "settings": {
           "foreground": "#99D5E1"
-        }
-      },
-      {
-        "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
-        "scope": [
-          "variable.parameter.function.language.special",
-          "variable.parameter"
-        ],
-        "settings": {
-          "foreground": "#ABB7F7"
         }
       },
       {

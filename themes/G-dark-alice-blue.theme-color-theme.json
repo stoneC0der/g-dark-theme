@@ -122,7 +122,7 @@
       }
     },
     {
-      "name": "Operator, Punctution",
+      "name": "Operator, Punctuation",
       "scope": [
         "punctuation",
         "punctuation.definition.tag",
@@ -212,7 +212,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#f76169"
+        "foreground": "#666b6dd7"
       }
     },
     {
@@ -221,7 +221,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#f58855ee"
+        "foreground": "#666b6dd7"
       }
     },
     {
@@ -231,21 +231,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#ae787bd8"
-      }
-    },
-    {
-      "name": "Number, Function Argument, Embedded",
-      "scope": [
-        "constant.numeric",
-        "constant.language",
-        "constant.character",
-        "constant.escape",
-        "keyword.other.unit",
-        "keyword.other"
-      ],
-      "settings": {
-        "foreground": "#03adb6e7"
+        "foreground": "#666b6dd7"
       }
     },
     {
@@ -257,16 +243,6 @@
       ],
       "settings": {
         "foreground": "#eb9018e8"
-      }
-    },
-    {
-      "name": "Number, Constant, Function Argument, Embedded",
-      "scope": [
-        "variable.parameter.function.language.special",
-        "variable.parameter"
-      ],
-      "settings": {
-        "foreground": "#569599"
       }
     },
     {
@@ -289,7 +265,7 @@
       "scope": [
         "entity.name",
         "support.type",
-        "support.orther.namespace.use.php",
+        "support.other.namespace.use.php",
         "meta.use.php",
         "support.other.namespace.php",
         "markup.changed.git_gutter",
@@ -351,47 +327,6 @@
       ],
       "settings": {
         "foreground": "#9d36f1ef"
-      }
-    },
-    {
-      "name": "Sub-methods",
-      "scope": [
-        "entity.name.module.js",
-        "variable.import.parameter.js",
-        "variable.other.class.js"
-      ],
-      "settings": {
-        "foreground": "#fc4e6bf5"
-      }
-    },
-    {
-      "name": "Language methods",
-      "scope": [
-        "variable.language"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#f86079f3"
-      }
-    },
-    {
-      "name": "entity.name.method.js",
-      "scope": [
-        "entity.name.method.js"
-      ],
-      "settings": {
-        "fontStyle": "italic",
-        "foreground": "#6b99fa"
-      }
-    },
-    {
-      "name": "meta.method.js",
-      "scope": [
-        "meta.class-method.js entity.name.function.js",
-        "variable.function.constructor"
-      ],
-      "settings": {
-        "foreground": "#4982fd"
       }
     },
     {
