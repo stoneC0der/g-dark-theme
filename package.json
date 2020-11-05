@@ -59,12 +59,6 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
-
-			{
-				"label": "G Dark (One Love)",
-				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
-			},
 			{
 
 				"label": "G Dark (Vulcan)",
