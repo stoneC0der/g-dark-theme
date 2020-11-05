@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Theme",
 	"description": "Set of minimalistic themes for Visual Studio Code.",
-	"version": "3.4.2",
+	"version": "3.5.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
