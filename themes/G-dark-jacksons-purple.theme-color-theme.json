@@ -759,7 +759,7 @@
     }
   ],
   "colors": {
-    "focusBorder": "#2C3666",
+    "focusBorder": "#36438186",
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#2C3666",
     "scrollbar.shadow": "#2C3666",
