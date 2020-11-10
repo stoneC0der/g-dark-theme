@@ -795,7 +795,7 @@
     "editorGroupHeader.tabsBorder": "#0be027",
     "editorGroupHeader.border": "#020909",
     "tab.activeBorder": "#020909",
-    "tab.activeBackground": "#050f0fbb",
+    "tab.activeBackground": "#020909",
     "tab.activeModifiedBorder": "#33f103",
     "tab.unfocusedActiveBorder": "#0be027af",
     "tab.activeForeground": "#6bd17c",
