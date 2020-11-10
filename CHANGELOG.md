@@ -25,6 +25,7 @@ Thanks for the love, any suggestion is welcome
   - Syntax has been redesigned to a shade of pink & purple
   - Borders where changed too
 - **C**, **Javascript**, **JSON** & **Markdown** syntax for some elements has change
+- Constants language, support constants now use the same color (except for PHP user define constant)
 - Lot of improvements & fixes
 - The themes name as been changed back to their old (original) name, no more (**IP**, **OL**, **NS** & **YB**).
 
