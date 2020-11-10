@@ -11,7 +11,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#abbbbe"
+        "foreground": "#8fafb4"
       }
     },
     {
@@ -41,27 +41,18 @@
         "constant.other.php"
       ],
       "settings": {
-        "foreground": "#2c9c0be7"
+        "foreground": "#339914"
       }
     },
     {
       "name": "Number, Constant",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
-      ],
-      "settings": {
-        "foreground": "#b97e0fe7"
-      }
-    },
-    {
-      "name": "Colors",
-      "scope": [
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#8d4d03",
+        "foreground": "#0ca57c",
         "fontStyle": "bold"
       }
     },

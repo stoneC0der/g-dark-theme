@@ -31,16 +31,18 @@
         "constant.other.php"
       ],
       "settings": {
-        "foreground": "#ebd143"
+        "foreground": "#a2eb7d"
       }
     },
     {
-      "name": "Colors",
+      "name": "Language, Constants",
       "scope": [
+        "constant.language",
+        "support.constant",
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#faefc9"
+        "foreground": "#5efab1"
       }
     },
     {
@@ -221,8 +223,6 @@
       "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
         "constant.numeric",
-        "constant.language",
-        "support.constant",
         "constant.character",
         "constant.escape",
         "keyword.other.unit",

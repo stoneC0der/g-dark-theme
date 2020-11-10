@@ -36,12 +36,14 @@
       }
     },
     {
-      "name": "Colors",
+      "name": "Language Constants, Constants",
       "scope": [
-        "constant.other.color"
+        "constant.language",
+        "support.constant",
+        "constant.other.color",
       ],
       "settings": {
-        "foreground": "#0ad673"
+        "foreground": "#0ca57c"
       }
     },
     {
@@ -119,7 +121,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#269ceb",
+        "foreground": "#207bb8",
         "fontStyle": "bold"
       }
     },
@@ -127,7 +129,6 @@
       "name": "Operator, Keyword",
       "scope": [
         "keyword.control",
-        "constant.other.color",
         "keyword.other.template",
         "keyword.other.substitution",
         "punctuation.separator.inheritance.php",
@@ -180,7 +181,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#077ae6"
+        "foreground": "#0d6af5"
       }
     },
     {
@@ -190,7 +191,7 @@
 			],
 			"settings": {
 				// "fontStyle": "bold",
-				"foreground": "#3fa3d1ea",
+				"foreground": "#269ceb",
 			}
     },
     {
@@ -224,7 +225,6 @@
     {
       "name": "Constant, Function Argument, Tag Attribute, Embedded",
       "scope": [
-        "constant.language",
         "constant.character",
         "constant.escape",
         "keyword.other.unit",
@@ -244,15 +244,6 @@
       }
     },
     {
-      "name": "Tag Attribute",
-      "scope": [
-        "support.constant",
-      ],
-      "settings": {
-        "foreground": "#3e59ee",
-      }
-    },
-    {
       "name": "String, Symbols, Inherited Class, Markup Heading",
       "scope": [
         "string",
@@ -264,7 +255,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#48837ae5"
+        "foreground": "#2e887ae5"
       }
     },
     {

@@ -46,7 +46,6 @@
     {
       "name": "Language Constants, Constants",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
         "constant.other.color",

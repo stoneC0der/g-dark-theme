@@ -36,33 +36,23 @@
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Constants",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
       ],
       "settings": {
-        "foreground": "#ca0f95"
+        "foreground": "#d418c5"
       }
     },
     {
-      "name": "Number, Constant",
+      "name": "PHP Constants, Constants",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
-      ],
-      "settings": {
-        "foreground": "#e9ae42e7"
-      }
-    },
-    {
-      "name": "Colors",
-      "scope": [
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#e25c2b",
-        "fontStyle": "bold"
+        "foreground": "#c70791"
       }
     },
     {
@@ -81,7 +71,7 @@
         "invalid.deprecated"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#eb7ae1"
       }
     },
     {

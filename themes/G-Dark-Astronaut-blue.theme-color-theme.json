@@ -41,16 +41,18 @@
           "constant.other.php"
         ],
         "settings": {
-          "foreground": "#ABB7F7"
+          "foreground": "#8e9df3"
         }
       },
       {
-        "name": "Colors",
+        "name": "Language Constants, Constants",
         "scope": [
-          "constant.other.color"
+          "constant.language",
+          "support.constant",
+          "constant.other.color",
         ],
         "settings": {
-          "foreground": "#abcaf8",
+          "foreground": "#a3c3f5",
           "fontStyle": "bold"
         }
       },
@@ -763,8 +765,8 @@
       "editorOverviewRuler.border": "#224656",
       "editorHoverWidget.background": "#254c5c",
       "editorHoverWidget.border": "#FFFFFF10",
-      "editorIndentGuide.background": "#063e614f",
-      "editorIndentGuide.activeBackground": "#224656",
+      "editorIndentGuide.background": "#254c5c",
+      "editorIndentGuide.activeBackground": "#223e56",
       "editorGroupHeader.tabsBackground": "#224656",
       "editorGroup.border": "#00000030",
       "editorGutter.modifiedBackground": "#1297da60",

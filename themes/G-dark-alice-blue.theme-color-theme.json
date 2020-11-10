@@ -41,18 +41,19 @@
         "constant.other.php"
       ],
       "settings": {
-        "foreground": "#2c9c0be7"
+        "foreground": "#339914"
       }
     },
     {
       "name": "Number, Constant",
       "scope": [
-        "constant.numeric",
         "constant.language",
         "support.constant",
+        "constant.other.color"
       ],
       "settings": {
-        "foreground": "#b97e0fe7"
+        "foreground": "#0ca57c",
+        "fontStyle": "bold"
       }
     },
     {

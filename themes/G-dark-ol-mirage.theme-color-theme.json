@@ -46,16 +46,18 @@
         "constant.other.php"
       ],
       "settings": {
-        "foreground": "#e48c28"
+        "foreground": "#ebac0d"
       }
     },
     {
-      "name": "Colors",
+      "name": "Language, Constants",
       "scope": [
+        "constant.language",
+        "support.constant",
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#d37306",
+        "foreground": "#eba14d",
         "fontStyle": "bold"
       }
     },
