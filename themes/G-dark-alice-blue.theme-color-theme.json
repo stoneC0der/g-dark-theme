@@ -258,7 +258,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#0bb6a8e9"
+        "foreground": "#329e95f6"
       }
     },
     {
@@ -718,6 +718,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#64778b3a",  
+    "separators.functions.borderColor": "#64778b3a",  
+    "separators.constructors.borderColor": "#64778b3a",
     "focusBorder": "#43648a46",
     "descriptionForeground":"#165ca1",
     "editorCursor.foreground": "#f70fb9",
@@ -909,5 +912,6 @@
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#c9e6fde8",
+    "icon.foreground": "#2e6086"
   }
 }

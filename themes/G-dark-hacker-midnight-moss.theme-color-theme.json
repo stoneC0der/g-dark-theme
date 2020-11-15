@@ -249,7 +249,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#41ce64e0"
+        "foreground": "#29814ee0"
       }
     },
     {
@@ -750,6 +750,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#03360a9a",  
+    "separators.functions.borderColor": "#03360a9a",  
+    "separators.constructors.borderColor": "#03360a9a", 
     "editor.foldBackground": "#041b0e50",
     "focusBorder": "#0785189a",
     "descriptionForeground":"#21d489",
@@ -786,7 +789,7 @@
     "editorHoverWidget.background": "#030c0c",
     "editorHoverWidget.border": "#0be027b4",
     "editorIndentGuide.background": "#020909",
-    "editorIndentGuide.activeBackground": "#1c331f",
+    "editorIndentGuide.activeBackground": "#03360a9a",
     "editorGutter.modifiedBackground": "#0e314260",
     "editorGutter.addedBackground": "#155c4860",
     "editorGutter.deletedBackground": "#e4496360",
@@ -948,7 +951,7 @@
     "tree.indentGuidesStroke": "#19472890",
     "quickInput.background": "#020909",
     "quickInput.foreground": "#315f3d",
-    // "icon.foreground": "#070e0c",
+    "icon.foreground": "#44973d",
     "inputValidation.warningBackground":"#020909",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#2786865b",

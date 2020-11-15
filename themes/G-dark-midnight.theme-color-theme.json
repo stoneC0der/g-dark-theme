@@ -131,7 +131,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#4a96fa",
+        "foreground": "#67a7fa",
         "fontStyle": "bold"
       }
     },
@@ -178,7 +178,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#579ffd",
+        "foreground": "#5e75f8",
       }
     },
     {
@@ -683,6 +683,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#10243dd8",  
+    "separators.functions.borderColor": "#10243dd8",  
+    "separators.constructors.borderColor": "#10243dd8", 
     "editor.foldBackground": "#0608276b",
     "focusBorder": "#0b1d34",
     "contrastActiveBorder" : "#0b1d34",
@@ -742,7 +745,7 @@
     "statusBarItem.hoverBackground": "#0F3050",
     "activityBar.background": "#08182b",
     "activityBar.border": "#08182b",
-    "activityBar.foreground": "#274463",
+    "activityBar.foreground": "#0d77be",
     "activityBar.inactiveForeground": "#274463",
     "activityBar.activeBackground": "#0b1d34d0",
     "activityBar.activeBorder": "#074485",

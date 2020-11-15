@@ -718,6 +718,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#20212ad0",  
+    "separators.functions.borderColor": "#20212ad0",  
+    "separators.constructors.borderColor": "#20212ad0", 
     "editor.foldBackground": "#041b1623",
     "focusBorder": "#2330427c",
     "descriptionForeground":"#21a1d4",
@@ -915,7 +918,7 @@
     "tree.indentGuidesStroke": "#19364790",
     "quickInput.background": "#020909",
     "quickInput.foreground": "#31515f",
-    // "icon.foreground": "#070e0c",
+    "icon.foreground": "#119487",
     "inputValidation.warningBackground":"#020909",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#2786865b",

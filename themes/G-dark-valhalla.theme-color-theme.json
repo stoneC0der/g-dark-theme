@@ -81,7 +81,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground" : "#FC6399"
+        "foreground" : "#fc6399f3"
       }
     },
     {
@@ -90,7 +90,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground" : "#E26A6A"
+        "foreground" : "#e26a6a"
       }
     },
     {
@@ -143,7 +143,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#FF5370"
+        "foreground": "#f35872"
       }
     },
     {
@@ -166,7 +166,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#ff6f69"
+        "foreground": "#e26a6a"
       }
     },
     {
@@ -189,7 +189,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#63ace5"
+        "foreground": "#639be5"
       }
     },
     {
@@ -238,7 +238,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#c97807"
+        "foreground": "#c79f67"
       }
     },
     {
@@ -253,7 +253,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#88d8b0"
+        "foreground": "#88d8bd"
       }
     },
     {
@@ -268,7 +268,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#FFCB6B",
+        "foreground": "#fccd76",
         // "fontStyle": "bold"
       }
     },
@@ -278,17 +278,8 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#ef981f",
+        "foreground": "#f1ad4d",
         "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Entity Types",
-      "scope": [
-        "support.type"
-      ],
-      "settings": {
-        "foreground": "#ffaaa5"
       }
     },
     {
@@ -692,6 +683,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#202537b9",  
+    "separators.functions.borderColor": "#303446b9",  
+    "separators.constructors.borderColor": "#202537b9",
     "focusBorder": "#292f46",
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#37474F",
@@ -877,7 +871,7 @@
     "tree.indentGuidesStroke": "#1f4e6b90",
     "window.activeBorder": "#292f46",
     "window.inactiveBorder": "#3d93c8",
-    "icon.foreground": "#7486c2",
+    "icon.foreground": "#1c7ebb",
     "inputValidation.warningBackground":"#292f46",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#292f4636",

@@ -281,18 +281,9 @@
       }
     },
     {
-      "name": "PHP Entity Namespace",
+      "name": "PHP Entity Namespace, Support",
       "scope": [
-        "entity.name"
-      ],
-      "settings": {
-        "foreground": "#a81d34",
-        // "fontStyle": "bold"
-      }
-    },
-    {
-      "name": "Support",
-      "scope": [
+        "entity.name",
         "support.class",
       ],
       "settings": {
@@ -711,6 +702,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#20212ad8",  
+    "separators.functions.borderColor": "#20212ad8",  
+    "separators.constructors.borderColor": "#20212ad8", 
     "editor.foldBackground": "#14141846",
     "focusBorder": "#2330427c",
     "descriptionForeground":"#6bf2f5",
@@ -909,7 +903,7 @@
     // command palette
     "quickInput.background": "#17181f",
     "quickInput.foreground": "#31515f",
-    // "icon.foreground": "#1D1F25",
+    "icon.foreground": "#238d82",
     "inputValidation.warningBackground":"#1D1F25",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#00324836",

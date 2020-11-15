@@ -86,7 +86,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground" : "#fd5537"
+        "foreground" : "#fd6d54"
       }
     },
     {
@@ -95,7 +95,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground" : "#ebd936e2"
+        "foreground" : "#f7e549f5"
       }
     },
     {
@@ -168,7 +168,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fa3333ef"
+        "foreground": "#df2b2bef"
       }
     },
     {
@@ -191,7 +191,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#20b8e2"
+        "foreground": "#20bbe2"
       }
     },
     {
@@ -201,7 +201,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#f82a64"
+				"foreground": "#fc2276"
 			}
     },
     {
@@ -240,7 +240,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#e49b51"
+        "foreground": "#f1aa62"
       }
     },
     {
@@ -255,7 +255,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#26e4abe1"
+        "foreground": "#41a57b"
       }
     },
     {
@@ -333,7 +333,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f8cd33f1"
+        "foreground": "#d6b22e"
       }
     },
     {
@@ -342,7 +342,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#f8cd33f1"
+        "foreground": "#d6b22e"
       }
     },
     {
@@ -714,6 +714,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#2330427c",  
+    "separators.functions.borderColor": "#2330427c",  
+    "separators.constructors.borderColor": "#2330427c", 
     "editor.foldBackground": "#252d382a",
     "focusBorder": "#2330427c",
     "descriptionForeground":"#21789a",
@@ -750,7 +753,7 @@
     "editorHoverWidget.background": "#0a1d24",
     "editorHoverWidget.border": "#FFFFFF10",
     "editorIndentGuide.background": "#091a20",
-    "editorIndentGuide.activeBackground": "#20212a",
+    "editorIndentGuide.activeBackground": "#2330427c",
     "editorGroupHeader.tabsBackground": "#07161b",
     "editorGroup.border": "#00000030",
     "editorGutter.modifiedBackground": "#0e314260",

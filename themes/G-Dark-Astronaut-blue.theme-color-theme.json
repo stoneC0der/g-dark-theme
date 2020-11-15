@@ -253,7 +253,7 @@
           "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
         ],
         "settings": {
-          "foreground": "#88d8b0"
+          "foreground": "#78c3bd"
         }
       },
       {
@@ -733,6 +733,9 @@
       }
     ],
     "colors": {
+      "separators.methods.borderColor": "#1e4557d8",  
+      "separators.functions.borderColor": "#1e4557d8",  
+      "separators.constructors.borderColor": "#1e4557d8",
       "focusBorder": "#3778aa65",
       "editorCursor.foreground": "#f1e506",
       "editorRuler.foreground": "#264453",
@@ -766,7 +769,7 @@
       "editorHoverWidget.background": "#254c5c",
       "editorHoverWidget.border": "#FFFFFF10",
       "editorIndentGuide.background": "#254c5c",
-      "editorIndentGuide.activeBackground": "#223e56",
+      "editorIndentGuide.activeBackground": "#1e4557",
       "editorGroupHeader.tabsBackground": "#224656",
       "editorGroup.border": "#00000030",
       "editorGutter.modifiedBackground": "#1297da60",
@@ -791,7 +794,7 @@
       "statusBarItem.hoverBackground": "#254c5c",
       "activityBar.background": "#224656",
       "activityBar.border": "#224656",
-      "activityBar.inactiveForeground": "#265470",
+      "activityBar.inactiveForeground": "#2c6080",
       "activityBar.foreground": "#1c7ebb",
       "activityBar.activeBorder": "#4c93b4",
       "activityBar.activeBackground": "#254c5c",
@@ -920,7 +923,7 @@
       "tree.indentGuidesStroke": "#224c5c",
       "window.activeBorder": "#224656",
       "window.inactiveBorder": "#3d93c8",
-      "icon.foreground": "#3481b1",
+      "icon.foreground": "#1c7ebb",
       "inputValidation.warningBackground":"#224656",
       "inputValidation.warningForeground": "#82abe9",
       "editor.snippetTabstopHighlightBackground": "#22465636",

@@ -86,7 +86,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground" : "#fd5537"
+        "foreground" : "#fd6d54"
       }
     },
     {
@@ -168,7 +168,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fa3333ef"
+        "foreground": "#df2b2bef"
       }
     },
     {
@@ -201,7 +201,7 @@
 			],
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#f82a64"
+				"foreground": "#fc2276"
 			}
     },
     {
@@ -240,7 +240,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#e49b51"
+        "foreground": "#f1aa62"
       }
     },
     {
@@ -255,7 +255,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#26e4abe1"
+        "foreground": "#4cbb8d"
       }
     },
     {
@@ -323,7 +323,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#2fdc8e"
+        "foreground": "#41a57b"
       }
     },
     {
@@ -333,7 +333,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f8cd33f1"
+        "foreground": "#d6b22e"
       }
     },
     {
@@ -342,7 +342,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#f8cd33f1"
+        "foreground": "#d6b22e"
       }
     },
     {
@@ -714,6 +714,9 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#262731c7",  
+    "separators.functions.borderColor": "#262731c7",  
+    "separators.constructors.borderColor": "#262731c7",
     "editor.foldBackground": "#252d382a",
     "focusBorder": "#2330427c",
     "descriptionForeground":"#21789a",
@@ -909,7 +912,7 @@
     "tree.indentGuidesStroke": "#1C1D27",
     "quickInput.background": "#1C1D27",
     "quickInput.foreground": "#82abe9",
-    // "icon.foreground": "#12141dec",
+    "icon.foreground": "#235881",
     "inputValidation.warningBackground":"#12141d",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#12141d36",
