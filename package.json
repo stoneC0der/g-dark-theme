@@ -55,6 +55,11 @@
 				"path": "./themes/G-dark-jacksons-purple.theme-color-theme.json"
 			},
 			{
+				"label": "G Dark (Purple)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-purple.theme-color-theme.json"
+			},
+			{
 				"label": "G Dark (Black Pearl)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
@@ -79,6 +84,11 @@
 				"label": "G Dark (Midnight)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-midnight.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Haiti)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-dark-haiti.theme-color-theme.json"
 			},
 			{
 				"label": "G Dark (Hint of Red)",
