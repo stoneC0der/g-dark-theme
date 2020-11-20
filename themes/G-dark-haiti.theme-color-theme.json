@@ -814,7 +814,7 @@
     "statusBar.debuggingForeground": "#be7cfc",
     "statusBarItem.hoverBackground": "#546E7A20",
     "activityBar.background": "#220c38",
-    "activityBar.activeBackground": "#220c38",
+    "activityBar.activeBackground": "#1e0c32",
     "activityBar.activeBorder": "#4E1B81",
     "activityBar.inactiveForeground": "#4E1B81",
     "activityBar.border": "#4E1B81",
