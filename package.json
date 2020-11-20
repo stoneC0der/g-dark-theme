@@ -55,11 +55,6 @@
 				"path": "./themes/G-dark-jacksons-purple.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Purple)",
-				"uiTheme": "hc-black",
-				"path": "./themes/G-dark-purple.theme-color-theme.json"
-			},
-			{
 				"label": "G Dark (Black Pearl)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
@@ -106,6 +101,11 @@
 				"path": "./themes/G-dark-alice-blue.theme-color-theme.json"
 			},
 			{
+				"label": "G Dark (Haiti Light)",
+				"uiTheme": "vs",
+				"path": "./themes/G-dark-haiti-light.theme-color-theme.json"
+			},
+			{
 				"label": "G Dark (Mirage)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-mirage.theme-color-theme.json"
@@ -119,6 +119,11 @@
 				"label": "G Dark (H@ck3r)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-hacker-midnight-moss.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark (Purple)",
+				"uiTheme": "hc-black",
+				"path": "./themes/G-dark-purple.theme-color-theme.json"
 			}
 		]
 	},
