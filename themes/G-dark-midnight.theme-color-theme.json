@@ -777,7 +777,7 @@
     "list.activeSelectionForeground": "#80CBC4",
     "list.inactiveSelectionForeground": "#80CBC4",
     "list.inactiveSelectionBackground": "#0b1d34",
-    "list.focusBackground": "#08182b",
+    "list.focusBackground": "#0b1d34",
     "list.focusForeground": "#81b8e2",
     "list.highlightForeground": "#80CBC4",
     "terminal.ansiWhite": "#ffffff",

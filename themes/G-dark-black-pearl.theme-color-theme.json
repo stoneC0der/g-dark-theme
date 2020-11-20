@@ -806,7 +806,7 @@
     "dropdown.foreground": "#c2ecf5",
     "dropdown.border": "#FFFFFF10",
     "list.hoverForeground": "#92bce0",
-    "list.hoverBackground": "#091a20d0",
+    "list.hoverBackground": "#0a1e25",
     "list.activeSelectionBackground": "#091a20",
     "list.activeSelectionForeground": "#c2ecf5",
     "list.inactiveSelectionForeground": "#abece6",
