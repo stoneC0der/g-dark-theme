@@ -55,6 +55,16 @@
       }
     },
     {
+      "name": "Language methods",
+      "scope": [
+        "variable.language"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#69c069"
+      }
+    },
+    {
       "name": "Colors",
       "scope": [
         "constant.other.color"

@@ -383,6 +383,16 @@
         }
       },
       {
+        "name": "Language methods",
+        "scope": [
+          "variable.language"
+        ],
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#e77da6"
+        }
+      },
+      {
         "name": "Decorators",
         "scope": [
           "tag.decorator.js entity.name.tag.js",

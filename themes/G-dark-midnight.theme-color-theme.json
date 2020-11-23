@@ -46,6 +46,16 @@
       }
     },
     {
+      "name": "Language methods",
+      "scope": [
+        "variable.language"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#957dec"
+      }
+    },
+    {
       "name": "Invalid",
       "scope": [
         "invalid",
