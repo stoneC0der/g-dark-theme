@@ -55,68 +55,67 @@
 				"path": "./themes/G-dark-jacksons-purple.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Black Pearl)",
-				"uiTheme": "vs-dark",
-				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
-			},
-			{
-
-				"label": "G Dark (Vulcan)",
+				"label": "G Dark-shift (Vulcan)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-vulcan.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Astro)",
+				"label": "G Dark-one-love (Black Pearl)",
 				"uiTheme": "vs-dark",
-				"path": "./themes/G-Dark-Astronaut-blue.theme-color-theme.json"
+				"path": "./themes/G-dark-black-pearl.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (One Love)",
+				"label": "G Dark-one-love (Mirage)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-ol-mirage.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Midnight)",
+				"label": "G Dark-minimal (Midnight)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-midnight.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Haiti)",
+				"label": "G Dark-minimal-2 (Astronaut Blue)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-Dark-Astronaut-blue.theme-color-theme.json"
+			},
+			{
+				"label": "G Dark-shader (Haiti)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-haiti.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Hint of Red)",
+				"label": "G Dark-light (Hint of Red)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-hint-of-red.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Glitter)",
+				"label": "G Dark-light (Glitter)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-glitter.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Alice Blue)",
+				"label": "G Dark-light (Alice Blue)",
 				"uiTheme": "vs",
 				"path": "./themes/G-dark-alice-blue.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Mirage)",
+				"label": "G Dark-shader (Mirage)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-mirage.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Midnight Moss)",
+				"label": "G Dark-shift (Midnight Moss)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-midnight-moss.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (H@ck3r)",
+				"label": "G Dark-shader - H@ck3r (Midnight Moss)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-hacker-midnight-moss.theme-color-theme.json"
 			},
 			{
-				"label": "G Dark (Purple)",
+				"label": "G Dark (Haiti)",
 				"uiTheme": "hc-black",
 				"path": "./themes/G-dark-purple.theme-color-theme.json"
 			}
