@@ -693,9 +693,13 @@
     }
   ],
   "colors": {
-    "separators.methods.borderColor": "#10243dd8",  
-    "separators.functions.borderColor": "#10243dd8",  
-    "separators.constructors.borderColor": "#10243dd8", 
+    "separators.methods.borderColor": "#27627466", 
+    "separators.constructors.borderColor": "#3a499966", 
+    "separators.functions.borderColor": "#2d6c7766",  
+    "separators.enums.borderColor": "#335f836c",
+    "separators.namespaces.borderColor": "#2c6c7783", 
+    "separators.interfaces.borderColor": "#297e7e66",
+    "separators.classes.borderColor": "#297e7e66",
     "editor.foldBackground": "#0608276b",
     "focusBorder": "#0b1d34",
     "contrastActiveBorder" : "#0b1d34",

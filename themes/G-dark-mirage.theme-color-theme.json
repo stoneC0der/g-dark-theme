@@ -748,10 +748,13 @@
     }
   ],
   "colors": {
-    "separators.methods.borderColor": "#fa83d417",  
-    "separators.functions.borderColor": "#fa83d417",  
-    "separators.constructors.borderColor": "#fa83d417",
-    "focusBorder": "#43648a46",
+    "separators.methods.borderColor": "#fa83d417", 
+    "separators.constructors.borderColor": "#601ca086", 
+    "separators.functions.borderColor": "#5b088186",  
+    "separators.enums.borderColor": "#71148383",
+    "separators.namespaces.borderColor": "#76228383", 
+    "separators.interfaces.borderColor": "#a00b7866",
+    "separators.classes.borderColor": "#a00b7866",
     "descriptionForeground":"#f3aadc",
     "editorCursor.foreground": "#f70fb9",
     "editorRuler.foreground": "#7ba7be82",

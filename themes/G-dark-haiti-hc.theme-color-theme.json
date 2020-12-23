@@ -693,6 +693,13 @@
       }
     ],
     "colors": {
+      "separators.methods.borderColor": "#1d485566", 
+      "separators.constructors.borderColor": "#2e4f6b66", 
+      "separators.functions.borderColor": "#214a4d66",  
+      "separators.enums.borderColor": "#26455f6c",
+      "separators.namespaces.borderColor": "#5f304883", 
+      "separators.interfaces.borderColor": "#55552766",
+      "separators.classes.borderColor": "#55552766",
       "contrastBorder": "#1e0c31",
       "contrastActiveBorder": "#1e0c31",
       "separators.methods.borderColor": "#4E1B81b9",  
