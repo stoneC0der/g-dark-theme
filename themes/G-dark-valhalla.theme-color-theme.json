@@ -11,7 +11,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#080808"
+        "foreground": "#767676d0"
       }
     },
     {
@@ -705,7 +705,7 @@
     "editorRuler.foreground": "#37474F",
     "scrollbar.shadow": "#202537",
     "editorLink.activeForeground": "#a6d4f7",
-    "selection.background": "#145b91dc",
+    "selection.background": "#8DC4FF20",
     "progressBar.background": "#8DC4FF",
     "textLink.foreground": "#8DC4FF",
     "textLink.activeForeground": "#a6d4f7",
@@ -771,7 +771,6 @@
     "sideBar.background": "#202537",
     "sideBar.foreground": "#5695b3",
     "sideBar.border": "#292f46",
-    "titleBar.border": "#292f46",
     "sideBarTitle.foreground": "#afd6f3",
     "sideBarSectionHeader.background": "#292f46",
     "sideBarSectionHeader.border": "#292f46",

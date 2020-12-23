@@ -11,7 +11,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#b3b4afc9"
+        "foreground": "#9b9b9be9"
       }
     },
     {
@@ -703,6 +703,7 @@
     "separators.classes.borderColor": "#63582c66", 
     "editor.foldBackground": "#eefa8131",
     "focusBorder": "#c4bea0",
+    "selection.background": "#b6ddf0b9",
     "editorCursor.foreground": "#1667e0",
     "editorRuler.foreground": "#aebbc1",
     "scrollbar.shadow": "#969b4e67",
@@ -731,7 +732,7 @@
     "editor.wordHighlightStrongBackground": "#e4858538",
     "editor.wordHighlightStrongBorder": "#05567598",
     "editorOverviewRuler.border": "#04374e",
-    "editorHoverWidget.background": "#fcfbf7",
+    "editorHoverWidget.background": "#f1f6d4",
     "editorHoverWidget.border": "#fcf7e4",
     "editorIndentGuide.background": "#d8e1e628",
     "editorIndentGuide.activeBackground": "#7e929ce8",
@@ -773,7 +774,6 @@
     "sideBar.background": "#fcfbf7",
     "sideBar.foreground": "#657e8a",
     "sideBar.border": "#fcfbf7",
-    "titleBar.border": "#fcfbf7",
     "sideBarTitle.foreground": "#072f4e",
     "sideBarSectionHeader.background": "#fcfbf7",
     "sideBarSectionHeader.border": "#fcfbf7",
@@ -845,8 +845,9 @@
     "extensionButton.prominentHoverBackground": "#86e74d",
     "peekView.border": "#fcf1c5",
     "peekViewEditor.background": "#fcfbf7",
-    "peekViewTitle.background": "#fcfbf7",
-    "peekViewResult.background": "#f3f2f2",
+    "peekViewTitle.background": "#fcf3cdb4",
+    "peekViewResult.background": "#fcfbf7",
+    "peekViewResult.selectionBackground": "#fcf1c5b4",
     "peekViewEditorGutter.background": "#fcfbf7",
     "peekViewTitleDescription.foreground": "#142f44",
     "peekViewResult.matchHighlightBackground": "#a6e2dc",
@@ -859,7 +860,6 @@
     "gitDecoration.modifiedResourceForeground": "#1046b9d7",
     "gitDecoration.untrackedResourceForeground": "#16830cde",
     "gitDecoration.ignoredResourceForeground": "#9a28bde1",
-    "peekViewResult.selectionBackground": "#607a86",
     "breadcrumb.background": "#f5f3ea",
     "breadcrumb.foreground": "#607a86",
     "breadcrumb.focusForeground": "#152633",

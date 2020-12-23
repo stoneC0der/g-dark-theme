@@ -11,7 +11,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#284763"
+        "foreground": "#344e66"
       }
     },
     {
@@ -721,7 +721,7 @@
     "editor.foreground": "#99a7b1",
     "editor.lineHighlightBackground": "#020e197d",
     "editor.lineHighlightBorder": "#0626447d",
-    "editor.selectionBackground": "#040c1567",
+    "editor.selectionBackground": "#022b4ba2",
     "editor.selectionHighlightBackground": "#67769636",
     "editor.findMatchBackground": "#c1c2960a",
     "editor.findMatchBorder": "#2a5992c9",
@@ -773,7 +773,6 @@
     "sideBar.background": "#08182b",
     "sideBar.foreground": "#7c929c",
     "sideBar.border": "#0b1d34",
-    "titleBar.border": "#0b1d34",
     "sideBarTitle.foreground": "#517591",
     "sideBarSectionHeader.background": "#0b1d34",
     "sideBarSectionHeader.border": "#0b1d34",
