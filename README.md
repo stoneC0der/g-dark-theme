@@ -140,6 +140,17 @@ To get the most out of this them please add the following configuration:
     ],
 ```
 
+7 To use a unique color for Vscode Separator
+
+```json
+  "separators.methods.borderColor": "#64778b3a",  
+  "separators.functions.borderColor": "#64778b3a",  
+  "separators.constructors.borderColor": "#64778b3a",
+  "separators.classes.borderColor": "#64778b3a",  
+  "separators.enums.borderColor": "#64778b3a",  
+  "separators.namespaces.borderColor": "#64778b3a",
+```
+
 ## From Vscode
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
