@@ -15,13 +15,13 @@ Thanks for the love, any suggestion is welcome
 
 - Added support for [Vscode Separators](https://github.com/alefragnani/vscode-separators) extension
   **Note: the initial support was using a default color for all themes for methods & functions, now that there are separators for classes, interfaces, enums, constructors & namespace I decided to use classes,methods,etc color scheme for the separators if you want single color for all add the settings below to your settings.json**
-        
+
         "separators.methods.borderColor": "#64778b3a",  
         "separators.functions.borderColor": "#64778b3a",  
-        "separators.constructors.borderColor": "#64778b3a
+        "separators.constructors.borderColor": "#64778b3a",
         "separators.classes.borderColor": "#64778b3a",  
         "separators.enums.borderColor": "#64778b3a",  
-        "separators.namespaces.borderColor": "#64778b3a
+        "separators.namespaces.borderColor": "#64778b3a",
 
 ### Changes
 
@@ -31,7 +31,7 @@ Thanks for the love, any suggestion is welcome
   - Mirage (NS)
   - Dark Green Jungle
 
-- **Redesigned themes
+- **Redesigned themes**
   - G Dark (Mirage) 
     - Syntax has been redesigned to a shade of pink & purple
     - Borders where changed too
@@ -41,8 +41,7 @@ Thanks for the love, any suggestion is welcome
 
 - **C**, **Javascript**, **JSON** & **Markdown** syntax for some elements has change
 - Constants language, support constants now use the same color (except for PHP user define constant)
-- Lot of improvements & fixes
-- The themes name as been changed back to their old (original) name, no more (**IP**, **OL**, **NS** & **YB**).
+- The themes name as been changed to a less confusing naming convention
 - Rename G Dark (OL) to G Dark (One Love)
 - Active window title bar now has a different background color from the inactive one
 
@@ -51,7 +50,7 @@ Thanks for the love, any suggestion is welcome
 - Fixes debug status bar in all themes (The color now match the button background color t be consistent with the theme)
 - Improved widget Hover in some themes
 - Improved peekview in some themes for consistency
-- Other improvements
+- Other improvements & fixes
 
 ## 3.6.0
 
