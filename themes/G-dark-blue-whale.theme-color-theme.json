@@ -838,7 +838,7 @@
     "badge.foreground": "#98c6db",
     "button.background": "#075779",
     "button.hoverBackground": "#80CBC420",
-    "extensionButton.prominentBackground": "#075779",
+    "extensionButton.prominentBackground": "#096992",
     "extensionButton.prominentHoverBackground": "#80CBC420",
     "peekView.border": "#023c58de",
     "peekViewEditor.background": "#023650de",
