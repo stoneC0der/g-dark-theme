@@ -2,6 +2,11 @@
 
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
+
+## 4.0.2
+
+- Further Debug status bar improvements
+
 ## 4.0.1
 
 - removed test file from package
