@@ -789,7 +789,7 @@
     "statusBar.border": "#F0F8FE",
     "statusBar.background": "#e8f0ffd3",
     "statusBar.foreground": "#31515f",
-    "statusBar.debuggingBackground": "#bbd9f3",
+    "statusBar.debuggingBackground": "#a6d0f5",
     "statusBar.debuggingForeground": "#363e46",
     "statusBarItem.hoverBackground": "#546E7A20",
     "activityBar.background": "#F0F8FE",
