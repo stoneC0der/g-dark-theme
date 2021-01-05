@@ -830,7 +830,7 @@
     "panelTitle.activeBorder": "#8DC4FF",
     "diffEditor.insertedTextBackground": "#C3E88D15",
     "diffEditor.removedTextBackground": "#FF537020",
-    "notifications.background": "#292f46",
+    "notifications.background": "#242a3e",
     "notifications.foreground": "#8DC4FF",
     "notificationLink.foreground": "#8DC4FF",
     "badge.background": "#00000030",
