@@ -181,7 +181,7 @@
         "punctuation.definition.tag.html",
       ],
       "settings": {
-        "foreground": "#f83c3cef"
+        "foreground": "#ee5a89"
       }
     },
     {
@@ -347,7 +347,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#315ec0ea"
+        "foreground": "#466dbff7"
       }
     },
     {
@@ -376,7 +376,7 @@
         "markup.inserted"
       ],
       "settings": {
-        "foreground": "#7aca04"
+        "foreground": "#7bca047c"
       }
     },
     {
@@ -385,7 +385,7 @@
         "markup.deleted"
       ],
       "settings": {
-        "foreground": "#f4022b"
+        "foreground": "#f4022a9f"
       }
     },
     {
@@ -394,7 +394,7 @@
         "markup.changed"
       ],
       "settings": {
-        "foreground": "#3b07f7"
+        "foreground": "#3b07f785"
       }
     },
     {
@@ -749,7 +749,7 @@
     "editorBracketMatch.border": "#2164f5cc",
     "editorBracketMatch.background": "#052e7942",
     "editorWhitespace.foreground": "#b5d2fc40",
-    "editor.background": "#F0F8FE",
+    "editor.background": "#f8fcff",
     "editor.foreground": "#7492aad8",
     "editor.lineHighlightBackground": "#717f9917",
     "editor.lineHighlightBorder": "#8abffc25",
@@ -890,6 +890,7 @@
     "peekViewResult.matchHighlightBackground": "#a2d1f5c0",
     "peekViewEditor.matchHighlightBackground": "#93cefc59",
     "peekViewEditor.matchHighlightBorder": "#6bbaf7",
+    "peekViewResult.selectionBackground": "#d0ebf78c",
     "debugToolBar.background": "#F0F8FE",
     "pickerGroup.foreground": "#064aa8e5",
     "gitDecoration.deletedResourceForeground": "#c70f2ed2",
@@ -897,7 +898,6 @@
     "gitDecoration.modifiedResourceForeground": "#0764a1e3",
     "gitDecoration.untrackedResourceForeground": "#1a8507e3",
     "gitDecoration.ignoredResourceForeground": "#8825a7d5",
-    "peekViewResult.selectionBackground": "#607a8670",
     "breadcrumb.background": "#F0F8FE",
     "breadcrumb.foreground": "#48879c",
     "breadcrumb.focusForeground": "#2b8edf",
