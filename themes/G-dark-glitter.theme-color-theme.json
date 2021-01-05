@@ -31,7 +31,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#666b6dd7",
+        "foreground": "#869398",
         "fontStyle": "bold"
       }
     },
@@ -137,7 +137,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#1680c7ec"
+        "foreground": "#5f9dc6fa"
       }
     },
     {

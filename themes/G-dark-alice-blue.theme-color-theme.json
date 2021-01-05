@@ -11,7 +11,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#abbbbe"
+        "foreground": "#abbeb3"
       }
     },
     {
@@ -31,7 +31,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#666b6dd7",
+        "foreground": "#738991",
         "fontStyle": "bold"
       }
     },
