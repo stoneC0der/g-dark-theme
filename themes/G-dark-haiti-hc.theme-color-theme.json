@@ -832,7 +832,7 @@
       "panelTitle.inactiveForeground": "#37135b",
       "panelTitle.activeForeground": "#C792EA",
       "panelTitle.activeBorder": "#37135b",
-      "diffEditor.insertedTextBackground": "#C3E88D15",
+      "diffEditor.insertedTextBackground": "#b3fa7a15",
       "diffEditor.removedTextBackground": "#FF537020",
       "notifications.background": "#1e0c31",
       "notifications.foreground": "#C792EA",
