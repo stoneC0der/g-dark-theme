@@ -732,7 +732,7 @@
     "editor.wordHighlightStrongBackground": "#e4858538",
     "editor.wordHighlightStrongBorder": "#05567598",
     "editorOverviewRuler.border": "#04374e",
-    "editorHoverWidget.background": "#f1f6d4",
+    "editorHoverWidget.background": "#f3efd2",
     "editorHoverWidget.border": "#fcf7e4",
     "editorIndentGuide.background": "#d8e1e628",
     "editorIndentGuide.activeBackground": "#7e929ce8",
@@ -812,7 +812,7 @@
     "terminal.ansiBrightRed": "#FF5370",
     "terminal.ansiBrightYellow": "#dfb418",
     "scrollbarSlider.background": "#e7e399a2",
-    "scrollbarSlider.hoverBackground": "#f1f6d4",
+    "scrollbarSlider.hoverBackground": "#f3efd2",
     "scrollbarSlider.activeBackground": "#f2f7db",
     "editorSuggestWidget.background": "#fcfbf7",
     "editorSuggestWidget.foreground": "#0e2333",
@@ -895,9 +895,9 @@
     "icon.foreground": "#314350",
     "inputValidation.warningBackground":"#f3f2f2",
     "inputValidation.warningForeground": "#25272e",
-    "editor.snippetTabstopHighlightBackground": "#e2d89e36",
-    "editor.snippetTabstopHighlightBorder": "#e2d89e",
-    "editor.snippetFinalTabstopHighlightBackground":"#e2d89e36",
-    "editor.snippetFinalTabstopHighlightBorder":"#e2d89e"
+    "editor.snippetTabstopHighlightBackground": "#f3efd236",
+    "editor.snippetTabstopHighlightBorder": "#f3efd2",
+    "editor.snippetFinalTabstopHighlightBackground":"#f3efd236",
+    "editor.snippetFinalTabstopHighlightBorder":"#f3efd2"
   }
 }
