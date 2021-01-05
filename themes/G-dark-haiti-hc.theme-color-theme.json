@@ -825,7 +825,7 @@
       "editorWidget.background": "#1e0c31",
       "editorWidget.resizeBorder": "#8400ff",
       // "editorWidget.border": "",
-      "editorMarkerNavigation.background": "#C792EA05",
+      "editorMarkerNavigation.background": "#1e0c31de",
       "widget.shadow": "#7009df30",
       "panel.border": "#220c3860",
       "panel.background": "#1e0c31",
