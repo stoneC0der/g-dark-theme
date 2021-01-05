@@ -91,7 +91,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground" : "#db6955e1"
+        "foreground" : "#ee7a48"
       }
     },
     {
@@ -109,7 +109,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#f13d3dea",
+        "foreground": "#f44f4f",
       }
     },
     {
@@ -150,7 +150,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#fa892ce2"
+        "foreground": "#f59647"
       }
     },
     {
@@ -171,7 +171,7 @@
         "punctuation.definition.tag.html",
       ],
       "settings": {
-        "foreground": "#f83c3cef"
+        "foreground": "#ed6060"
       }
     },
     {
@@ -181,7 +181,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#eb2cdbee",
+        "foreground": "#f2559e",
         "fontStyle": "bold"
       }
     },
@@ -194,7 +194,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#724af5ef"
+        "foreground": "#9552f4"
       }
     },
     {
@@ -204,7 +204,7 @@
 			],
 			"settings": {
 				// "fontStyle": "",
-				"foreground": "#f51eadec"
+				"foreground": "#eb3aaa"
 			}
     },
     {
@@ -213,7 +213,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#666b6dd7"
+        "foreground": "#8ea1a7"
       }
     },
     {
@@ -222,7 +222,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#666b6dd7"
+        "foreground": "#8ea1a7"
       }
     },
     {
@@ -232,7 +232,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#666b6dd7"
+        "foreground": "#84979d"
       }
     },
     {
@@ -243,7 +243,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#eb9018e8"
+        "foreground": "#f19409"
       }
     },
     {
