@@ -3,6 +3,15 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 4.0.3
+
+### Fix
+
+- Fixed editorMarkerNavigation in some theme with improvement for others
+- Fixed activityBar badge background being different from badges background in some themes
+- Overall improvement for Light Themes
+- Others improvements in some themes (variables, lineNumbers, keywords, methods, inputs, Notification, DiffEditor & more)
+
 ## 4.0.2
 
 - Further Debug status bar improvements
