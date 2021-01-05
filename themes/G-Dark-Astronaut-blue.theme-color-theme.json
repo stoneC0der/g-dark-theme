@@ -31,7 +31,7 @@
           "string constant.other.placeholder"
         ],
         "settings": {
-          "foreground": "#D5DBFB",
+          "foreground": "#cacde1",
           "fontStyle": "bold"
         }
       },
@@ -90,7 +90,7 @@
           "storage.type",
         ],
         "settings": {
-          "foreground" : "#cab0f5"
+          "foreground" : "#c19dfa"
         }
       },
       {
@@ -189,7 +189,7 @@
           "keyword.other.special-method"
         ],
         "settings": {
-          "foreground": "#6fa6f7"
+          "foreground": "#6ea8ff"
         }
       },
       {
@@ -199,7 +199,7 @@
         ],
         "settings": {
             "fontStyle": "bold",
-            "foreground": "#51d1ff"
+            "foreground": "#23d7e4"
         }
       },
       {
