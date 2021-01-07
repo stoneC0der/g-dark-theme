@@ -31,7 +31,7 @@
           "string constant.other.placeholder"
         ],
         "settings": {
-          "foreground": "#cacde1",
+          "foreground": "#9dc3d1",
           "fontStyle": "bold"
         }
       },
@@ -208,7 +208,7 @@
           "source.cpp meta.block variable.other"
         ],
         "settings": {
-          "foreground": "#D5DBFB"
+          "foreground": "#96c2d2"
         }
       },
       {
@@ -217,7 +217,7 @@
           "variable.other.constant"
         ],
         "settings": {
-          "foreground": "#D5DBFB"
+          "foreground": "#86bcd0"
         }
       },
       {
@@ -227,7 +227,7 @@
           "string.other.link"
         ],
         "settings": {
-          "foreground": "#D5DBFB"
+          "foreground": "#8bbbcd"
         }
       },
       {

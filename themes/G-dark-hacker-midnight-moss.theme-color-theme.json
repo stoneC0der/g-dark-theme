@@ -31,7 +31,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#7abeacd5",
+        "foreground": "#5e9385",
         "fontStyle": "bold"
       }
     },
@@ -204,7 +204,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#72dfb9d5"
+        "foreground": "#79b8a7"
       }
     },
     {
@@ -213,7 +213,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#68e0c0d5"
+        "foreground": "#6fae9d"
       }
     },
     {
@@ -223,7 +223,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#68e0c0d5"
+        "foreground": "#66a091"
       }
     },
     {
@@ -234,7 +234,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#609b60"
+        "foreground": "#5da55d"
       }
     },
     {
