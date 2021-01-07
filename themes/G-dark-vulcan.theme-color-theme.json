@@ -810,7 +810,7 @@
     "dropdown.foreground": "#c2ecf5",
     "dropdown.border": "#FFFFFF10",
     "list.hoverForeground": "#92bce0c0",
-    "list.hoverBackground": "#1b1c2094",
+    "list.hoverBackground": "#191b22",
     "list.activeSelectionBackground": "#17181f",
     "list.activeSelectionForeground": "#89aeb6",
     "list.inactiveSelectionForeground": "#5a7c79",
