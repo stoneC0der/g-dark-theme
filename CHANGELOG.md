@@ -3,6 +3,16 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+## 4.0.4
+
+- New added support for Sashes
+- Minor changes to sidebar & activityBar
+- Breadcrumbs (improved visual difference with editor background)
+- Fixed list hover & activeSelection in some themes
+- Fixed debugConsole output not visible for some themes
+- Other minor improvements
+
+
 ## 4.0.3
 
 ### Fix
