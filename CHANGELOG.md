@@ -3,6 +3,8 @@
 Thanks for the love, any suggestion is welcome
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+**Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
+
 ## 4.0.4
 
 - New added support for Sashes
@@ -11,7 +13,6 @@ Thanks for the love, any suggestion is welcome
 - Fixed list hover & activeSelection in some themes
 - Fixed debugConsole output not visible for some themes
 - Other minor improvements
-
 
 ## 4.0.3
 
