@@ -11,6 +11,8 @@ Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Pyth
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
+**Note:** *Some themes are work better in dark room or similar as well as some in bright room or outside, I suggest you try every themes on different sets to find the one that work for you.
+
 *Tested on **macOS***
 
 - [Getting started](#getting-started)
