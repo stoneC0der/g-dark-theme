@@ -199,7 +199,7 @@
         ],
         "settings": {
             "fontStyle": "bold",
-            "foreground": "#2ecde2"
+            "foreground": "#2ec1e2"
         }
       },
       {
@@ -798,8 +798,8 @@
       "statusBarItem.hoverBackground": "#244d5e",
       "activityBar.background": "#224656",
       "activityBar.border": "#224656",
-      "activityBar.inactiveForeground": "#2c6080",
-      "activityBar.foreground": "#1c7ebb",
+      "activityBar.inactiveForeground": "#2f6485",
+      "activityBar.foreground": "#3aa6d8",
       "activityBar.activeBorder": "#4c93b4",
       "activityBar.activeBackground": "#244d5e",
       "activityBarBadge.background": "#193643",
@@ -814,7 +814,8 @@
       "sideBar.border": "#224656",
       "sideBarTitle.foreground": "#afd6f3",
       "sideBarSectionHeader.background": "#224656",
-      "sideBarSectionHeader.border": "#264f60",
+      "sideBarSectionHeader.foreground": "#35aacd",
+      "sideBarSectionHeader.border": "#4c93b4",
       "input.background": "#244d5e",
       "input.foreground": "#81b0d4",
       "input.placeholderForeground": "#a6d4f760",

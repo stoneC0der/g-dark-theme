@@ -786,6 +786,7 @@
     "sideBar.foreground": "#96a4e2",
     "sideBar.border": "#2C3666",
     "sideBarTitle.foreground": "#afd6f3",
+    "sideBarSectionHeader.foreground": "#afd6f3",
     "sideBarSectionHeader.background": "#364381",
     "sideBarSectionHeader.border": "#364381",
     "input.background": "#303a6c",

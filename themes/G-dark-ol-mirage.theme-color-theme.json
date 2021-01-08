@@ -36,7 +36,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#c2be75e0",
+        "foreground": "#c2be75",
         "fontStyle": "bold"
       }
     },
@@ -201,7 +201,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#36b8dc"
+        "foreground": "#36b3d5"
       }
     },
     {
@@ -250,7 +250,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#f1aa62"
+        "foreground": "#f4a556"
       }
     },
     {
@@ -265,7 +265,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#54bf93"
+        "foreground": "#5dcb9b"
       }
     },
     {
@@ -399,7 +399,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#f33535"
+        "foreground": "#eb316c"
       }
     },
     {
@@ -408,7 +408,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#c73ab4"
+        "foreground": "#d331be"
       }
     },
     {
@@ -420,7 +420,7 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#ff0000"
+        "foreground": "#2869f5"
       }
     },
     {
@@ -773,7 +773,7 @@
     "editorGutter.modifiedBackground": "#0e314260",
     "editorGutter.addedBackground": "#155c4860",
     "editorGutter.deletedBackground": "#e4496360",
-    "tab.activeBorder": "#186594",
+    "tab.activeBorder": "#3e6583",
     "tab.activeModifiedBorder": "#607a86",
     "tab.unfocusedActiveBorder": "#546E7A",
     "tab.activeForeground": "#abd1da",
@@ -795,7 +795,7 @@
     "activityBar.foreground": "#3e6583",
     "activityBarBadge.background": "#313141",
     "activityBarBadge.foreground": "#c7ebf6",
-    "activityBar.activeBorder": "#1381b4",
+    "activityBar.activeBorder": "#3e6583",
     "activityBar.activeBackground": "#191A20",
     "titleBar.border": "#17181D60",
     "titleBar.activeBackground": "#1C1D27",
@@ -806,6 +806,7 @@
     "sideBar.foreground": "#4e808b",
     "sideBar.border": "#1C1D27",
     "sideBarTitle.foreground": "#71afbd",
+    "sideBarSectionHeader.foreground": "#71afbd",
     "sideBarSectionHeader.background": "#1C1D27",
     "sideBarSectionHeader.border": "#1C1D27",
     "input.background": "#191a22",
