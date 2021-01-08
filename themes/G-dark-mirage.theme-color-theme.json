@@ -843,7 +843,7 @@
     "sideBarSectionHeader.border": "#bd15a4",
     "input.background": "#171022",
     "input.foreground": "#a4b8c9",
-    "input.placeholderForeground": "#6c90ac8e",
+    "input.placeholderForeground": "#6d3e67",
     "inputOption.activeBorder": "#bd15a4",
     "input.border": "#bd15a4",
     "inputValidation.errorBorder": "#FF537050",
