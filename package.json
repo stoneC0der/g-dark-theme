@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Themes",
 	"description": "A set of dual/unique background-color with colorful syntax designed to help you code at ease wherever you are.",
-	"version": "4.0.3",
+	"version": "4.0.4",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
