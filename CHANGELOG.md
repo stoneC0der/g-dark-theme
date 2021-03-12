@@ -5,6 +5,21 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.1.0
+
+- Improved terminal foregroundColors
+- minor improvements in some themes
+- Markup heading text now the same color as hash (#) sign
+- New Color for markup.heading for all light themes
+
+### Changes
+
+- Changed G dark light themes (Glitter & Alice Blue) string color
+- Change user defined Constant color in G Dark (Hint of red)
+- JS variable constants are distinct from variables (uses same color as PHP users defined constants)
+- Minor changes to G Dark One Love set of themes variable
+- Other minor changes
+
 ## 4.0.4
 
 - New added support for Sashes
