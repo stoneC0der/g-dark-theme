@@ -20,7 +20,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#708394",
+        "foreground": "#6485a1",
         "fontStyle": "bold"
       }
     },
@@ -80,7 +80,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#f43685",
+        "foreground": "#e54185",
         // "fontStyle": "bold"
       }
     },
@@ -90,7 +90,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#e60ec5",
+        "foreground": "#dc33c3",
         // "fontStyle": "bold"
       }
     },
@@ -100,7 +100,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#b51cd7",
+        "foreground": "#bc34db",
         // "fontStyle": "bold"
       }
     },
@@ -122,7 +122,7 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#23a081",
+        "foreground": "#27b7b2",
         "fontStyle": "bold"
       }
     },
@@ -143,7 +143,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#d88a31",
+        "foreground": "#d9a743",
       }
     },
     {
@@ -166,7 +166,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#15a06b",
+        "foreground": "#2aa174",
         "fontStyle": "italic bold"
       }
     },
@@ -178,7 +178,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#e2a448"
+        "foreground": "#dcb24e"
       }
     },
     {
@@ -190,7 +190,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#0f67eb"
+        "foreground": "#2d6ae5"
       }
     },
     {
@@ -200,7 +200,7 @@
       ],
       "settings": {
         // "fontStyle": "bold",
-        "foreground": "#1c98eb",
+        "foreground": "#219cd9",
       }
     },
     {
@@ -209,7 +209,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#647e93"
+        "foreground": "#738bc4"
       }
     },
     {
@@ -218,7 +218,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#647e93"
+        "foreground": "#748497"
       }
     },
     {
@@ -228,7 +228,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#647e93"
+        "foreground": "#639ac6"
       }
     },
     {
@@ -759,9 +759,9 @@
     "statusBar.debuggingForeground": "#12202a",
     "debugToolBar.background": "#fcfbf7",
     "debugConsole.errorForeground": "#ee3b3b",
-    "debugConsole.infoForeground": "#31c6fc",
-    "debugConsole.warningForeground": "#eeec44",
-    "debugConsole.sourceForeground": "#3feb79",
+    "debugConsole.infoForeground": "#2ca6d2",
+    "debugConsole.warningForeground": "#e6e46f",
+    "debugConsole.sourceForeground": "#2dd765",
     "debugConsoleInputIcon.foreground": "#f527a3",
     "statusBarItem.hoverBackground": "#ece7cb",
     "activityBar.background": "#fcfbf7",

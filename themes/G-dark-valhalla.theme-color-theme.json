@@ -207,7 +207,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#8DB0BB"
+        "foreground": "#75aab9"
       }
     },
     {
@@ -216,7 +216,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#8DB0BB"
+        "foreground": "#75aab9"
       }
     },
     {
@@ -226,7 +226,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#8DB0BB"
+        "foreground": "#75aab9"
       }
     },
     {

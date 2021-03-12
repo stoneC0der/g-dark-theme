@@ -197,7 +197,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#06cdfa"
+        "foreground": "#01c1ec"
       }
     },
     {
@@ -254,7 +254,7 @@
       ],
       "settings": {
         // "fontStyle": "normal",
-        "foreground": "#47d5a3"
+        "foreground": "#47d5d0"
       }
     },
     {
@@ -534,7 +534,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading | markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {

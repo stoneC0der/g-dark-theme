@@ -10,7 +10,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#abbeb3"
+        "foreground": "#a2c0ae"
       }
     },
     {
@@ -180,7 +180,7 @@
         "punctuation.definition.tag.html",
       ],
       "settings": {
-        "foreground": "#ee5a89"
+        "foreground": "#de5681"
       }
     },
     {
@@ -190,7 +190,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#eb2cdbee",
+        "foreground": "#d52bc7ee",
         "fontStyle": "bold"
       }
     },
@@ -203,7 +203,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#724af5ef"
+        "foreground": "#6e48eaef"
       }
     },
     {
@@ -213,7 +213,7 @@
       ],
       "settings": {
         // "fontStyle": "",
-        "foreground": "#f51eadec"
+        "foreground": "#e01e95ec"
       }
     },
     {
@@ -793,9 +793,9 @@
     "statusBar.debuggingForeground": "#363e46",
     "statusBarItem.hoverBackground": "#546E7A20",
     "debugConsole.errorForeground": "#ee3b3b",
-    "debugConsole.infoForeground": "#31c6fc",
-    "debugConsole.warningForeground": "#eeec44",
-    "debugConsole.sourceForeground": "#3feb79",
+    "debugConsole.infoForeground": "#2ca6d2",
+    "debugConsole.warningForeground": "#e6e46f",
+    "debugConsole.sourceForeground": "#2dd765",
     "debugConsoleInputIcon.foreground": "#f527a3",
     "activityBar.background": "#F0F8FE",
     "activityBar.activeBackground": "#e8f0ff",
@@ -817,7 +817,7 @@
     "sideBarSectionHeader.background": "#f8fcff",
     "sideBarSectionHeader.border": "#f8fcff",
     "sideBarSectionHeader.foreground": "#576ea0",
-    "sash.hoverBorder": "#3669b1",
+    "sash.hoverBorder": "#85aadf",
     "input.background": "#f6fbff",
     "input.foreground": "#414d57",
     "input.placeholderForeground": "#6c90ac8e",
