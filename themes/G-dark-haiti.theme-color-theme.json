@@ -30,17 +30,19 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#ad71fc",
+        "foreground": "#9561da",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants, Constants",
+      "name": "PHP Constants, Variables Constants",
       "scope": [
         "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#cc34f1"
+        "foreground": "#cc34f1",
+        "fontStyle": ""
       }
     },
     {
@@ -192,7 +194,7 @@
       ],
       "settings": {
         // "fontStyle": "",
-        "foreground": "#9451ff"
+        "foreground": "#904aff"
       }
     },
     {
@@ -201,16 +203,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#ad71fc"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#ad71fc"
+        "foreground": "#9561da"
       }
     },
     {
@@ -220,7 +213,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#ad71fc"
+        "foreground": "#9561da"
       }
     },
     {
@@ -366,7 +359,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#bf57f3"
+        "foreground": "#c659fc"
       }
     },
     {
@@ -375,7 +368,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#bd55f1"
+        "foreground": "#c458fa"
       }
     },
     {
@@ -385,7 +378,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#b811e1",
+        "foreground": "#c012eb",
         // "fontStyle": "bold"
       }
     },
@@ -422,7 +415,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#c846f0"
+        "foreground": "#c42df2"
       }
     },
     {
@@ -431,7 +424,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#c846f0"
+        "foreground": "#cd55f2"
       }
     },
     {
@@ -860,7 +853,7 @@
     "list.activeSelectionBackground": "#4E1B81",
     "list.activeSelectionForeground": "#c58cfa",
     "list.inactiveSelectionForeground": "#be7cfc",
-    "list.inactiveSelectionBackground": "#1c0b2e",
+    "list.inactiveSelectionBackground": "#25103e",
     "list.dropBackground": "#4E1B81",
     "list.focusBackground": "#4E1B81",
     "list.focusForeground": "#be7cfc",
@@ -888,7 +881,7 @@
     "editorSuggestWidget.background": "#220c38",
     "editorSuggestWidget.foreground": "#8971a0",
     "editorSuggestWidget.highlightForeground": "#d139f0",
-    "editorSuggestWidget.selectedBackground": "#220c38",
+    "editorSuggestWidget.selectedBackground": "#2b0e4a",
     "editorSuggestWidget.border": "#4E1B8110",
     "editorError.foreground": "#FF537070",
     "editorWarning.foreground": "#4E1B8170",
@@ -937,7 +930,7 @@
     "breadcrumbPicker.background": "#220c38",
     "menu.background": "#220c38",
     "menu.foreground": "#be7cfc",
-    "menu.selectionBackground": "#220c3850",
+    "menu.selectionBackground": "#290e43",
     "menu.selectionForeground": "#be7cfc",
     "menu.selectionBorder": "#4E1B81",
     "menu.separatorBackground": "#be7cfc",
@@ -954,7 +947,7 @@
     "settings.modifiedItemIndicator": "#fa8086",
     "settings.checkboxBackground": "#220c38",
     "settings.checkboxForeground": "#ae61f7",
-    "listFilterWidget.background": "#220c3830",
+    "listFilterWidget.background": "#2b1046",
     "listFilterWidget.outline": "#220c3830",
     "listFilterWidget.noMatchesOutline": "#220c3830",
     "tree.indentGuidesStroke": "#220c3854",

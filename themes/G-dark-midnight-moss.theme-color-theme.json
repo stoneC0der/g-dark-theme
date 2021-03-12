@@ -33,24 +33,26 @@
         "foreground": "#91beb8d5",
         "fontStyle": "bold"
       }
-    },
-    {
-      "name": "PHP Constants",
+    }, {
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#d39254"
+        "foreground": "#f0a652",
+        "fontStyle": ""
       }
     }, {
-      "name": "Language Constants, Constants",
+      "name": "Language, Constants",
       "scope": [
         "constant.language",
         "support.constant",
-        "constant.other.color",
+        "constant.other.color"
       ],
       "settings": {
-        "foreground": "#e47e0a"
+        "foreground": "#dead42",
+        "fontStyle": "bold"
       }
     },
     {
@@ -180,7 +182,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#337BB0"
+        "foreground": "#387fb1"
       }
     },
     {
@@ -190,7 +192,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#439CD8",
+        "foreground": "#57a6da",
         "fontStyle": "bold"
       }
     },
@@ -220,15 +222,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#91beb8d5"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#91beb8d5"
@@ -569,8 +562,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading", 
-"markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
@@ -865,7 +858,7 @@
     "editorSuggestWidget.background": "#030c0c",
     "editorSuggestWidget.foreground": "#c5e2f8",
     "editorSuggestWidget.highlightForeground": "#70baf3",
-    "editorSuggestWidget.selectedBackground": "#00000050",
+    "editorSuggestWidget.selectedBackground": "#051313",
     "editorSuggestWidget.border": "#FFFFFF10",
     "editorError.foreground": "#FF537070",
     "editorWarning.foreground": "#20462a70",

@@ -35,12 +35,14 @@
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#fdc55c"
+        "foreground": "#a7d251",
+        "fontStyle": ""
       }
     },
     {
@@ -51,7 +53,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#fcdea8",
+        "foreground": "#d8bf90",
         "fontStyle": "bold"
       }
     },
@@ -89,7 +91,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#fa7aaf"
+        "foreground": "#fc6ca8"
       }
     },
     {
@@ -168,7 +170,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fa7aa0"
+        "foreground": "#fc709a"
       }
     },
     {
@@ -178,7 +180,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fc56a9",
+        "foreground": "#fc76b9",
         "fontStyle": "bold"
       }
     },
@@ -208,15 +210,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#bcbcbc"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#bcbcbc"
@@ -280,7 +273,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#d4be94",
+        "foreground": "#e4db92",
         // "fontStyle": "bold"
       }
     },

@@ -35,16 +35,18 @@
       }
     },
     {
-      "name": "PHP Constants, Constants",
+      "name": "PHP Constants, Variables Constants",
       "scope": [
         "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#d418c5"
+        "foreground": "#d418c5",
+        "fontStyle": ""
       }
     },
     {
-      "name": "PHP Constants, Constants",
+      "name": "Constants",
       "scope": [
         "constant.language",
         "support.constant",
@@ -199,15 +201,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#c498d6d8"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#c498d6d8"
@@ -589,8 +582,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading", 
-"markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {

@@ -30,17 +30,19 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#8DB0BB",
+        "foreground": "#85aeba",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#fac45f"
+        "foreground": "#a7d251",
+        "fontStyle": ""
       }
     },
     {
@@ -205,15 +207,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#8DB0BB"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#8DB0BB"

@@ -36,17 +36,19 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#cec973e0",
+        "foreground": "#868e78",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#f08f21"
+        "foreground": "#e9983b",
+        "fontStyle": ""
       }
     },
     {
@@ -57,7 +59,7 @@
         "constant.other.color",
       ],
       "settings": {
-        "foreground": "#db8946",
+        "foreground": "#d09361",
         "fontStyle": "bold"
       }
     },
@@ -68,7 +70,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69c069"
+        "foreground": "#6ab86a"
       }
     },
     {
@@ -96,7 +98,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#fd6d54"
+        "foreground": "#eb6b54"
       }
     },
     {
@@ -105,7 +107,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#f7e549f5"
+        "foreground": "#e3d44d"
       }
     },
     {
@@ -114,7 +116,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#7fe746",
+        "foreground": "#80d850",
       }
     },
     {
@@ -135,14 +137,14 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#e47dfce8"
+        "foreground": "#cf81e1"
       }
     },
     {
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#0f9785"
+        "foreground": "#419489"
       }
     },
     {
@@ -155,7 +157,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#d56afff3"
+        "foreground": "#c169e4f3"
       }
     },
     {
@@ -178,7 +180,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#df2b2bef"
+        "foreground": "#e33737ef"
       }
     },
     {
@@ -188,7 +190,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#d336b1f1",
+        "foreground": "#d04a6df1",
         "fontStyle": "bold"
       }
     },
@@ -201,7 +203,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#20bbe2"
+        "foreground": "#2eb4d5"
       }
     },
     {
@@ -211,7 +213,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#fc2276"
+        "foreground": "#e63378"
       }
     },
     {
@@ -220,16 +222,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#cec973e0"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#cec973e0"
+        "foreground": "#868e78"
       }
     },
     {
@@ -239,7 +232,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#cec973e0"
+        "foreground": "#868e78"
       }
     },
     {
@@ -299,7 +292,7 @@
         "meta.use.php",
       ],
       "settings": {
-        "foreground": "#fa3d3def",
+        "foreground": "#f04242ef",
         // "fontStyle": "bold"
       }
     },
@@ -309,7 +302,7 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#16e6d5",
+        "foreground": "#2edccd",
         "fontStyle": "bold"
       }
     },
@@ -319,7 +312,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#e649bf"
+        "foreground": "#df4bba"
       }
     },
     {
@@ -333,7 +326,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#2fdc8e"
+        "foreground": "#3cda93"
       }
     },
     {
@@ -343,7 +336,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#d6b22e"
+        "foreground": "#dcba41"
       }
     },
     {
@@ -352,7 +345,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#d6b22e"
+        "foreground": "#dcba41"
       }
     },
     {
@@ -420,7 +413,6 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#ff0000"
       }
     },
     {
@@ -566,8 +558,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading", 
-"markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {

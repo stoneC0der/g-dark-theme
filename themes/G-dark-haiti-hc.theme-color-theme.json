@@ -33,14 +33,15 @@
         "foreground": "#8b82ac",
         "fontStyle": "bold"
       }
-    },
-    {
-      "name": "PHP Constants",
+    }, {
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#fac45f"
+        "foreground": "#a7d251",
+        "fontStyle": ""
       }
     },
     {
@@ -51,7 +52,7 @@
         "constant.other.color",
       ],
       "settings": {
-        "foreground": "#e9ce9c",
+        "foreground": "#dac193",
         "fontStyle": "bold"
       }
     },
@@ -205,15 +206,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#8DB0BB"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#8DB0BB"
@@ -534,8 +526,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading", 
-"markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
@@ -715,7 +707,7 @@
     "editorLineNumber.activeForeground": "#4d1685",
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#1e0c31",
-    "editorWhitespace.foreground": "#06273b40",
+    "editorWhitespace.foreground": "#13063b40",
     "editor.background": "#220c38",
     "editor.foreground": "#dcf2f7",
     "editor.lineHighlightBackground": "#1a0a2b8c",
@@ -820,11 +812,11 @@
     "terminal.ansiBrightYellow": "#e2d21d",
     "scrollbarSlider.background": "#1014203a",
     "scrollbarSlider.hoverBackground": "#7b8acc2c",
-    "scrollbarSlider.activeBackground": "#24426e79",
+    "scrollbarSlider.activeBackground": "#58246e79",
     "editorSuggestWidget.background": "#37135b",
     "editorSuggestWidget.foreground": "#c5e2f8",
     "editorSuggestWidget.highlightForeground": "#8400ff",
-    "editorSuggestWidget.selectedBackground": "#023047",
+    "editorSuggestWidget.selectedBackground": "#2e0f4d",
     "editorSuggestWidget.border": "#cda8f510",
     "editorError.foreground": "#FF537070",
     "editorWarning.foreground": "#C3E88D70",
@@ -894,7 +886,7 @@
     "listFilterWidget.noMatchesOutline": "#7009df30",
     "tree.indentGuidesStroke": "#7009df90",
     "window.activeBorder": "#7009df",
-    "window.inactiveBorder": "#3d93c8",
+    "window.inactiveBorder": "#873dc8",
     "icon.foreground": "#7009df",
     "inputValidation.warningBackground": "#1c0a2e",
     "inputValidation.warningForeground": "#82abe9",

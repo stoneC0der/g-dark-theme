@@ -28,47 +28,45 @@
       "settings": {
         "fontStyle": "italic bold",
       }
-    },
-    {
+    }, {
       "name": "Variables",
       "scope": [
         "variable",
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#c2be75",
+        "foreground": "#949d84",
         "fontStyle": "bold"
       }
-    },
-    {
-      "name": "PHP Constants",
+    }, {
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#d8a115"
+        "foreground": "#e39a46",
+        "fontStyle": ""
       }
-    },
-    {
-      "name": "Language, Constants",
+    }, {
+      "name": "Language Constants, Constants",
       "scope": [
         "constant.language",
         "support.constant",
-        "constant.other.color"
+        "constant.other.color",
       ],
       "settings": {
-        "foreground": "#eba14d",
+        "foreground": "#d09361",
         "fontStyle": "bold"
       }
-    },
-    {
+    }, {
       "name": "Language methods",
       "scope": [
         "variable.language"
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69c069"
+        "foreground": "#6ab86a"
       }
     },
     {
@@ -220,16 +218,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#cec973e0"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#cec973e0"
+        "foreground": "#949d84"
       }
     },
     {
@@ -239,7 +228,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#cec973e0"
+        "foreground": "#949d84"
       }
     },
     {

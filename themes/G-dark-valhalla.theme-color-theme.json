@@ -33,14 +33,15 @@
         "foreground": "#8DB0BB",
         "fontStyle": "bold"
       }
-    },
-    {
-      "name": "PHP Constants",
+    }, {
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#fcc052e7"
+        "foreground": "#a7d251",
+        "fontStyle": ""
       }
     },
     {
@@ -51,7 +52,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#fce4a8",
+        "foreground": "#e1cc98",
         "fontStyle": "bold"
       }
     },
@@ -205,15 +206,6 @@
       "name": "C-related Block Level Variables",
       "scope": [
         "source.cpp meta.block variable.other"
-      ],
-      "settings": {
-        "foreground": "#75aab9"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
       ],
       "settings": {
         "foreground": "#75aab9"

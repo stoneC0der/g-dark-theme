@@ -20,29 +20,30 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#6485a1",
+        "foreground": "#758ea4",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#0ca556",
-        "fontStyle": "bold"
+        "foreground": "#9f8c4d",
+        "fontStyle": ""
       }
     },
     {
-      "name": "Language Constants, Constants",
+      "name": "Language Constants",
       "scope": [
         "constant.language",
         "support.constant",
         "constant.other.color",
       ],
       "settings": {
-        "foreground": "#03b8a6"
+        "foreground": "#0ca556"
       }
     },
     {
@@ -143,7 +144,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#d9a743",
+        "foreground": "#cb9d40",
       }
     },
     {
@@ -209,16 +210,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#738bc4"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#748497"
+        "foreground": "#758ea4"
       }
     },
     {
@@ -228,7 +220,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#639ac6"
+        "foreground": "#758ea4"
       }
     },
     {

@@ -30,21 +30,23 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#738991",
+        "foreground": "#75909f",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variable Constants",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#339914"
+        "foreground": "#339914",
+        "fontStyle": ""
       }
     },
     {
-      "name": "Number, Constant",
+      "name": "Language Constants",
       "scope": [
         "constant.language",
         "support.constant",
@@ -180,7 +182,7 @@
         "punctuation.definition.tag.html",
       ],
       "settings": {
-        "foreground": "#de5681"
+        "foreground": "#e1527f"
       }
     },
     {
@@ -190,7 +192,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#d52bc7ee",
+        "foreground": "#f0826f",
         "fontStyle": "bold"
       }
     },
@@ -222,16 +224,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#666b6dd7"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#666b6dd7"
+        "foreground": "#75909f"
       }
     },
     {
@@ -241,7 +234,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#666b6dd7"
+        "foreground": "#75909f"
       }
     },
     {
@@ -267,7 +260,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#329e95f6"
+        "foreground": "#979d51f6"
       }
     },
     {

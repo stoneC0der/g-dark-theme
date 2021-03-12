@@ -30,17 +30,18 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#5e9385",
+        "foreground": "#477e6f",
         "fontStyle": "bold"
       }
     },
     {
-      "name": "PHP Constants",
+      "name": "PHP Constants, Variables Constant",
       "scope": [
-        "constant.other.php"
+        "constant.other.php",
+        "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#0bc282"
+        "foreground": "#0ab177"
       }
     },
     {
@@ -162,7 +163,7 @@
         // "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#1fe647e7"
+        "foreground": "#1bc93de7"
       }
     },
     {
@@ -204,16 +205,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#79b8a7"
-      }
-    },
-    {
-      "name": "Variables constant",
-      "scope": [
-        "variable.other.constant"
-      ],
-      "settings": {
-        "foreground": "#6fae9d"
+        "foreground": "#477e6f"
       }
     },
     {
@@ -223,7 +215,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#66a091"
+        "foreground": "#477e6f"
       }
     },
     {
@@ -592,8 +584,8 @@
       "name": "Markdown - Heading",
       "scope": [
         "markdown.heading",
-        "markup.heading", 
-"markup.heading entity.name",
+        "markup.heading",
+        "markup.heading entity.name",
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
