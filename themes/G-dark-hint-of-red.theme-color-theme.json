@@ -539,7 +539,7 @@
         "markup.heading.markdown punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#a8a1a1",
+        "foreground": "#e54185",
         "fontStyle": "bold"
       }
     },
