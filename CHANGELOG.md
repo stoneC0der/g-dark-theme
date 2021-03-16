@@ -5,6 +5,10 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.1.1
+
+### NOTE
+**I STUPIDLY DELETE THE WRONG PUBLISHER ID trying to solve PAT issue (😓) which also deleted the themes I republished it those who previously installed should search for it again from vscode or marketplace else you will not receive new updates (I think)**
 ## 4.1.0
 
 - Improved terminal foregroundColors
