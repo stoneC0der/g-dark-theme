@@ -158,9 +158,7 @@
         "entity.name.tag",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
-        "punctuation.definition.tag.html",
-        // "punctuation.definition.tag.begin.html",
-        // "punctuation.definition.tag.end.html"
+        "punctuation.definition.tag.html"
       ],
       "settings": {
         "foreground": "#1bc93de7"

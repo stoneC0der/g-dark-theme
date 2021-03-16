@@ -43,7 +43,8 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#48c16e"
+        "foreground": "#48c16e",
+        "fontStyle": "bold"
       }
     },
     {
@@ -315,7 +316,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#8fdb5c"
+        "foreground": "#b1db5c"
       }
     },
     {

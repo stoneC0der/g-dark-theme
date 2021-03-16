@@ -31,7 +31,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#9f8c4d",
+        "foreground": "#7e9217",
         "fontStyle": ""
       }
     },
@@ -43,7 +43,8 @@
         "constant.other.color",
       ],
       "settings": {
-        "foreground": "#0ca556"
+        "foreground": "#068f31",
+        "fontStyle": "bold"
       }
     },
     {
@@ -81,7 +82,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#e54185",
+        "foreground": "#da3f80",
         // "fontStyle": "bold"
       }
     },
@@ -123,7 +124,7 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#27b7b2",
+        "foreground": "#2cb8b3",
         "fontStyle": "bold"
       }
     },
@@ -144,7 +145,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#cb9d40",
+        "foreground": "#c49434",
       }
     },
     {
@@ -167,8 +168,8 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#2aa174",
-        "fontStyle": "italic bold"
+        "foreground": "#2fab7b",
+        // "fontStyle": "italic bold"
       }
     },
     {
@@ -179,7 +180,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#dcb24e"
+        "foreground": "#d3af59"
       }
     },
     {
@@ -191,7 +192,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#2d6ae5"
+        "foreground": "#3a6fd8"
       }
     },
     {
@@ -201,7 +202,7 @@
       ],
       "settings": {
         // "fontStyle": "bold",
-        "foreground": "#219cd9",
+        "foreground": "#28a1de",
       }
     },
     {
@@ -265,15 +266,22 @@
         "entity.name",
         "support.type",
         "support.class",
-        "support.other.namespace.use.php",
         "meta.use.php",
-        "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#e87e68",
-        "fontStyle": "bold"
+        "foreground": "#e87e68"
+      }
+    },
+    {
+      "name": "Namespace, PHP",
+      "scope": [
+        "support.other.namespace.use.php",
+        "support.other.namespace.php",
+      ],
+      "settings": {
+        "foreground": "#df8e63",
       }
     },
     {
@@ -282,7 +290,8 @@
         "support.class"
       ],
       "settings": {
-        "foreground": "#f77936"
+        "foreground": "#f77936",
+        "fontStyle": "bold"
       }
     },
     {
@@ -296,7 +305,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#3f829f"
+        "foreground": "#3b87a7"
       }
     },
     {

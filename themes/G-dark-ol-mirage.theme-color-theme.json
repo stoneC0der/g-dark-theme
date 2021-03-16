@@ -171,9 +171,7 @@
         "entity.name.tag",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
-        "punctuation.definition.tag.html",
-        // "punctuation.definition.tag.begin.html",
-        // "punctuation.definition.tag.end.html"
+        "punctuation.definition.tag.html"
       ],
       "settings": {
         "foreground": "#e33939"
@@ -341,7 +339,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#d8bb50"
+        "foreground": "#a8dc41"
       }
     },
     {

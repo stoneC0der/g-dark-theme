@@ -41,7 +41,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#339914",
+        "foreground": "#14992f",
         "fontStyle": ""
       }
     },
@@ -53,7 +53,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#0ca57c",
+        "foreground": "#29a987",
         "fontStyle": "bold"
       }
     },
@@ -102,7 +102,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#db6955e1"
+        "foreground": "#dc614be1"
       }
     },
     {
@@ -111,7 +111,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#e920e9e3"
+        "foreground": "#e120e1e3"
       }
     },
     {
@@ -120,7 +120,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#f13d3dea",
+        "foreground": "#e83a3aea",
       }
     },
     {
@@ -141,14 +141,14 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#d967f3"
+        "foreground": "#ca62e1"
       }
     },
     {
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#1680c7ec"
+        "foreground": "#4f96c6ec"
       }
     },
     {
@@ -161,7 +161,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#fa892ce2"
+        "foreground": "#ed8129e2"
       }
     },
     {
@@ -182,7 +182,7 @@
         "punctuation.definition.tag.html",
       ],
       "settings": {
-        "foreground": "#e1527f"
+        "foreground": "#ef654d"
       }
     },
     {
@@ -192,7 +192,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#f0826f",
+        "foreground": "#e67d9e",
         "fontStyle": "bold"
       }
     },
@@ -205,7 +205,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#6e48eaef"
+        "foreground": "#6a45e1ef"
       }
     },
     {
@@ -215,7 +215,7 @@
       ],
       "settings": {
         // "fontStyle": "",
-        "foreground": "#e01e95ec"
+        "foreground": "#dc1f93ec"
       }
     },
     {
@@ -245,7 +245,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#eb9018e8"
+        "foreground": "#bd7415e8"
       }
     },
     {
@@ -260,17 +260,13 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#979d51f6"
+        "foreground": "#899135f6"
       }
     },
     {
       "name": "Class, Support",
       "scope": [
-        "entity.name",
-        "support.type",
-        "support.other.namespace.use.php",
         "meta.use.php",
-        "support.other.namespace.php",
         "markup.changed.git_gutter",
         "support.type.sys-types"
       ],
@@ -282,10 +278,11 @@
     {
       "name": "PHP Namespace",
       "scope": [
+        "support.other.namespace.use.php",
         "support.other.namespace.php"
       ],
       "settings": {
-        "foreground": "#a667ee",
+        "foreground": "#a064e4",
         // "fontStyle": "bold"
       }
     },
@@ -329,7 +326,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#9d36f1ef"
+        "foreground": "#8e35d7ef"
       }
     },
     {
@@ -339,7 +336,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#466dbff7"
+        "foreground": "#4176c6f7"
       }
     },
     {
@@ -358,7 +355,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#09ad69e8",
+        "foreground": "#079358e8",
         // "fontStyle": "bold"
       }
     },
@@ -728,7 +725,7 @@
     "separators.namespaces.borderColor": "#db695566",
     "separators.interfaces.borderColor": "#296fa866",
     "separators.classes.borderColor": "#296fa866",
-    "focusBorder": "#43648a46",
+    "focusBorder": "#476a9346",
     "descriptionForeground": "#165ca1",
     "editorCursor.foreground": "#f70fb9",
     "editorRuler.foreground": "#7ba7be82",
@@ -743,7 +740,7 @@
     "editorBracketMatch.background": "#052e7942",
     "editorWhitespace.foreground": "#b5d2fc40",
     "editor.background": "#f8fcff",
-    "editor.foreground": "#7492aad8",
+    "editor.foreground": "#515c67",
     "editor.lineHighlightBackground": "#717f9917",
     "editor.lineHighlightBorder": "#8abffc25",
     "editor.hoverHighlightBackground": "#bcc8fa61",
@@ -772,16 +769,16 @@
     "tab.activeBorder": "#e90080",
     "tab.activeModifiedBorder": "#607086",
     "tab.unfocusedActiveBorder": "#54687a",
-    "tab.activeForeground": "#0d1a25f0",
+    "tab.activeForeground": "#263038f0",
     "tab.activeBackground": "#e8f0ffd3",
-    "tab.inactiveForeground": "#879eac",
+    "tab.inactiveForeground": "#7992a1",
     "tab.inactiveBackground": "#F0F8FE",
     "tab.unfocusedActiveForeground": "#064aa8",
     "tab.border": "#bbc6d91f",
     "statusBar.noFolderBackground": "#F0F8FE",
     "statusBar.border": "#F0F8FE",
     "statusBar.background": "#e8f0ffd3",
-    "statusBar.foreground": "#31515f",
+    "statusBar.foreground": "#2b3e46",
     "statusBar.debuggingBackground": "#a6d0f5",
     "statusBar.debuggingForeground": "#363e46",
     "statusBarItem.hoverBackground": "#546E7A20",

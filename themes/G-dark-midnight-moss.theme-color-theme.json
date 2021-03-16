@@ -33,17 +33,19 @@
         "foreground": "#91beb8d5",
         "fontStyle": "bold"
       }
-    }, {
+    },
+    {
       "name": "PHP Constants, Variables Constant",
       "scope": [
         "constant.other.php",
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#f0a652",
+        "foreground": "#efad63",
         "fontStyle": ""
       }
-    }, {
+    },
+    {
       "name": "Language, Constants",
       "scope": [
         "constant.language",
@@ -51,7 +53,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#dead42",
+        "foreground": "#dec252",
         "fontStyle": "bold"
       }
     },
@@ -177,9 +179,7 @@
         "entity.name.tag",
         "meta.tag.sgml",
         "markup.deleted.git_gutter",
-        "punctuation.definition.tag.html",
-        // "punctuation.definition.tag.begin.html",
-        // "punctuation.definition.tag.end.html"
+        "punctuation.definition.tag.html"
       ],
       "settings": {
         "foreground": "#387fb1"
@@ -348,7 +348,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#AE6572"
+        "foreground": "#ce6d92"
       }
     },
     {
