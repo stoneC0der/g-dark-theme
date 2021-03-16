@@ -2,6 +2,9 @@
 
 ---
 
+## NOTE
+**I STUPIDLY DELETE THE WRONG PUBLISHER ID trying to solve PAT issue (😓) which also deleted the themes I republished it those who previously installed should search for it again from vscode or marketplace else you will not receive new updates (I think)**
+
 ## Atom Editor
 
 G Dark themes for [Atom](https://atom.io/users/stoneC0der)
