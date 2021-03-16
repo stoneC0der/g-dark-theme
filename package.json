@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Themes",
 	"description": "A set of dual/unique background-color with colorful syntax designed to help you code at ease wherever you are.",
-	"version": "4.2.0",
+	"version": "4.1.1",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -38,8 +38,7 @@
 		"theme": "dark"
 	},
 	"contributes": {
-		"themes": [
-			{
+		"themes": [{
 				"label": "G Dark (Default)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-dark-blue-whale.theme-color-theme.json"
