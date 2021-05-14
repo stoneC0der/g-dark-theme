@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#75909f",
+        "foreground": "#91a8b6",
         "fontStyle": "bold"
       }
     },
@@ -224,7 +224,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#75909f"
+        "foreground": "#91a8b6"
       }
     },
     {
@@ -234,7 +234,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#75909f"
+        "foreground": "#91a8b6"
       }
     },
     {
@@ -260,7 +260,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#899135f6"
+        "foreground": "#779135"
       }
     },
     {
