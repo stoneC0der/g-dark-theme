@@ -5,10 +5,20 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.2.0
+
+### New
+
+- Added a new dark theme - G Dark Minimal (Oxford Blue)
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/g-dark-oxford-blue.png" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
+- Minor Improvements
+
 ## 4.1.1
 
-### NOTE
-**I STUPIDLY DELETE THE WRONG PUBLISHER ID trying to solve PAT issue (😓) which also deleted the themes I republished it those who previously installed should search for it again from vscode or marketplace else you will not receive new updates (I think)**
+- Reupload the theme after accidentally deleting it from the marketplace
+**NOTE**
+Long time user should delete the previous theme and install it again to receive new update, sorry about that.
+
 ## 4.1.0
 
 - Improved terminal foregroundColors
