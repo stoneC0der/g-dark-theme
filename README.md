@@ -3,18 +3,23 @@
 ---
 
 ## NOTE
-**I STUPIDLY DELETE THE WRONG PUBLISHER ID trying to solve PAT issue (😓) which also deleted the themes I republished it those who previously installed should search for it again from vscode or marketplace else you will not receive new updates (I think)**
+
+- **For the longtime users, please delete the version installed in vscode and install this version to be able to receive update, sorry about that**
 
 ## Atom Editor
 
 G Dark themes for [Atom](https://atom.io/users/stoneC0der)
+
+## Also available for Nova Editor
+
+G Dark Themes for [Nova](https://extensions.panic.com/extensions/stonec0der/stonec0der.GDarkTheme/)
 
 Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
 
 Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
 **Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
-**Note:** *Some themes are work better in dark room or similar as well as some in bright room or outside, I suggest you try every themes on different sets to find the one that work for you.
+**Note:** *Some themes are work better in dark room or similar as well as some in bright room or outside, I suggest you try every themes on different sets to find the one that work for you.*
 
 *Tested on **macOS***
 
