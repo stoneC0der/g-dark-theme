@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Themes",
 	"description": "A set of dual/unique background-color with colorful syntax designed to help you code at ease wherever you are.",
-	"version": "4.1.1",
+	"version": "4.2.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -77,6 +77,10 @@
 				"label": "G Dark-minimal-2 (Astronaut Blue)",
 				"uiTheme": "vs-dark",
 				"path": "./themes/G-Dark-Astronaut-blue.theme-color-theme.json"
+			}, {
+				"label": "G Dark-minimal-3 (Oxford Blue)",
+				"uiTheme": "vs-dark",
+				"path": "./themes/G-Dark-oxford-blue.theme-color-theme.json"
 			},
 			{
 				"label": "G Dark-shader (Haiti)",
