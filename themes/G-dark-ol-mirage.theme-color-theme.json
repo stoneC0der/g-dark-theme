@@ -737,8 +737,8 @@
     "editor.background": "#1C1D27",
     // 1C1D27
     "editor.foreground": "#cedbdbd8",
-    "editor.lineHighlightBackground": "#040b1450",
-    "editor.lineHighlightBorder": "#242a314e",
+    "editor.lineHighlightBackground": "#17181f7e",
+    "editor.lineHighlightBorder": "#22272e4e",
     "editor.hoverHighlightBackground": "#4048679d",
     "editor.findMatchBackground": "#2f5d6b10",
     "editor.findMatchBorder": "#404e5cd8",
@@ -804,6 +804,7 @@
     "sideBarSectionHeader.background": "#1C1D27",
     "sideBarSectionHeader.border": "#1C1D27",
     "sash.hoverBorder": "#252634",
+    "minimap.background": "#1a1b22",
     "input.background": "#191a22",
     "input.foreground": "#81b0d4",
     "input.placeholderForeground": "#283743",

@@ -808,6 +808,7 @@
     "sideBarSectionHeader.border": "#f8fcff",
     "sideBarSectionHeader.foreground": "#576ea0",
     "sash.hoverBorder": "#85aadf",
+    "minimap.background": "#F0F8FE",
     "input.background": "#f6fbff",
     "input.foreground": "#414d57",
     "input.placeholderForeground": "#6c90ac8e",

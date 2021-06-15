@@ -1,6 +1,6 @@
 {
   "name": "G Dark-Shader (Mirage)",
-  "type": "light",
+  "type": "hc-black",
   "tokenColors": [{
       "name": "Comment",
       "scope": [
@@ -836,6 +836,7 @@
     "sideBarSectionHeader.background": "#181124",
     "sideBarSectionHeader.border": "#bd15a4",
     "sash.hoverBorder": "#a33d9b",
+    "minimap.background": "#171022c5",
     "input.background": "#171022",
     "input.foreground": "#a4b8c9",
     "input.placeholderForeground": "#6d3e67",
