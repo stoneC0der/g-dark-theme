@@ -5,6 +5,11 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.2.2
+
+- Minor improvements (Minimap, LineHighlight)
+- Improved editor.background G Dark (Astro Blue, Default, Jackson Purple).
+
 ## 4.2.1
 
 - Improved terminal completion hints
