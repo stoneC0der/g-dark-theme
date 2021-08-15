@@ -809,6 +809,8 @@
     "terminal.ansiBrightMagenta": "#9b36df",
     "terminal.ansiBrightRed": "#df2040",
     "terminal.ansiBrightYellow": "#eaf517",
+    "terminal.background": "#00364c",
+    "terminal.foreground": "#dcf2f7",
     "scrollbarSlider.background": "#1014203a",
     "scrollbarSlider.hoverBackground": "#7b8acc2c",
     "scrollbarSlider.activeBackground": "#24426e79",

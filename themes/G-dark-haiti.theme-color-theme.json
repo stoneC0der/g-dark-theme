@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#9561da",
+        "foreground": "#9a62e4",
         "fontStyle": "bold"
       }
     },
@@ -41,7 +41,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#cc34f1",
+        "foreground": "#cf35f5",
         "fontStyle": ""
       }
     },
@@ -53,7 +53,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#aa17e4",
+        "foreground": "#b018ec",
         "fontStyle": "bold"
       }
     },
@@ -82,7 +82,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#8232d2"
+        "foreground": "#8733db"
       }
     },
     {
@@ -91,7 +91,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#aa55ff"
+        "foreground": "#a850ff"
       }
     },
     {
@@ -100,7 +100,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#9e3cff",
+        "foreground": "#9a35ff",
       }
     },
     {
@@ -121,14 +121,14 @@
         "punctuation.section.embedded",
       ],
       "settings": {
-        "foreground": "#bb67f3"
+        "foreground": "#c169fc"
       }
     },
     {
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#9353d3"
+        "foreground": "#9953df"
       }
     },
     {
@@ -141,7 +141,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#8241c3"
+        "foreground": "#8943ce"
       }
     },
     {
@@ -172,7 +172,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#5c2198",
+        "foreground": "#6324a3",
         "fontStyle": "bold"
       }
     },
@@ -204,7 +204,7 @@
         "source.cpp meta.block variable.other"
       ],
       "settings": {
-        "foreground": "#9561da"
+        "foreground": "#9c64e6"
       }
     },
     {
@@ -214,7 +214,7 @@
         "string.other.link"
       ],
       "settings": {
-        "foreground": "#9561da"
+        "foreground": "#9c64e6"
       }
     },
     {
@@ -240,7 +240,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#a16ce7"
+        "foreground": "#a56eec"
       }
     },
     {
@@ -255,7 +255,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#af41f8",
+        "foreground": "#b444ff",
         // "fontStyle": "bold"
       }
     },
@@ -265,7 +265,7 @@
         "support.other.namespace.php"
       ],
       "settings": {
-        "foreground": "#bb4efb",
+        "foreground": "#bf50ff",
         // "fontStyle": "bold"
       }
     },
@@ -275,7 +275,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#bb4efb",
+        "foreground": "#be4eff",
         // "fontStyle": "bold"
       }
     },
@@ -285,7 +285,7 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#bd0cf3",
+        "foreground": "#c40bfc",
         "fontStyle": "bold"
       }
     },
@@ -295,7 +295,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#ba04f1"
+        "foreground": "#be02f7"
       }
     },
     {
@@ -309,7 +309,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#a338fb"
+        "foreground": "#a538ff"
       }
     },
     {
@@ -320,7 +320,7 @@
         "variable.other.class.js"
       ],
       "settings": {
-        "foreground": "#d24afb"
+        "foreground": "#d549ff"
       }
     },
     {
@@ -330,7 +330,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#d24afb"
+        "foreground": "#d54dff"
       }
     },
     {
@@ -360,7 +360,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#c659fc"
+        "foreground": "#c95cff"
       }
     },
     {
@@ -369,7 +369,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#c864fa"
+        "foreground": "#ca60ff"
       }
     },
     {
@@ -379,7 +379,7 @@
         "entity.other.attribute-name.id"
       ],
       "settings": {
-        "foreground": "#c012eb",
+        "foreground": "#bd10e9",
         // "fontStyle": "bold"
       }
     },
@@ -416,7 +416,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#c42df2"
+        "foreground": "#cf2fff"
       }
     },
     {
@@ -425,7 +425,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#cd55f2"
+        "foreground": "#d557fc"
       }
     },
     {
@@ -437,7 +437,7 @@
       ],
       "settings": {
         "fontStyle": "italic underline",
-        "foreground": "#c846f0"
+        "foreground": "#d047fa"
       }
     },
     {
@@ -539,7 +539,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#8908b4e7"
+        "foreground": "#9608c5e7"
       }
     },
     {
@@ -549,7 +549,7 @@
         "punctuation.definition.list_item.markdown"
       ],
       "settings": {
-        "foreground": "#ae61f7"
+        "foreground": "#b362ff"
       }
     },
     {
@@ -567,7 +567,7 @@
         "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
       ],
       "settings": {
-        "foreground": "#745f7c"
+        "foreground": "#7e6488"
       }
     },
     {
@@ -763,7 +763,7 @@
     "editorBracketMatch.border": "#be7cfccc",
     "editorBracketMatch.background": "#be7cfc42",
     "editorWhitespace.foreground": "#b5d2fc40",
-    "editor.background": "#1e0c31",
+    "editor.background": "#1f0d33",
     "editor.foreground": "#e4c8fd",
     "editor.lineHighlightBackground": "#be7cfc07",
     "editor.lineHighlightBorder": "#4E1B810c",
