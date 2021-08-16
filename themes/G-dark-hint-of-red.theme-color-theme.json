@@ -761,7 +761,7 @@
     "debugToolBar.background": "#fcfbf7",
     "debugConsole.errorForeground": "#ee3b3b",
     "debugConsole.infoForeground": "#2ca6d2",
-    "debugConsole.warningForeground": "#e6e46f",
+    "debugConsole.warningForeground": "#706f0b",
     "debugConsole.sourceForeground": "#2dd765",
     "debugConsoleInputIcon.foreground": "#f527a3",
     "statusBarItem.hoverBackground": "#ece7cb",

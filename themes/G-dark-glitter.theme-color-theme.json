@@ -881,7 +881,7 @@
     "debugToolBar.background": "#e0eafc",
     "pickerGroup.foreground": "#064aa8e5",
     "gitDecoration.deletedResourceForeground": "#c70f2ed2",
-    "gitDecoration.conflictingResourceForeground": "#af7914bd",
+    "gitDecoration.conflictingResourceForeground": "#5a3e0abd",
     "gitDecoration.modifiedResourceForeground": "#0764a1e3",
     "gitDecoration.untrackedResourceForeground": "#1a8507e3",
     "gitDecoration.ignoredResourceForeground": "#8825a7d5",
