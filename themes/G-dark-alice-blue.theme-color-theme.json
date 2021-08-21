@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#91a8b6",
+        "foreground": "#8aa0ad",
         "fontStyle": "bold"
       }
     },
@@ -782,11 +782,11 @@
     "statusBar.debuggingBackground": "#a6d0f5",
     "statusBar.debuggingForeground": "#363e46",
     "statusBarItem.hoverBackground": "#546E7A20",
-    "debugConsole.errorForeground": "#ee3b3b",
-    "debugConsole.infoForeground": "#2ca6d2",
-    "debugConsole.warningForeground": "#e6e46f",
-    "debugConsole.sourceForeground": "#2dd765",
-    "debugConsoleInputIcon.foreground": "#f527a3",
+    "debugConsole.errorForeground": "#c02f2f",
+    "debugConsole.infoForeground": "#2790b6",
+    "debugConsole.warningForeground": "#7c7a0d",
+    "debugConsole.sourceForeground": "#27bb58",
+    "debugConsoleInputIcon.foreground": "#cc1e86",
     "activityBar.background": "#F0F8FE",
     "activityBar.activeBackground": "#e8f0ff",
     "activityBar.activeBorder": "#f1116eee",
@@ -895,7 +895,7 @@
     "debugToolBar.background": "#F0F8FE",
     "pickerGroup.foreground": "#064aa8e5",
     "gitDecoration.deletedResourceForeground": "#c70f2ed2",
-    "gitDecoration.conflictingResourceForeground": "#5a3e09bd",
+    "gitDecoration.conflictingResourceForeground": "#c79712c7",
     "gitDecoration.modifiedResourceForeground": "#0764a1e3",
     "gitDecoration.untrackedResourceForeground": "#1a8507e3",
     "gitDecoration.ignoredResourceForeground": "#8825a7d5",
