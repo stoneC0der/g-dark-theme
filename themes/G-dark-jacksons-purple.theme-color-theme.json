@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#a8c0e4",
+        "foreground": "#b0caf0",
         "fontStyle": "bold"
       }
     },
@@ -82,7 +82,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#fd94b9"
+        "foreground": "#ff9abd"
       }
     },
     {
@@ -91,7 +91,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#fc6ca8"
+        "foreground": "#ff7eb4"
       }
     },
     {
@@ -100,7 +100,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#ce98f2",
+        "foreground": "#d99fff",
       }
     },
     {
@@ -134,7 +134,7 @@
         "punctuation.definition.variable.stylus",
       ],
       "settings": {
-        "foreground": "#e682b9"
+        "foreground": "#ec93c4"
       }
     },
     {
@@ -168,7 +168,7 @@
         "punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#fc709a"
+        "foreground": "#ff80a6"
       }
     },
     {
@@ -178,7 +178,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#fc76b9",
+        "foreground": "#ff8ac4",
         "fontStyle": "bold"
       }
     },
@@ -231,7 +231,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#daaf75"
+        "foreground": "#e0bb8a"
       }
     },
     {
@@ -271,7 +271,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#e4db92",
+        "foreground": "#e6dda1",
         // "fontStyle": "bold"
       }
     },
@@ -281,7 +281,7 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#fccb71",
+        "foreground": "#fad48e",
         "fontStyle": "bold"
       }
     },
@@ -718,7 +718,7 @@
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#303b83",
     "editorWhitespace.foreground": "#06273b40",
-    "editor.background": "#303b83",
+    "editor.background": "#304383",
     "editor.foreground": "#c2d1da",
     "editor.lineHighlightBackground": "#1e264b50",
     "editor.selectionBackground": "#203276a2",
@@ -779,23 +779,23 @@
     "titleBar.activeForeground": "#9cc2df",
     "titleBar.inactiveBackground": "#2b3771",
     "titleBar.inactiveForeground": "#7fa2b3",
-    "sideBar.background": "#2b3771",
+    "sideBar.background": "#2f3c7c",
     "sideBar.foreground": "#96a4e2",
-    "sideBar.border": "#303b83",
+    "sideBar.border": "#374394",
     "sideBarTitle.foreground": "#afd6f3",
     "sideBarSectionHeader.foreground": "#afd6f3",
     "sideBarSectionHeader.background": "#303b83",
     "sideBarSectionHeader.border": "#303b83",
     "sash.hoverBorder": "#3f47a7",
     "minimap.background": "#303d74",
-    "input.background": "#323d74",
+    "input.background": "#304383",
     "input.foreground": "#81b0d4",
     "input.placeholderForeground": "#92a1e4",
     "input.border": "#384585",
     "inputValidation.errorBorder": "#FF537050",
     "inputValidation.infoBorder": "#82AAFF50",
     "inputValidation.warningBorder": "#67769660",
-    "quickInput.background": "#323d74",
+    "quickInput.background": "#304383",
     "dropdown.background": "#303b83",
     "dropdown.border": "#303b835b",
     "list.hoverForeground": "#8599f1",
@@ -887,14 +887,14 @@
     "menubar.selectionForeground": "#5a6aad",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#8599f1",
-    "settings.dropdownBackground": "#323d74",
+    "settings.dropdownBackground": "#304383",
     "settings.numberInputForeground": "#8599f1",
-    "settings.numberInputBackground": "#323d74",
+    "settings.numberInputBackground": "#304383",
     "settings.textInputForeground": "#8599f1",
-    "settings.textInputBackground": "#323d74",
+    "settings.textInputBackground": "#304383",
     "settings.headerForeground": "#5a6aad",
     "settings.modifiedItemIndicator": "#5a6aad",
-    "settings.checkboxBackground": "#323d74",
+    "settings.checkboxBackground": "#304383",
     "settings.checkboxForeground": "#8599f1",
     "listFilterWidget.background": "#00000030",
     "listFilterWidget.outline": "#00000030",

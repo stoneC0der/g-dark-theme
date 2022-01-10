@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#8b82ac",
+        "foreground": "#a197c5",
         "fontStyle": "bold"
       }
     }, {
@@ -40,7 +40,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#a7d251",
+        "foreground": "#abc774",
         "fontStyle": ""
       }
     },
@@ -81,7 +81,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#fa76ad",
+        "foreground": "#ec75a7",
       }
     },
     {
@@ -90,7 +90,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#fa7385"
+        "foreground": "#ff8091"
       }
     },
     {
@@ -99,7 +99,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#C792EA",
+        "foreground": "#d69dfb",
       }
     },
     {
@@ -130,7 +130,7 @@
         "punctuation.definition.variable.less"
       ],
       "settings": {
-        "foreground": "#fa7a8f"
+        "foreground": "#cf7786"
       }
     },
     {
@@ -143,7 +143,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#ff6f69"
+        "foreground": "#f37c78"
       }
     },
     {
@@ -164,7 +164,7 @@
         "punctuation.definition.tag.html"
       ],
       "settings": {
-        "foreground": "#fa7385"
+        "foreground": "#f37a8a"
       }
     },
     {
@@ -174,7 +174,7 @@
         "punctuation.definition.tag.end.html"
       ],
       "settings": {
-        "foreground": "#f87ab9",
+        "foreground": "#fb6eb5",
         "fontStyle": "bold"
       }
     },
@@ -187,7 +187,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#6496f1"
+        "foreground": "#709ef3"
       }
     },
     {
@@ -197,7 +197,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#36bdf2"
+        "foreground": "#59c7f3"
       }
     },
     {
@@ -242,7 +242,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#88d8b0"
+        "foreground": "#9bc0ae"
       }
     },
     {
@@ -257,7 +257,7 @@
         "support.type.sys-types"
       ],
       "settings": {
-        "foreground": "#f5c670",
+        "foreground": "#fbd999",
         // "fontStyle": "bold"
       }
     },
@@ -267,7 +267,7 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#f8af48",
+        "foreground": "#ffcc6d",
         "fontStyle": "bold"
       }
     },
@@ -292,7 +292,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FFCB6B"
+        "foreground": "#ffd07a"
       }
     },
     {
@@ -301,7 +301,7 @@
         "entity.other.attribute-name.class"
       ],
       "settings": {
-        "foreground": "#b4e860"
+        "foreground": "#bdec71"
       }
     },
     {
@@ -348,7 +348,7 @@
         "string.regexp"
       ],
       "settings": {
-        "foreground": "#f0650e"
+        "foreground": "#eb752c"
       }
     },
     {
@@ -357,7 +357,7 @@
         "constant.character.escape"
       ],
       "settings": {
-        "foreground": "#20d5e2"
+        "foreground": "#25ecfa"
       }
     },
     {
@@ -399,7 +399,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#FF5370"
+        "foreground": "#fc768c"
       }
     },
     {
@@ -417,7 +417,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#f3c36b"
       }
     },
     {
@@ -696,7 +696,7 @@
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#37474F",
     "editorLink.activeForeground": "#C792EA",
-    "selection.background": "#1e0c31dc",
+    "selection.background": "#130c31dc",
     "progressBar.background": "#8400ff",
     "textLink.foreground": "#8400ff",
     "textLink.activeForeground": "#C792EA",
@@ -705,7 +705,7 @@
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#1e0c31",
     "editorWhitespace.foreground": "#13063b40",
-    "editor.background": "#220c38",
+    "editor.background": "#200f3b",
     "editor.foreground": "#dcf2f7",
     "editor.lineHighlightBackground": "#1a0a2b8c",
     "editor.selectionBackground": "#311550dc",

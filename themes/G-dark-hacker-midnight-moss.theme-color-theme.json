@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#477e6f",
+        "foreground": "#549b87",
         "fontStyle": "bold"
       }
     },
@@ -41,7 +41,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#0ab177"
+        "foreground": "#0dc383"
       }
     },
     {
@@ -52,7 +52,7 @@
         "constant.other.color",
       ],
       "settings": {
-        "foreground": "#177e13",
+        "foreground": "#128f2d",
         "fontStyle": "bold"
       }
     },
@@ -81,7 +81,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#0d9968d5"
+        "foreground": "#0d9968ef"
       }
     },
     {
@@ -90,7 +90,7 @@
         "storage.type",
       ],
       "settings": {
-        "foreground": "#42df6ed5"
+        "foreground": "#3efc74ee"
       }
     },
     {
@@ -99,7 +99,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#13df2bd5",
+        "foreground": "#13df2bef",
       }
     },
     {
@@ -127,7 +127,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#1a8879"
+        "foreground": "#04ad53"
       }
     },
     {
@@ -184,7 +184,7 @@
         "keyword.other.special-method"
       ],
       "settings": {
-        "foreground": "#14e773d5"
+        "foreground": "#8bff56ee"
       }
     },
     {
@@ -194,7 +194,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#30dd9b"
+        "foreground": "#2de9a1"
       }
     },
     {
@@ -239,7 +239,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#29814ee0"
+        "foreground": "#37945eea"
       }
     },
     {
@@ -359,7 +359,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#35bf85d5"
+        "foreground": "#4af1acee"
       }
     },
     {

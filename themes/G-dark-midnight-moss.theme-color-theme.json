@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#91beb8d5",
+        "foreground": "#9ac8c2ec",
         "fontStyle": "bold"
       }
     },
@@ -41,7 +41,7 @@
         "variable.other.constant"
       ],
       "settings": {
-        "foreground": "#efad63",
+        "foreground": "#e9b06e",
         "fontStyle": ""
       }
     },
@@ -53,7 +53,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#dec252",
+        "foreground": "#ecd268",
         "fontStyle": "bold"
       }
     },
@@ -64,7 +64,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#69c069"
+        "foreground": "#78d478"
       }
     },
     {
@@ -73,7 +73,7 @@
         "constant.other.color"
       ],
       "settings": {
-        "foreground": "#8d4d03",
+        "foreground": "#a85c04",
         "fontStyle": "bold"
       }
     },
@@ -215,7 +215,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#9E4496"
+        "foreground": "#c566bd"
       }
     },
     {
@@ -295,7 +295,7 @@
         "entity.name"
       ],
       "settings": {
-        "foreground": "#af1d35",
+        "foreground": "#c22c45",
         // "fontStyle": "bold"
       }
     },
@@ -305,7 +305,7 @@
         "support.class",
       ],
       "settings": {
-        "foreground": "#92343f",
+        "foreground": "#aa3f4c",
         "fontStyle": "bold"
       }
     },
@@ -315,7 +315,7 @@
         "support.type"
       ],
       "settings": {
-        "foreground": "#635cc2"
+        "foreground": "#6964b1"
       }
     },
     {
