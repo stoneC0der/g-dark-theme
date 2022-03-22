@@ -774,7 +774,7 @@
     "sideBarSectionHeader.background": "#00364c",
     "sideBarSectionHeader.border": "#0a4f7b",
     "sash.hoverBorder": "#0a4970",
-    "minimap.background": "#04374b",
+    "minimap.background": "#00364c",
     "input.background": "#033953",
     "input.foreground": "#81b0d4",
     "input.placeholderForeground": "#a6d4f760",
