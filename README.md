@@ -1,25 +1,33 @@
-# G-dark Theme for Vscode
+# G-dark Themes for Vscode
 
 ---
+A set of dual/unique background themes design to help protect you're eyes while optimizing readability
+using common but beautiful color palettes uniquely.
+**Give it a try and if you like and can spare e few minutes of time, help spread the word, give a &star;
+on github or leave a review if you have time, thank you and happy coding✌🏾**
 
-## NOTE
+## Atom Text Editor
 
-- **For the longtime users, please delete the version installed in vscode and install this version to be able to receive update, sorry about that**
+G Dark Themes for [Atom](https://atom.io/users/stoneC0der)
 
-## Atom Editor
-
-G Dark themes for [Atom](https://atom.io/users/stoneC0der)
-
-## Also available for Nova Editor
+## Nova Text Editor
 
 G Dark Themes for [Nova](https://extensions.panic.com/extensions/stonec0der/stonec0der.GDarkTheme/)
 
-Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***, ***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
+### Languages support
 
-Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes don't display correctly for your languages Thanks.
-**Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
+Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***,
+***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
 
-**Note:** *Some themes are work better in dark room or similar as well as some in bright room or outside, I suggest you try every themes on different sets to find the one that work for you.*
+Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes
+don't display correctly for your languages Thanks.
+
+**Note:** *Some themes are work better in dark room or similar as well as some in bright room
+or outside, I suggest you try every themes on different sets to find the one that work for you.*
+
+#### Night Mode
+
+All themes Work well with F.lux/Night Shift or other similar tools.
 
 *Tested on **macOS***
 
@@ -34,21 +42,28 @@ Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the
 
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
 
-### Getting started
+## Getting started
 
 You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
 
 ### Installation
 
+#### From Vscode
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `g-dark`
+3. Click **Install** to install it.
+4. A drop down list will appear.
+5. Select on of **g-dark theme** variants to preview
+6. Press Enter to activate the theme
+
 Launch *Quick Open*:
 
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/>
+- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> **`Ctrl+P`**
 
-<a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl+P`
+- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> **`⌘+P`**
 
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘P`
-
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl+P`
+- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> **`Ctrl+P`**
 
 Paste the following command and press `Enter`:
 
@@ -72,6 +87,7 @@ To get the most out of this them please add the following configuration:
 
 1 Download and install Haskling fonts
   [Hasklig](https://github.com/i-tu/Hasklig, "Hasklig") or [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
+
 2 Enable ligature in vscode setting or add to settings.json :
 
 ```json
@@ -100,7 +116,7 @@ To get the most out of this them please add the following configuration:
       ],
   ```
 
-4 Add the following to setting.json
+4 Add the following to setting.json to display white space indicator only on selection
 
 ```json
     "editor.renderWhitespace": "selection",
@@ -108,7 +124,8 @@ To get the most out of this them please add the following configuration:
 
 5 Auto switch between dark and light theme (macOS only)
 
-  Install [auto-darkmode](https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode, "Auto Dark Mode")
+  Install [auto-darkMode](https://marketplace.visualstudio.com/items?itemName=LinusU.auto-dark-mode,
+  "Auto Dark Mode")
 
 - add the following to settings.json:
 
@@ -150,7 +167,7 @@ To get the most out of this them please add the following configuration:
     ],
 ```
 
-7 To use a unique color for Vscode Separator
+7 To use a unique color for vscode functions & methods Separator
 
 ```json
   "separators.methods.borderColor": "#64778b3a",  
@@ -161,16 +178,7 @@ To get the most out of this them please add the following configuration:
   "separators.namespaces.borderColor": "#64778b3a",
 ```
 
-## From Vscode
-
-1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `g-dark`
-3. Click **Install** to install it.
-4. A drop down list will appear.
-5. Select on of **g-dark-default** theme variants to preview
-6. Press Enter to activate the theme
-
-## Activate theme
+### Activate theme
 
 Launch *Quick Open*:
 
@@ -180,10 +188,9 @@ Launch *Quick Open*:
 
 Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Theme variants from the list.
 
-## Happy coding
+### Happy coding
 
-If you do like this theme, give it a rating [G Dark-theme](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme, "G Dark-theme")
 
 All contribution are welcome
 
-For any issues [Issues](https://github.com/stonec0der/g-dark-theme/issues).Thanks so much!
+For any issues [Issues](https://github.com/stonec0der/g-dark-theme/issues).Thanks for your support!
