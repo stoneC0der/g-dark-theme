@@ -762,7 +762,7 @@
     "editorLineNumber.activeForeground": "#704797e7",
     "editorBracketMatch.border": "#be7cfccc",
     "editorBracketMatch.background": "#be7cfc42",
-    "editorWhitespace.foreground": "#b5d2fc40",
+    "editorWhitespace.foreground": "#a88bbe40",
     "editor.background": "#291047",
     "editor.foreground": "#e4c8fd",
     "editor.lineHighlightBackground": "#be7cfc07",

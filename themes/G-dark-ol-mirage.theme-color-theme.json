@@ -733,7 +733,7 @@
     "editorLineNumber.activeForeground": "#43738a",
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#3d3f4b",
-    "editorWhitespace.foreground": "#9bb0bd40",
+    "editorWhitespace.foreground": "#5d697040",
     "editor.background": "#1C1D27",
     // 1C1D27
     "editor.foreground": "#cedbdbd8",
@@ -755,7 +755,7 @@
     "editorHoverWidget.background": "#1f202c",
     "editorHoverWidget.border": "#FFFFFF10",
     "editorIndentGuide.background": "#1C1D27",
-    "editorIndentGuide.activeBackground": "#20212a",
+    "editorIndentGuide.activeBackground": "#404253",
     "editorGroupHeader.tabsBackground": "#17181F",
     "editorGroup.border": "#00000030",
     "editorGutter.modifiedBackground": "#0e314260",
