@@ -1,6 +1,8 @@
 # G-dark Themes for Vscode
 
 ---
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
+
 A set of dual/unique background themes design to help protect you're eyes while optimizing readability
 using common but beautiful color palettes uniquely.
 **Give it a try and if you like and can spare e few minutes of time, help spread the word, give a &star;
@@ -35,12 +37,6 @@ All themes Work well with F.lux/Night Shift or other similar tools.
   - [Installation](#installation)
   - [Custom Setting](#custom-settings)
   - [Activate theme](#activate-theme)
-
-## Preview  
-
----
-
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
 
 ## Getting started
 
