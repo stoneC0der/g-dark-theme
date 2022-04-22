@@ -1,9 +1,15 @@
 # Change Log
 
 Thanks for the love, any suggestion is welcome
-**Give it a star on github or marketplace if you have time, thank you and be safe✌🏾**
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
+
+## 4.2.5
+
+- Few UI change to G-dark (Alice Blue)
+- Minor improve to most of the themes
+- Add indentGuide & whitespaceRendering consistency across all themes *(Disable white spaceRendering from User settings if you don't need it)*
+- Other minor Fixes
 
 ## 4.2.4
 
@@ -12,6 +18,7 @@ Thanks for the love, any suggestion is welcome
 ## 4.2.3
 
 - Fixed debug output for light themes
+
 ## 4.2.2
 
 - Minor improvements (Minimap, LineHighlight)
@@ -81,7 +88,7 @@ Long time user should delete the previous theme and install it again to receive 
 
 ### New
 
-- Added a brand new theme with new syntax color
+- Added brand new themes with new syntax color
   - G Dark (Astro)
   - G Dark-Shader (H@ck3r)
   - G Dark-Shader (Haïti)
@@ -106,7 +113,7 @@ Long time user should delete the previous theme and install it again to receive 
   - Dark Green Jungle
 
 - **Redesigned themes**
-  - G Dark (Mirage) 
+  - G Dark (Mirage)
     - Syntax has been redesigned to a shade of pink & purple
     - Borders where changed too
   - G Dark (Midnight)
@@ -426,6 +433,7 @@ New Themes
 ### G Dark
 
 **Changes**
+
 - Explorer Headers title,Terminal,debug consol,etc now has a light top border
 
 **Changes**
