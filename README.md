@@ -1,54 +1,20 @@
 # G-dark Themes for Vscode
 
----
-A set of dual/unique background themes design to help protect you're eyes while optimizing readability
-using common but beautiful color palettes uniquely.
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+  - [Support](#support)
+  - [Ohter Editors](#other-editors)
+  - [Custom Setting](#custom-settings)
+
+##
+<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
+
 **Give it a try and if you like and can spare e few minutes of time, help spread the word, give a &star;
 on github or leave a review if you have time, thank you and happy coding✌🏾**
 
-## Atom Text Editor
-
-G Dark Themes for [Atom](https://atom.io/users/stoneC0der)
-
-## Nova Text Editor
-
-G Dark Themes for [Nova](https://extensions.panic.com/extensions/stonec0der/stonec0der.GDarkTheme/)
-
-### Languages support
-
-Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***,
-***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
-
-Please open an [Issue](https://github.com/stonec0der/g-dark-theme/issues) if the themes
-don't display correctly for your languages Thanks.
-
-**Note:** *Some themes are work better in dark room or similar as well as some in bright room
-or outside, I suggest you try every themes on different sets to find the one that work for you.*
-
-#### Night Mode
-
-All themes Work well with F.lux/Night Shift or other similar tools.
-
-*Tested on **macOS***
-
-- [Getting started](#getting-started)
-  - [Installation](#installation)
-  - [Custom Setting](#custom-settings)
-  - [Activate theme](#activate-theme)
-
-## Preview  
-
----
-
-<img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
-
 ## Getting started
 
-You can install this theme by downloading or cloning this repo or from [vscode extensions website](https://marketplace.visualstudio.com/items?itemName=StoneC0der.g-dark-theme).
-
 ### Installation
-
-#### From Vscode
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `g-dark`
@@ -57,31 +23,30 @@ You can install this theme by downloading or cloning this repo or from [vscode e
 5. Select on of **g-dark theme** variants to preview
 6. Press Enter to activate the theme
 
-Launch *Quick Open*:
+### Support
 
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/><a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> **`Ctrl+P`**
+#### Languages
 
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> **`⌘+P`**
+Optimized for ***PHP***, ***Laval***, ***Blade Template***, ***Jinja***, ***Python***,
+***HTML***, ***CSS***, **JSON**, **Markdown**, ***JS (Vanilla)*** and ***Others Languages***.
 
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> **`Ctrl+P`**
+#### Night Mode
 
-Paste the following command and press `Enter`:
+All themes Work well with F.lux/Night Shift or other similar tools.
 
-```shell
-ext install g-dark theme
-```
+**Note:** *Some themes are work better in dark room or similar as well as some in bright room
+or outside, I suggest you try every themes on different sets to find the one that work for you.*
 
-<!-- #### Packaged VSIX Extension
+*Tested on **macOS***
 
-[Download the latest .vsix release](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/Equinusocio/vsextensions/vsc-material-theme/latest/vspackage) file from the marketplace and install it from the command line
+### Other Editors
 
-```shell
-code --install-extension vsc-g-dark-theme-*.*.*.vsix
-``` -->
-
-or from within VS Code by launching *Quick Open* and running the *Install from VSIX...* command.
+- For [Atom](https://atom.io/users/stoneC0der)
+- For [Nova](https://extensions.panic.com/extensions/stonec0der/stonec0der.GDarkTheme/)
 
 ### Custom Settings
+
+#### Fonts
 
 To get the most out of this them please add the following configuration:
 
@@ -177,16 +142,6 @@ To get the most out of this them please add the following configuration:
   "separators.enums.borderColor": "#64778b3a",  
   "separators.namespaces.borderColor": "#64778b3a",
 ```
-
-### Activate theme
-
-Launch *Quick Open*:
-
-- <img src="https://www.kernel.org/theme/images/logos/favicon.png" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf">Linux</a> `Ctrl + Shift + P`
-- <img src="https://developer.apple.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf">macOS</a> `⌘ + Shift + P`
-- <img src="https://www.microsoft.com/favicon.ico" width=16 height=16/> <a href="https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf">Windows</a> `Ctrl + Shift + P`
-
-Type `theme`, choose `Preferences: Color Theme`, and select one of the G-dark Theme variants from the list.
 
 ### Happy coding
 
