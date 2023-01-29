@@ -4,6 +4,11 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.3.1
+
+- Fix editorStickyScroll.background & editorStickyScrollHover.background
+- Reorganized some theme keys
+
 ## 4.3.0
 
 - Improve badges visibility (added consistency & better readability *some themes had different colors for badges*)
