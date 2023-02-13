@@ -30,7 +30,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#8aa0ad",
+        "foreground": "#708b9b",
         "fontStyle": "bold"
       }
     },
@@ -102,7 +102,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#dc614be1"
+        "foreground": "#e48473"
       }
     },
     {
@@ -148,7 +148,7 @@
       "name": "php dollar sign",
       "scope": "punctuation.definition.variable.php",
       "settings": {
-        "foreground": "#4f96c6ec"
+        "foreground": "#408dc1"
       }
     },
     {
@@ -245,7 +245,7 @@
         "keyword.other.unit",
       ],
       "settings": {
-        "foreground": "#bd7415e8"
+        "foreground": "#e58c19"
       }
     },
     {
@@ -260,7 +260,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#779135"
+        "foreground": "#829e3a"
       }
     },
     {
