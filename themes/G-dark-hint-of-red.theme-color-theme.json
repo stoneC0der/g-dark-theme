@@ -20,7 +20,7 @@
         "string constant.other.placeholder"
       ],
       "settings": {
-        "foreground": "#7f97ab",
+        "foreground": "#708b9b",
         "fontStyle": "bold"
       }
     },
@@ -82,7 +82,7 @@
         "keyword"
       ],
       "settings": {
-        "foreground": "#da3f80",
+        "foreground": "#e05e94",
         // "fontStyle": "bold"
       }
     },
