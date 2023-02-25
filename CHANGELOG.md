@@ -7,6 +7,7 @@ Thanks for the love, any suggestion is welcome
 ## 4.3.3
 
 - update extension buttons, icons, badge, starts, prerelease, sponsored to be uniform across themes
+- improve extensions button display (HC Themes)
 
 ## 4.3.2
 
