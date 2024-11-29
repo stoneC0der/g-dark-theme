@@ -16,7 +16,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#515454"
+        "foreground": "#77777d"
       }
     },
     {
@@ -735,7 +735,6 @@
     "editorBracketMatch.background": "#3d3f4b",
     "editorWhitespace.foreground": "#5d697040",
     "editor.background": "#1C1D27",
-    // 1C1D27
     "editor.foreground": "#cedbdbd8",
     "editor.lineHighlightBackground": "#17181f7e",
     "editor.lineHighlightBorder": "#22272e4e",
