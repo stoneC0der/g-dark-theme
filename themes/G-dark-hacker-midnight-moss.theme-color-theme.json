@@ -81,7 +81,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#0d9968ef"
+        "foreground": "#0d9968"
       }
     },
     {
@@ -140,7 +140,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#118330"
+        "foreground": "#298f45",
       }
     },
     {
@@ -149,7 +149,7 @@
         "keyword.control"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -239,7 +239,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#37945eea"
+        "foreground": "#37945e"
       }
     },
     {
