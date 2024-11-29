@@ -836,7 +836,7 @@
     "widget.shadow": "#07182d",
     "panel.border": "#0a1a2e",
     "panel.background": "#0a1a2e",
-    "panelTitle.inactiveForeground": "#145180",
+    "panelTitle.inactiveForeground": "#2c628d",
     "panelTitle.activeForeground": "#84afd6",
     "panelTitle.activeBorder": "#072c28",
     "icon.foreground": "#0d77be",

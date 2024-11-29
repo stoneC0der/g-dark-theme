@@ -832,7 +832,7 @@
     "widget.shadow": "#7009df30",
     "panel.border": "#200f3b60",
     "panel.background": "#1e0c31",
-    "panelTitle.inactiveForeground": "#37135b",
+    "panelTitle.inactiveForeground": "#5f427c",
     "panelTitle.activeForeground": "#C792EA",
     "panelTitle.activeBorder": "#37135b",
     "diffEditor.insertedTextBackground": "#b3fa7a15",
