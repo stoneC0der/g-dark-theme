@@ -924,7 +924,7 @@
     "tree.indentGuidesStroke": "#19364790",
     // command palette
     "quickInput.background": "#1b1d24",
-    "quickInput.foreground": "#31515f",
+    "quickInput.foreground": "#82abe9",
     "icon.foreground": "#238d82",
     "inputValidation.warningBackground": "#1D1F25",
     "inputValidation.warningForeground": "#82abe9",
