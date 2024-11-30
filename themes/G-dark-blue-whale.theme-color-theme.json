@@ -894,7 +894,7 @@
     "tree.indentGuidesStroke": "#1f4e6b90",
     "window.activeBorder": "#01485c",
     "window.inactiveBorder": "#3d93c8",
-    // "icon.foreground": "#00364c",
+    "icon.foreground": "#3d93c8",
     "inputValidation.warningBackground": "#00364c",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#00364c36",

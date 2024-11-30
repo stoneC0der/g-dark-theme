@@ -929,7 +929,7 @@
     "tree.indentGuidesStroke": "#19364790",
     "quickInput.background": "#091a20",
     "quickInput.foreground": "#4e808b",
-    // "icon.foreground": "#07161b",
+    "icon.foreground": "#4e808b",
     "inputValidation.warningBackground": "#1c081a",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#00324836",
