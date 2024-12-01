@@ -10,7 +10,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#888e97"
+        "foreground": "#8fafb4"
       }
     },
     {
@@ -708,6 +708,13 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#ca0c9766",
+    "separators.constructors.borderColor": "#3d17b866",
+    "separators.functions.borderColor": "#a8259986",
+    "separators.enums.borderColor": "#497ea866",
+    "separators.namespaces.borderColor": "#db695566",
+    "separators.interfaces.borderColor": "#296fa866",
+    "separators.classes.borderColor": "#296fa866",
     "focusBorder": "#43648a46",
     "descriptionForeground": "#576ea0",
     "editorCursor.foreground": "#f70fb9",
@@ -742,13 +749,13 @@
     "editorOverviewRuler.border": "#e0eafc",
     "editorHoverWidget.background": "#d9e5fb",
     "editorHoverWidget.border": "#95c5fc8c",
-    "editorIndentGuide.background1": "#e3ecfc",
-    "editorIndentGuide.activeBackground1": "#4344505d",
+    "editorIndentGuide.background": "#e3ecfc",
+    "editorIndentGuide.activeBackground": "#4344505d",
     "editorGroupHeader.tabsBackground": "#e0eafc",
     "editorGroup.border": "#00000030",
-    "editorGutter.modifiedBackground": "#4e81ee50",
-    "editorGutter.addedBackground": "#84b83b50",
-    "editorGutter.deletedBackground": "#FF537060",
+    "editorGutter.modifiedBackground": "#0e314260",
+    "editorGutter.addedBackground": "#155c4860",
+    "editorGutter.deletedBackground": "#e4496360",
     "editorSuggestWidget.background": "#d9e5fb",
     "editorSuggestWidget.foreground": "#4d5a64",
     "editorSuggestWidget.highlightForeground": "#1a3774de",
@@ -903,8 +910,8 @@
     "menu.selectionForeground": "#a2d1f5",
     "menu.selectionBorder": "#00000030",
     "menu.separatorBackground": "#a8d5f7",
-    "menubar.selectionBackground": "#93cefc7c",
-    "menubar.selectionForeground": "#576ea0",
+    "menubar.selectionBackground": "#a4bdbcb5",
+    "menubar.selectionForeground": "#a2d1f5",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#576ea0",
     "settings.dropdownBackground": "#f1f8ff",

@@ -16,7 +16,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#77777d"
+        "foreground": "#515454"
       }
     },
     {
@@ -712,6 +712,13 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#77284666",
+    "separators.constructors.borderColor": "#0d435066",
+    "separators.functions.borderColor": "#1f3e4566",
+    "separators.enums.borderColor": "#5c371f66",
+    "separators.namespaces.borderColor": "#7e382b83",
+    "separators.interfaces.borderColor": "#6d242466",
+    "separators.classes.borderColor": "#6d242466",
     "editor.foldBackground": "#252d382a",
     "focusBorder": "#2330427c",
     "descriptionForeground": "#21789a",
@@ -728,6 +735,7 @@
     "editorBracketMatch.background": "#3d3f4b",
     "editorWhitespace.foreground": "#5d697040",
     "editor.background": "#1C1D27",
+    // 1C1D27
     "editor.foreground": "#cedbdbd8",
     "editor.lineHighlightBackground": "#17181f7e",
     "editor.lineHighlightBorder": "#22272e4e",
@@ -746,13 +754,13 @@
     "editorOverviewRuler.border": "#1C1D27",
     "editorHoverWidget.background": "#1f202c",
     "editorHoverWidget.border": "#FFFFFF10",
-    "editorIndentGuide.background1": "#1C1D27",
-    "editorIndentGuide.activeBackground1": "#404253",
+    "editorIndentGuide.background": "#1C1D27",
+    "editorIndentGuide.activeBackground": "#404253",
     "editorGroupHeader.tabsBackground": "#17181F",
     "editorGroup.border": "#00000030",
-    "editorGutter.modifiedBackground": "#4e81ee50",
-    "editorGutter.addedBackground": "#84b83b30",
-    "editorGutter.deletedBackground": "#FF537060",
+    "editorGutter.modifiedBackground": "#0e314260",
+    "editorGutter.addedBackground": "#155c4860",
+    "editorGutter.deletedBackground": "#e4496360",
     "editorSuggestWidget.background": "#1f202c",
     "editorSuggestWidget.foreground": "#c5e2f8",
     "editorSuggestWidget.highlightForeground": "#a2d1f5",
@@ -911,7 +919,7 @@
     "menu.selectionForeground": "#a2d1f5",
     "menu.selectionBorder": "#33758b05",
     "menu.separatorBackground": "#a8d5f7",
-    "menubar.selectionBackground": "#607a8670",
+    "menubar.selectionBackground": "#a4bdbcb5",
     "menubar.selectionForeground": "#a2d1f5",
     "menubar.selectionBorder": "#33758b05",
     "settings.dropdownForeground": "#33758b",

@@ -1,23 +1,12 @@
 # G-dark Themes for Vscode
 
-**If you like this theme, please support it by giving it a star on [github](https://github.com/stonec0der/g-dark-theme) or leave a review on the [marketplace](https://marketplace.visualstudio.com/items?itemName=StoneC0der.vscode-g-dark-theme).**
-
-**If you have any issue, please report them on the [issue page](https://github.com/stonec0der/g-dark-theme/issues)**
-
-- [G-dark Themes for Vscode](#g-dark-themes-for-vscode)
-  - [](#)
-  - [Getting started](#getting-started)
-    - [Installation](#installation)
-    - [Support](#support)
-      - [Languages](#languages)
-      - [Night Mode](#night-mode)
-    - [Other Editors](#other-editors)
-    - [Custom Settings](#custom-settings)
-      - [Fonts](#fonts)
-    - [Happy coding](#happy-coding)
+- [Getting started](#getting-started)
+  - [Installation](#installation)
+  - [Support](#support)
+  - [Ohter Editors](#other-editors)
+  - [Custom Setting](#custom-settings)
 
 ##
-
 <img src="https://raw.githubusercontent.com/stoneC0der/g-dark-theme/master/images/preview.gif" style="margin:5px auto;border-radius:6px;box-shadow:0px 0px 35px -10px rgba(10,10,10,0.90)">
 
 **Give it a try and if you like and can spare e few minutes of time, help spread the word, give a &star;
@@ -48,10 +37,11 @@ All themes Work well with F.lux/Night Shift or other similar tools.
 **Note:** *Some themes are work better in dark room or similar as well as some in bright room
 or outside, I suggest you try every themes on different sets to find the one that work for you.*
 
-*Tested on **macOS** & **Linux***
+*Tested on **macOS***
 
 ### Other Editors
 
+- For [Atom](https://atom.io/users/stoneC0der)
 - For [Nova](https://extensions.panic.com/extensions/stonec0der/stonec0der.GDarkTheme/)
 
 ### Custom Settings
@@ -142,6 +132,20 @@ To get the most out of this them please add the following configuration:
     ],
 ```
 
+7 To use a unique color for vscode functions & methods Separator
+
+```json
+  "separators.methods.borderColor": "#64778b3a",  
+  "separators.functions.borderColor": "#64778b3a",  
+  "separators.constructors.borderColor": "#64778b3a",
+  "separators.classes.borderColor": "#64778b3a",  
+  "separators.enums.borderColor": "#64778b3a",  
+  "separators.namespaces.borderColor": "#64778b3a",
+```
+
 ### Happy coding
 
+
 All contribution are welcome
+
+For any issues [Issues](https://github.com/stonec0der/g-dark-theme/issues).Thanks for your support!
