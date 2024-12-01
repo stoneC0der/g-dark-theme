@@ -1,75 +1,8 @@
 # Change Log
 
-**If you like this theme, please support it by giving it a star on [github](https://github.com/stonec0der/g-dark-theme) or leave a review on the [marketplace](https://marketplace.visualstudio.com/items?itemName=StoneC0der.vscode-g-dark-theme).**
-
-**If you have any issue, please report them on the [issue page](https://github.com/stonec0der/g-dark-theme/issues)**
-
 Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
-
-## 4.4.0
-
-[improvement] Input background
-
-- oxford blue
-- One Love (Black Pearl)
-
-[fix] G-dark Minimal (midnight)
-
-- fix unfocusedActiveForeground
-  
-[improvement] G-Dark Haiti (HC)
-
-- replace purple #8400ff with #A342FF for better readability
-
-[improvement] G-Dark Minimal-2 (Astronaut Blue)
-
-- improvement editor.background and all properties previously using the color #21576d with #1e4e62
-- improve sidebar.background and all properties previously using the color #214c5d with #1e4454
-
-[improvement] G-Dark (H@cker)
-
-- improve string, keyword, keyword control (bolded), and more
-
-[improvement] Panel inactiveForground
-
-- Haiti (HC), Jackson-Purple,Minimal (Midnight)
-
-[improvement] G-Dark (Vulcan)
-
-- improve menu foreground
-- breadcrumbs foreground
-
-[Improvement] Unify Comment foreground for all themes
-
-- use tint of 40% of the editor.background (Dark themes)
-- use shade of 40% of the editor.background (Light themes)
-
-[improvement] G Dark-Shader (Mirage)
-
-- improve editor.background from #1c0c2e to #190b29
-
-[improvement] menubar button hover
-  
-- some themes
-
-[improvement] remove or update deprecated properties
-
-- All themes
-
-[improvement] editorGutter (git decoration)
-
-- use the same colors for all themes
-- fine tune opacity for individual themes
-
-[improvement] Icon.foreground
-
-- use a specific theme color instead of default one
-
-[improvement] G-Dark (Vulcan)
-
-- fix quickInput foreground
 
 ## 4.3.3
 

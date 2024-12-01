@@ -10,7 +10,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#668694"
+        "foreground": "#151515"
       }
     },
     {
@@ -684,6 +684,13 @@
     }
   ],
   "colors": {
+    "separators.methods.borderColor": "#337c9966",
+    "separators.constructors.borderColor": "#3e5b9266",
+    "separators.functions.borderColor": "#295e5966",
+    "separators.enums.borderColor": "#385f7e66",
+    "separators.namespaces.borderColor": "#86426583",
+    "separators.interfaces.borderColor": "#63582c66",
+    "separators.classes.borderColor": "#63582c66",
     "focusBorder": "#3778aa65",
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#37474F",
@@ -716,13 +723,13 @@
     "editorOverviewRuler.border": "#00364c",
     "editorHoverWidget.background": "#023650",
     "editorHoverWidget.border": "#FFFFFF10",
-    "editorIndentGuide.background1": "#0c385336",
-    "editorIndentGuide.activeBackground1": "#06638b",
+    "editorIndentGuide.background": "#0c385336",
+    "editorIndentGuide.activeBackground": "#06638b",
     "editorGroupHeader.tabsBackground": "#00364c",
     "editorGroup.border": "#00000030",
-    "editorGutter.modifiedBackground": "#4e81ee60",
-    "editorGutter.addedBackground": "#84b83b30",
-    "editorGutter.deletedBackground": "#FF537060",
+    "editorGutter.modifiedBackground": "#1297da60",
+    "editorGutter.addedBackground": "#34dbac60",
+    "editorGutter.deletedBackground": "#e4496360",
     "editorSuggestWidget.background": "#023650",
     "editorSuggestWidget.foreground": "#c5e2f8",
     "editorSuggestWidget.highlightForeground": "#086288",
@@ -875,8 +882,8 @@
     "menu.selectionForeground": "#086288",
     "menu.selectionBorder": "#00000030",
     "menu.separatorBackground": "#a8d5f7",
-    "menubar.selectionBackground": "#0778a880",
-    "menubar.selectionForeground": "#a8d5f7",
+    "menubar.selectionBackground": "#a4bdbcb5",
+    "menubar.selectionForeground": "#086288",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#a6d4f7",
     "settings.dropdownBackground": "#033953",
@@ -894,7 +901,7 @@
     "tree.indentGuidesStroke": "#1f4e6b90",
     "window.activeBorder": "#01485c",
     "window.inactiveBorder": "#3d93c8",
-    "icon.foreground": "#3d93c8",
+    // "icon.foreground": "#00364c",
     "inputValidation.warningBackground": "#00364c",
     "inputValidation.warningForeground": "#82abe9",
     "editor.snippetTabstopHighlightBackground": "#00364c36",
