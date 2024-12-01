@@ -10,7 +10,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#414a47"
+        "foreground": "#676b6b"
       }
     },
     {
@@ -721,13 +721,6 @@
     }
   ],
   "colors": {
-    "separators.methods.borderColor": "#55265176",
-    "separators.constructors.borderColor": "#72485386",
-    "separators.functions.borderColor": "#773b5986",
-    "separators.enums.borderColor": "#5c242c66",
-    "separators.namespaces.borderColor": "#86426583",
-    "separators.interfaces.borderColor": "#5c1b2366",
-    "separators.classes.borderColor": "#5c1b2366",
     "editor.foldBackground": "#041b1623",
     "focusBorder": "#2330427c",
     "descriptionForeground": "#21a1d4",
@@ -763,13 +756,13 @@
     "editorOverviewRuler.border": "#020909",
     "editorHoverWidget.background": "#030c0c",
     "editorHoverWidget.border": "#FFFFFF10",
-    "editorIndentGuide.background": "#020909",
-    "editorIndentGuide.activeBackground": "#313241",
+    "editorIndentGuide.background1": "#020909",
+    "editorIndentGuide.activeBackground1": "#313241",
     "editorGroupHeader.tabsBackground": "#020909",
     "editorGroup.border": "#00000030",
-    "editorGutter.modifiedBackground": "#0e314260",
-    "editorGutter.addedBackground": "#155c4860",
-    "editorGutter.deletedBackground": "#e4496360",
+    "editorGutter.modifiedBackground": "#4e81ee50",
+    "editorGutter.addedBackground": "#84b83b20",
+    "editorGutter.deletedBackground": "#FF537050",
     "editorSuggestWidget.background": "#030c0c",
     "editorSuggestWidget.foreground": "#c5e2f8",
     "editorSuggestWidget.highlightForeground": "#70baf3",
@@ -929,7 +922,7 @@
     "menu.selectionForeground": "#a2d1f5",
     "menu.selectionBorder": "#00000030",
     "menu.separatorBackground": "#a8d5f7",
-    "menubar.selectionBackground": "#a4bdbcb5",
+    "menubar.selectionBackground": "#3d746f28",
     "menubar.selectionForeground": "#a2d1f5",
     "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#33758b",
