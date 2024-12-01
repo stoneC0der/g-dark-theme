@@ -10,7 +10,7 @@
       ],
       "settings": {
         // "fontStyle": "italic bold",
-        "foreground": "#414a47"
+        "foreground": "#676b6b"
       }
     },
     {
@@ -81,7 +81,7 @@
         "keyword",
       ],
       "settings": {
-        "foreground": "#0d9968ef"
+        "foreground": "#0d9968"
       }
     },
     {
@@ -140,7 +140,7 @@
         "punctuation.separator.inheritance.php",
       ],
       "settings": {
-        "foreground": "#118330"
+        "foreground": "#298f45",
       }
     },
     {
@@ -149,7 +149,7 @@
         "keyword.control"
       ],
       "settings": {
-        "fontStyle": "italic"
+        "fontStyle": "italic bold"
       }
     },
     {
@@ -239,7 +239,7 @@
         "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
       ],
       "settings": {
-        "foreground": "#37945eea"
+        "foreground": "#37945e"
       }
     },
     {
@@ -741,13 +741,6 @@
     }
   ],
   "colors": {
-    "separators.methods.borderColor": "#235c4466",
-    "separators.constructors.borderColor": "#2b6b3366",
-    "separators.functions.borderColor": "#214d3a66",
-    "separators.enums.borderColor": "#0f702c66",
-    "separators.namespaces.borderColor": "#26664b83",
-    "separators.interfaces.borderColor": "#056d2466",
-    "separators.classes.borderColor": "#056d2466",
     "editor.foldBackground": "#041b0e50",
     "focusBorder": "#0785189a",
     "descriptionForeground": "#21d489",
@@ -783,11 +776,11 @@
     "editorOverviewRuler.border": "#0be02796",
     "editorHoverWidget.background": "#030c0c",
     "editorHoverWidget.border": "#0be027b4",
-    "editorIndentGuide.background": "#020909",
-    "editorIndentGuide.activeBackground": "#075f13a1",
-    "editorGutter.modifiedBackground": "#0e314260",
-    "editorGutter.addedBackground": "#155c4860",
-    "editorGutter.deletedBackground": "#e4496360",
+    "editorIndentGuide.background1": "#020909",
+    "editorIndentGuide.activeBackground1": "#075f13a1",
+    "editorGutter.modifiedBackground": "#4e81ee50",
+    "editorGutter.addedBackground": "#84b83b30",
+    "editorGutter.deletedBackground": "#FF537060",
     "editorGroupHeader.tabsBackground": "#020909",
     "editorGroupHeader.tabsBorder": "#0be027",
     "editorGroupHeader.border": "#020909",
