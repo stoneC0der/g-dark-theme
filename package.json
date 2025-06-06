@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Themes",
 	"description": "A set of dual/unique background themes design to help protect you're eyes while optimizing readability using common but beautiful color palettes uniquely",
-	"version": "4.4.0",
+	"version": "4.5.1",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
@@ -130,5 +130,6 @@
 		"id": "fb46a449-da21-4390-bffb-2641caa8969a",
 		"publisherDisplayName": "stonecoder",
 		"publisherId": "187efd80-7e14-4873-a62b-129be3a9858f"
-	}
+	},
+	"packageManager": "yarn@4.5.3+sha512.3003a14012e2987072d244c720506549c1aab73ee728208f1b2580a9fd67b92d61ba6b08fe93f6dce68fd771e3af1e59a0afa28dd242dd0940d73b95fedd4e90"
 }
