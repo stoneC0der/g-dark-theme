@@ -8,6 +8,14 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 4.5.0
+
+[improvement] Contrast for some themes
+
+- G Dark Hacker
+- G Dark Haïti (High Contrast)
+- G Dark Shader (Haïti)
+
 ## 4.4.0
 
 [improvement] Input background
