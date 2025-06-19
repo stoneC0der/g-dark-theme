@@ -694,7 +694,7 @@
     "textLink.foreground": "#A342FF",
     "textLink.activeForeground": "#C792EA",
     "editorLineNumber.foreground": "#4a1e75",
-    "editorLineNumber.activeForeground": "#4d1685",
+    "editorLineNumber.activeForeground": "#8927ED",
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#23073F",
     "editorWhitespace.foreground": "#4e466680",
