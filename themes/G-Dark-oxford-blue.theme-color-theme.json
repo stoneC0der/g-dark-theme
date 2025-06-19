@@ -711,7 +711,7 @@
       ],
       "settings": {
         "foreground": "#a6d4f7"
-      }
+      } 
     }
   ],
   "colors": {
@@ -724,8 +724,8 @@
     "progressBar.background": "#7bcad8",
     "textLink.foreground": "#7bcad8",
     "textLink.activeForeground": "#a6d4f7",
-    "editorLineNumber.foreground": "#3b728e",
-    "editorLineNumber.activeForeground": "#d1d668",
+    "editorLineNumber.foreground": "#276379",
+    "editorLineNumber.activeForeground": "#59A8C5",
     "editorBracketMatch.border": "#67769660",
     "editorBracketMatch.background": "#232c32",
     "editorWhitespace.foreground": "#384e5ea9",
