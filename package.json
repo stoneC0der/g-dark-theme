@@ -2,7 +2,7 @@
 	"name": "g-dark-theme",
 	"displayName": "G Dark-Themes",
 	"description": "A set of dual/unique background themes design to help protect you're eyes while optimizing readability using common but beautiful color palettes uniquely",
-	"version": "4.5.1",
+	"version": "5.0.0",
 	"publisher": "StoneC0der",
 	"icon": "icon.png",
 	"engines": {
