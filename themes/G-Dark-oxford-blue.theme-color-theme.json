@@ -886,7 +886,7 @@
     "peekViewEditor.background": "#232c32d9",
     "peekViewTitle.background": "#232c32d9",
     "peekViewResult.background": "#232c32d9",
-    "peekViewResult.selectionBackground": "#607a8670",
+    "peekViewResult.selectionBackground": "#607a8615",
     "peekViewEditorGutter.background": "#232d32de",
     "peekViewTitleDescription.foreground": "#a6d4f7cb",
     "peekViewResult.matchHighlightBackground": "#366d8580",
