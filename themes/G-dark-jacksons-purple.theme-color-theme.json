@@ -697,15 +697,36 @@
     }
   ],
   "colors": {
+    // Base colors
     "focusBorder": "#4150999a",
+    "foreground":"#8599f1",
+    // "disabledForeground":"default", // NEW all disabled elements
+    // "widget.border":"default", // NEW border color of widget such find/replace inside editor
+    "widget.shadow": "#00000030", // shadow for above
+    "selection.background": "#768aeb79",
+    // "descriptionForeground":"default", // New Foreground color for description text providing additional information, for example for a label
+    // "errorForeground":"default", // Overall foreground color for error messages (this color is only used if not overridden by a component)
+    "icon.foreground": "#96a8f7",
+    "sash.hoverBorder": "#3f47a7",
+    // ./Base colors
+    
+    // Window border
+    "window.activeBorder": "#475388",
+    "window.inactiveBorder": "#282f4d",
+    // ./Window border
+
+    // Text colors
+    "textBlockQuote.border":"#8599f19a",
+    "textLink.foreground": "#adbdf6",
+    "textLink.activeForeground": "#8599f1",
+    "textCodeBlock.background":"#2a3670ae",
+    // ./Text colors
+    
     "editorCursor.foreground": "#f1e506",
     "editorRuler.foreground": "#2a3670",
     "scrollbar.shadow": "#2a3670",
     "editorLink.activeForeground": "#8599f1",
-    "selection.background": "#768aeb79",
     "progressBar.background": "#8599f1",
-    "textLink.foreground": "#8599f1",
-    "textLink.activeForeground": "#8599f1",
     "editorLineNumber.foreground": "#606fbd",
     "editorLineNumber.activeForeground": "#8C9FFF",
     "editorBracketMatch.border": "#67769660",
@@ -796,7 +817,6 @@
     "sideBarSectionHeader.foreground": "#afd6f3",
     "sideBarSectionHeader.background": "#2a3670",
     "sideBarSectionHeader.border": "#2A3A71",
-    "sash.hoverBorder": "#3f47a7",
     "minimap.background": "#2a3670e0",
     "input.background": "#2A3A71",
     "input.foreground": "#81b0d4",
@@ -837,7 +857,6 @@
     "scrollbarSlider.background": "#4a5a8a79",
     "scrollbarSlider.hoverBackground": "#394177c0",
     "scrollbarSlider.activeBackground": "#2b325ec0",
-    "widget.shadow": "#2a3670",
     "panel.border": "#252b38d3",
     "panel.background": "#2a3670",
     "panelTitle.inactiveForeground": "#6d7cbb",
@@ -910,9 +929,6 @@
     "listFilterWidget.outline": "#00000030",
     "listFilterWidget.noMatchesOutline": "#00000030",
     "tree.indentGuidesStroke": "#1f4e6b90",
-    "window.activeBorder": "#475388",
-    "window.inactiveBorder": "#282f4d",
-    "icon.foreground": "#96a8f7",
     "inputValidation.warningBackground": "#5968aa",
     "inputValidation.warningForeground": "#0f1429",
   }
