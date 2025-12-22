@@ -704,8 +704,8 @@
 
     // Text colors
     "textBlockQuote.border":"#0b587e9a",
-    "textLink.foreground": "#a6d4f7",
-    "textLink.activeForeground": "#229cd4",
+    "textLink.foreground": "#81b0d4",
+    "textLink.activeForeground": "#47A4CE",
     "textCodeBlock.background":"#00344aae",
     // ./Text colors
 
