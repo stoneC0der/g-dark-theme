@@ -974,6 +974,9 @@
     "editor.hoverHighlightBackground": "#02496d6f",
     "editor.lineHighlightBackground": "#07577933",
     // "editor.lineHighlightBorder":"#07577933",
+
+    // "editorUnicodeHighlight.background":"#7e0b0b",
+    // "editorUnicodeHighlight.border":"#c3e88d70",
     
     "editorLink.activeForeground": "#47A4CE",
 
@@ -1009,15 +1012,37 @@
 
     "editorCodeLens.foreground":"#999999",
 
-    "editorLightBulb.foreground":"#47A4CE",
-    "editorLightBulbAutoFix.foreground":"#47A4CE",
-    "editorLightBulbAi.foreground":"#ffcc00",
+    // "editorLightBulb.foreground":"#47A4CE",
+    // "editorLightBulbAutoFix.foreground":"#47A4CE",
+    // "editorLightBulbAi.foreground":"#ffcc00",
+    
+    // Bracket matches:
+    "editorBracketMatch.background": "#075779ad",
+    "editorBracketMatch.border": "#075779",
+    // Bracket pair colorization:
+    "editorBracketHighlight.foreground1":"#f4e486",
+    // "editorBracketHighlight.foreground2":"#de6fda",
+    // "editorBracketHighlight.foreground3":"#49bee5",
+    // "editorBracketHighlight.foreground4":"#9a4ee5",
+    // "editorBracketHighlight.foreground5":"#c87748",
+    // "editorBracketHighlight.foreground6":"#27cd9e",
+    "editorBracketHighlight.unexpectedBracket.foreground":"#f83b3bcc",
+    // Bracket pair guides: Default to bracket highlight color
 
-    // TODO: bracket colors
-
-    "editorBracketMatch.border": "#67769660",
-    "editorBracketMatch.background": "#00344A",
+    // Folding:
+    "editor.foldBackground":"#02496d46",
+    "editor.foldPlaceholderForeground":"#47A4CE",
+    // Overview ruler: other properties uses default.
     "editorOverviewRuler.border": "#00344A",
+    // Errors and warnings:
+    "editorError.foreground": "#ff5370cd",
+    "editorWarning.foreground": "#c4e88dcd",
+    "editorInfo.foreground": "#82aaffcd",
+    "editorHint.foreground":"#89ddffcd",
+    "problemsErrorIcon.foreground":"#ff5370b9",
+    "problemsWarningIcon.foreground":"#c4e88db9",
+    "problemsInfoIcon.foreground":"#82aaffb9",
+
     "editorHoverWidget.background": "#023650",
     "editorHoverWidget.border": "#FFFFFF10",
     "editorGutter.modifiedBackground": "#4e81ee60",
@@ -1028,8 +1053,6 @@
     "editorSuggestWidget.highlightForeground": "#075779",
     "editorSuggestWidget.selectedBackground": "#023047",
     "editorSuggestWidget.border": "#FFFFFF10",
-    "editorError.foreground": "#FF537070",
-    "editorWarning.foreground": "#C3E88D70",
     "editorWidget.background": "#00344A",
     "editorWidget.resizeBorder": "#075779",
     // "editorWidget.border": "",
