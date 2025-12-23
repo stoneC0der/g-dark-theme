@@ -824,7 +824,7 @@
     // Activity Bar
     "activityBar.background": "#00344A",
     "activityBar.dropBorder":"#075779",
-    "activityBar.foreground": "#075779",
+    "activityBar.foreground": "#47A4CE",
     "activityBar.inactiveForeground": "#01485c",
     "activityBar.border": "#00344A",
     "activityBarBadge.background": "#075779",
@@ -1017,7 +1017,7 @@
     // "editorLightBulbAi.foreground":"#ffcc00",
     
     // Bracket matches:
-    "editorBracketMatch.background": "#075779ad",
+    "editorBracketMatch.background": "#07577958",
     "editorBracketMatch.border": "#075779",
     // Bracket pair colorization:
     "editorBracketHighlight.foreground1":"#f4e486",
