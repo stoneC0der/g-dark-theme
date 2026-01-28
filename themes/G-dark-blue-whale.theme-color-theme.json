@@ -1137,12 +1137,25 @@
     "titleBar.border": "#00344A",
 
 
+    // Notification colors
+    "notificationCenter.border":"#00344A",
+    "notificationCenterHeader.foreground":"#47A4CE",
+    "notificationCenterHeader.background":"#00344A",
+    "notifications.foreground": "#a8d5f7",
+    "notifications.background": "#00344A",
+    "notificationToast.border":"#00344A",
+    "notificationLink.foreground": "#47A4CE",
+    "notificationsErrorIcon.foreground":"#ff5370b9",
+    "notificationsWarningIcon.foreground":"#e8e48db9",
+    "notificationsInfoIcon.foreground":"#82c1ffb9",
+
     // Breadcrumbs colors
     "breadcrumb.foreground": "#47A4CE",
     "breadcrumb.background": "#00344A",
     "breadcrumb.focusForeground": "#81b0d4",
     "breadcrumb.activeSelectionForeground": "#a6d4f7",
     "breadcrumbPicker.background": "#00344A",
+
     "debugToolBar.background": "#00344A",
     "debugConsole.errorForeground": "#eb4040",
     "debugConsole.infoForeground": "#15ace3",
@@ -1168,9 +1181,6 @@
     "terminal.ansiBrightYellow": "#eaf517",
     "terminal.background": "#00344A",
     "terminal.foreground": "#dcf2f7",
-    "notifications.background": "#00344A",
-    "notifications.foreground": "#95dcf3",
-    "notificationLink.foreground": "#47A4CE",
     "extensionButton.prominentBackground": "#096992",
     "extensionButton.prominentHoverBackground": "#07577970",
     "extensionButton.prominentForeground": "#a6d4f7",
