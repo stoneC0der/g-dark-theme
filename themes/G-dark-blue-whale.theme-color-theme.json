@@ -1136,6 +1136,13 @@
     "titleBar.inactiveForeground": "#47a3cec0",
     "titleBar.border": "#00344A",
 
+
+    // Breadcrumbs colors
+    "breadcrumb.foreground": "#47A4CE",
+    "breadcrumb.background": "#00344A",
+    "breadcrumb.focusForeground": "#81b0d4",
+    "breadcrumb.activeSelectionForeground": "#a6d4f7",
+    "breadcrumbPicker.background": "#00344A",
     "debugToolBar.background": "#00344A",
     "debugConsole.errorForeground": "#eb4040",
     "debugConsole.infoForeground": "#15ace3",
@@ -1183,11 +1190,6 @@
     "gitDecoration.modifiedResourceForeground": "#5D97FF",
     "gitDecoration.untrackedResourceForeground": "#88FFBD",
     "gitDecoration.ignoredResourceForeground": "#D2B0FF",
-    "breadcrumb.background": "#00354f",
-    "breadcrumb.foreground": "#489dba",
-    "breadcrumb.focusForeground": "#8bc3ee",
-    "breadcrumb.activeSelectionForeground": "#47A4CE",
-    "breadcrumbPicker.background": "#00354f",
     "menu.background": "#00344A",
     "menu.foreground": "#a6d4f7",
     "menu.selectionBackground": "#00000050",
