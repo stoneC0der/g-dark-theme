@@ -1149,6 +1149,15 @@
     "notificationsWarningIcon.foreground":"#e8e48db9",
     "notificationsInfoIcon.foreground":"#82c1ffb9",
 
+
+    // Keybinding label colors
+    "keybindingLabel.background":"#075779",
+    "keybindingLabel.foreground":"#a6d4f7",
+    "keybindingLabel.border":"#075779",
+    "keybindingLabel.bottomBorder":"#075779",
+    // Keyboard shortcut table colors
+    "keybindingTable.headerBackground":"#023c53",
+    "keybindingTable.rowsBackground":"#023c534e",
     // Breadcrumbs colors
     "breadcrumb.foreground": "#47A4CE",
     "breadcrumb.background": "#00344A",
