@@ -1122,12 +1122,19 @@
     "panelSectionHeader.border":"#023c53",
 
     
-    "statusBar.noFolderBackground": "#00344A",
     "statusBar.border": "#00344A",
     "statusBar.background": "#00344A",
     "statusBar.foreground": "#47A4CE",
-    "statusBar.debuggingBackground": "#076891",
-    "statusBar.debuggingForeground": "#d9e8f5",
+    "statusBar.debuggingBackground": "#075779",
+    "statusBar.debuggingForeground": "#a6d4f7",
+    "statusBar.noFolderBackground": "#00344A",
+    "statusBar.noFolderBorder":"#00344a",
+    "statusBar.noFolderForeground":"#47A4CE",
+    "statusBarItem.activeBackground":"#023c53",
+    "statusBarItem.hoverForeground":"#a6d4f7",
+    "statusBarItem.hoverBackground": "#023c53",
+    "statusBarItem.prominentForeground":"#a6d4f7",
+    "statusBarItem.prominentBackground":"#075779",
 
     // Title Bar colors
     "titleBar.activeBackground": "#00344A",
@@ -1198,13 +1205,9 @@
     "breadcrumb.activeSelectionForeground": "#a6d4f7",
     "breadcrumbPicker.background": "#00344A",
 
-    "debugToolBar.background": "#00344A",
-    "debugConsole.errorForeground": "#eb4040",
-    "debugConsole.infoForeground": "#15ace3",
-    "debugConsole.warningForeground": "#dedb2e",
-    "debugConsole.sourceForeground": "#29d763",
-    "debugConsoleInputIcon.foreground": "#df2394",
-    "statusBarItem.hoverBackground": "#546E7A20",
+    // Integrated Terminal colors
+    "terminal.background": "#00344A",
+    "terminal.foreground": "#a6d4f7",
     "terminal.ansiWhite": "#eee6e6",
     "terminal.ansiBlack": "#5d6b7d",
     "terminal.ansiBlue": "#4377e8",
