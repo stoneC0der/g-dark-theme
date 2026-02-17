@@ -1136,6 +1136,16 @@
     "titleBar.inactiveForeground": "#47a3cec0",
     "titleBar.border": "#00344A",
 
+    // Menu Bar colors TODO: edit in Windows or Linux
+    "menubar.selectionForeground": "#a6d4f7",
+    "menubar.selectionBackground": "#00344A",
+    "menubar.selectionBorder": "#023c53",
+    "menu.foreground": "#a6d4f7",
+    "menu.background": "#00344A",
+    "menu.selectionForeground": "#47A4CE",
+    "menu.selectionBackground": "#023c53",
+    "menu.separatorBackground": "#023c53",
+    "menu.selectionBorder": "#023c53",
 
     // Command Center colors
     "commandCenter.foreground":"#9cc2df",
@@ -1219,15 +1229,6 @@
     "gitDecoration.modifiedResourceForeground": "#5D97FF",
     "gitDecoration.untrackedResourceForeground": "#88FFBD",
     "gitDecoration.ignoredResourceForeground": "#D2B0FF",
-    "menu.background": "#00344A",
-    "menu.foreground": "#a6d4f7",
-    "menu.selectionBackground": "#00000050",
-    "menu.selectionForeground": "#47A4CE",
-    "menu.selectionBorder": "#00000030",
-    "menu.separatorBackground": "#a8d5f7",
-    "menubar.selectionBackground": "#0778a880",
-    "menubar.selectionForeground": "#a8d5f7",
-    "menubar.selectionBorder": "#00000030",
     "settings.dropdownForeground": "#a6d4f7",
     "settings.dropdownBackground": "#023c53",
     "settings.numberInputForeground": "#a6d4f7",
