@@ -1137,6 +1137,12 @@
     "titleBar.border": "#00344A",
 
 
+    // Command Center colors
+    "commandCenter.foreground":"#9cc2df",
+    "commandCenter.background":"#00344A",
+    "commandCenter.border":"#023c53",
+    "commandCenter.debuggingBackground":"#07689142",
+
     // Notification colors
     "notificationCenter.border":"#00344A",
     "notificationCenterHeader.foreground":"#47A4CE",
