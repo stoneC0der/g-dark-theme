@@ -1097,6 +1097,7 @@
     "peekViewTitle.background": "#023c53",
     "peekViewTitleDescription.foreground": "#6bbade",
     "peekViewTitleLabel.foreground":"#a6d4f7",
+    "pickerGroup.foreground": "#6bbade",
 
     // Merge conflicts colors
     "merge.currentHeaderBackground":"#40c8af2c",
@@ -1121,7 +1122,7 @@
     "panelSectionHeader.background":"#00344A",
     "panelSectionHeader.border":"#023c53",
 
-    
+    // Status Bar colors
     "statusBar.border": "#00344A",
     "statusBar.background": "#00344A",
     "statusBar.foreground": "#6bbade",
@@ -1159,6 +1160,7 @@
     "commandCenter.background":"#00344A",
     "commandCenter.border":"#023c53",
     "commandCenter.debuggingBackground":"#07689142",
+    "quickInput.background": "#023c53",
 
     // Notification colors
     "notificationCenter.border":"#00344A",
@@ -1203,7 +1205,7 @@
     "keybindingLabel.bottomBorder":"#075779",
     // Keyboard shortcut table colors
     "keybindingTable.headerBackground":"#023c53",
-    "keybindingTable.rowsBackground":"#023c534e",
+    // "keybindingTable.rowsBackground":"#023c534e",
     // Breadcrumbs colors
     "breadcrumb.foreground": "#6bbade",
     "breadcrumb.background": "#00344A",
@@ -1239,12 +1241,12 @@
     "debugConsole.sourceForeground": "#29d763",
     "debugConsoleInputIcon.foreground": "#df2394",
 
-    "pickerGroup.foreground": "#6bbade",
     "gitDecoration.deletedResourceForeground": "#FFA9B8",
     "gitDecoration.conflictingResourceForeground": "#FFE5B4",
     "gitDecoration.modifiedResourceForeground": "#5D97FF",
     "gitDecoration.untrackedResourceForeground": "#88FFBD",
     "gitDecoration.ignoredResourceForeground": "#D2B0FF",
+    
     "settings.dropdownForeground": "#a6d4f7",
     "settings.dropdownBackground": "#023c53",
     "settings.numberInputForeground": "#a6d4f7",
