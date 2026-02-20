@@ -1143,13 +1143,13 @@
     "titleBar.inactiveForeground": "#47a3cec0",
     "titleBar.border": "#00344A",
 
-    // Menu Bar colors TODO: edit in Windows or Linux
+    // Menu Bar colors
     "menubar.selectionForeground": "#a6d4f7",
-    "menubar.selectionBackground": "#00344A",
+    "menubar.selectionBackground": "#075779",
     "menubar.selectionBorder": "#023c53",
-    "menu.foreground": "#a6d4f7",
+    "menu.foreground": "#6bbade",
     "menu.background": "#00344A",
-    "menu.selectionForeground": "#6bbade",
+    "menu.selectionForeground": "#a6d4f7",
     "menu.selectionBackground": "#023c53",
     "menu.separatorBackground": "#023c53",
     "menu.selectionBorder": "#023c53",
