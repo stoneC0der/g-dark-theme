@@ -8,6 +8,18 @@ Thanks for the love, any suggestion is welcome
 
 **Note:** *I don't use every features & parts of vscode UI that is customizable as such some themes may not work well hence the regulars updates if you have an issue please report it so I can improve the themes, thanks.*
 
+## 5.1.0
+
+[improvement] Vue / HTML template coloring (all themes)
+
+- Quoted attribute values in `.vue` templates now use each theme's string color (no more stray red strings)
+- Vue directives and shorthands (`v-*`, `:`, `@`) get a dedicated accent, italic
+- Vue property / object-key names use each theme's variable color
+- Contrast: every syntax color now meets WCAG AA (4.5:1) against its editor background, comments 4:1. Biggest changes are the three light themes (Alice Blue, Glitter, Hint of Red), which still used dark-theme pastels
+- Near-identical syntax colors (ΔE < 4) merged into one per theme, for a more consistent palette
+- Newer VS Code components (chat, agents, testing, debug icons, symbol icons, notebook, inline edit, command center, charts, terminal find, tabs, overview ruler...) now take colors derived from each theme's own palette instead of VS Code defaults
+- Added `before-after.html`, a Vue rendering comparison of every theme (dev aid, excluded from the package)
+
 ## 5.0.1
 
 [improvement] Extensions button, badge
